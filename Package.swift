@@ -2,20 +2,20 @@
 import PackageDescription
 
 let package = Package(
-    name: "SWIFTOVSKE_KMP_ZAJEBANE",
+    name: "KMPCoreSwift",
     platforms: [
         .iOS(.v13)
     ],
     products: [
         .library(
-            name: "SWIFTOVSKE_KMP_ZAJEBANE",
-            targets: ["SWIFTOVSKE_KMP_ZAJEBANE"]
+            name: "KMPCoreSwift",
+            targets: ["KMPCoreSwift"]
         ),
     ],
     targets: [
         .binaryTarget(
-            name: "SWIFTOVSKE_KMP_ZAJEBANE",
-            path: "./SWIFTOVSKE_KMP_ZAJEBANE.xcframework"
+            name: "KMPCoreSwift",
+            path: "./KMPCoreSwift.xcframework"
         ),
     ]
 )

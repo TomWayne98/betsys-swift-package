@@ -1,6 +1,0 @@
-framework module kmpcorelib {
-    umbrella header "kmpcorelib.h"
-
-    export *
-    module * { export * }
-}
