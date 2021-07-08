@@ -145,9 +145,11 @@ __attribute__((swift_name("Koin_coreKoinComponent")))
 @end;
 
 __attribute__((objc_subclassing_restricted))
-__attribute__((swift_name("BSLibrary")))
-@interface KmpcorelibBSLibrary : KmpcorelibBase <KmpcorelibKoin_coreKoinComponent>
+__attribute__((swift_name("BSLib")))
+@interface KmpcorelibBSLib : KmpcorelibBase <KmpcorelibKoin_coreKoinComponent>
 - (instancetype)initWithPlatform:(id<KmpcorelibBSPlatform>)platform __attribute__((swift_name("init(platform:)"))) __attribute__((objc_designated_initializer));
+- (void)start __attribute__((swift_name("start()")));
+- (void)stop __attribute__((swift_name("stop()")));
 @property (readonly) id<KmpcorelibBettingRepo> betting __attribute__((swift_name("betting")));
 @property (readonly) id<KmpcorelibClientRepo> client __attribute__((swift_name("client")));
 @property (readonly) KmpcorelibCouponCreator *coupons __attribute__((swift_name("coupons")));
