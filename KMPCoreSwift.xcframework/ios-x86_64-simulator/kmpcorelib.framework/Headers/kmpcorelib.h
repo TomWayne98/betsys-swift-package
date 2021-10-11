@@ -6,9 +6,9 @@
 #import <Foundation/NSString.h>
 #import <Foundation/NSValue.h>
 
-@class KmpcorelibKoin_coreKoin, KmpcorelibCouponCreator, KmpcorelibBSDateTime, KmpcorelibTaskInfo<T>, KmpcorelibResponse<T>, KmpcorelibCommonFlow<T>, KmpcorelibLogger, KmpcorelibBaseRepo, KmpcorelibBSTicketResponse, KmpcorelibBSCoupon, KmpcorelibBSTicket, KmpcorelibBSTicketData, KmpcorelibClientApiImplLoginResponse, KmpcorelibBSBetType, KmpcorelibBSClientInfo, KmpcorelibBSBonusTurnover, KmpcorelibKotlinArray<T>, KmpcorelibSocketOptions, KmpcorelibKotlinx_serialization_jsonJsonElement, KmpcorelibSocketEvent<T>, KmpcorelibSocket, KmpcorelibKotlinUnit, KmpcorelibKotlinThrowable, KmpcorelibSocketOptionsTransport, KmpcorelibKotlinEnum<E>, KmpcorelibBSTicketRequest, KmpcorelibKtor_client_coreHttpClient, KmpcorelibBaseApiImplHTTPCall, KmpcorelibKotlinx_serialization_jsonJson, KmpcorelibKtor_httpHttpStatusCode, KmpcorelibBaseApiImpl, KmpcorelibBettingApiImplTicketStatusRequest, KmpcorelibClientApiImplLoginData, KmpcorelibJsonRpcRequest, KmpcorelibJsonRpcResponse<T>, KmpcorelibCombiGroup, KmpcorelibBSBetCreditSource, KmpcorelibBSBetDeposit, KmpcorelibBSBetError, KmpcorelibBSBetGroup, KmpcorelibBSOdd, KmpcorelibBignumBigDecimal, KmpcorelibBSBetType_, KmpcorelibBSBetSource, KmpcorelibBSBetCashout, KmpcorelibBSBetResult, KmpcorelibBSOddBSOddGroup, KmpcorelibWinResult, KmpcorelibKotlinPair<__covariant A, __covariant B>, KmpcorelibBSBetResultBSMaxiCombiResult, KmpcorelibBSBetResultBSSoloAkoResult, KmpcorelibBSBet, KmpcorelibBSLeague, KmpcorelibBSSport, KmpcorelibBSRegion, KmpcorelibBSMatch, KmpcorelibBSOppty, KmpcorelibBSOddState, KmpcorelibBSOpptyState, KmpcorelibBSStorageOrCommunicator, KmpcorelibBSTicketState, KmpcorelibBSDataSourceType, KmpcorelibBSEnvironmentType, KmpcorelibKtor_client_coreHttpClientConfig<T>, KmpcorelibCacheManagerCacheItem<T>, KmpcorelibBSErrorResponse, KmpcorelibBSTicketRequestBet, KmpcorelibBSTicketRequestToleration, KmpcorelibBSTicketRequestItem, KmpcorelibBSTicketRequestVerify, KmpcorelibBSTicketRequestType, KmpcorelibBSTicketResponseError, KmpcorelibBSTicketResponseParameters, KmpcorelibBet, KmpcorelibCashout, KmpcorelibError, KmpcorelibLeague, KmpcorelibMarket, KmpcorelibRegion, KmpcorelibResult, KmpcorelibSport, KmpcorelibEvent, KmpcorelibGroup, KmpcorelibParameters, KmpcorelibNewBetServerResponse, KmpcorelibOddItem, KmpcorelibPagination, KmpcorelibTicket, KmpcorelibTicketActiveResponse, KmpcorelibTicketDraftsResponse, KmpcorelibTicketSettledResponse, KmpcorelibVerify, KmpcorelibBignumDecimalMode, KmpcorelibBignumBigInteger, KmpcorelibBignumRoundingMode, KmpcorelibKoin_coreModule, KmpcorelibKoin_coreDefinitionParameters, KmpcorelibKoin_coreScope, KmpcorelibKotlinLazyThreadSafetyMode, KmpcorelibKoin_coreLogger, KmpcorelibKoin_corePropertyRegistry, KmpcorelibKoin_coreScopeRegistry, KmpcorelibKotlinCancellationException, KmpcorelibKtor_client_coreHttpClientEngineConfig, KmpcorelibKtor_client_coreHttpRequestBuilder, KmpcorelibKtor_client_coreHttpClientCall, KmpcorelibKotlinx_coroutines_coreCoroutineDispatcher, KmpcorelibKtor_client_coreHttpReceivePipeline, KmpcorelibKtor_client_coreHttpRequestPipeline, KmpcorelibKtor_client_coreHttpResponsePipeline, KmpcorelibKtor_client_coreHttpSendPipeline, KmpcorelibKotlinx_serialization_coreSerializersModule, KmpcorelibKotlinx_serialization_jsonJsonConfiguration, KmpcorelibKotlinx_serialization_coreSerialKind, KmpcorelibKotlinNothing, KmpcorelibKotlinException, KmpcorelibKotlinRuntimeException, KmpcorelibKotlinIllegalStateException, KmpcorelibKotlinByteArray, KmpcorelibBignumBigIntegerQuotientAndRemainder, KmpcorelibBignumBigIntegerBigIntegerRange, KmpcorelibBignumBigIntegerSqareRootAndRemainder, KmpcorelibBignumModularBigInteger, KmpcorelibKoin_coreBeanDefinition<T>, KmpcorelibKoin_coreOptions, KmpcorelibKoin_coreScopeDSL, KmpcorelibKoin_coreScopeDefinition, KmpcorelibKoin_coreLevel, KmpcorelibKtor_client_coreHttpRequestData, KmpcorelibKtor_client_coreHttpResponseData, KmpcorelibKtor_client_coreProxyConfig, KmpcorelibKtor_httpHeadersBuilder, KmpcorelibKtor_httpURLBuilder, KmpcorelibKtor_httpHttpMethod, KmpcorelibKtor_client_coreTypeInfo, KmpcorelibKtor_client_coreHttpResponse, KmpcorelibKtor_utilsAttributeKey<T>, KmpcorelibKotlinAbstractCoroutineContextElement, KmpcorelibKtor_utilsPipelinePhase, KmpcorelibKtor_utilsPipeline<TSubject, TContext>, KmpcorelibKtor_client_coreHttpResponseContainer, KmpcorelibKotlinByteIterator, KmpcorelibBignumModularQuotientAndRemainder, KmpcorelibKoin_coreKind, KmpcorelibKoin_coreProperties, KmpcorelibKoin_coreCallbacks<T>, KmpcorelibKotlinx_coroutines_coreAtomicDesc, KmpcorelibKotlinx_coroutines_coreLockFreeLinkedListNodePrepareOp, KmpcorelibKtor_httpUrl, KmpcorelibKtor_httpOutgoingContent, KmpcorelibKtor_utilsGMTDate, KmpcorelibKtor_httpHttpProtocolVersion, KmpcorelibKtor_utilsStringValuesBuilder, KmpcorelibKtor_httpURLProtocol, KmpcorelibKtor_httpParametersBuilder, KmpcorelibKtor_ioMemory, KmpcorelibKtor_ioIoBuffer, KmpcorelibKtor_ioByteReadPacket, KmpcorelibKtor_ioByteOrder, KmpcorelibKotlinx_coroutines_coreAtomicOp<__contravariant T>, KmpcorelibKotlinx_coroutines_coreOpDescriptor, KmpcorelibKotlinx_coroutines_coreLockFreeLinkedListNode, KmpcorelibKotlinx_coroutines_coreLockFreeLinkedListNodeAbstractAtomicDesc, KmpcorelibKtor_httpContentType, KmpcorelibKtor_utilsWeekDay, KmpcorelibKtor_utilsMonth, KmpcorelibKtor_httpUrlEncodingOption, KmpcorelibKtor_ioBuffer, KmpcorelibKtor_ioChunkBuffer, KmpcorelibKotlinCharArray, KmpcorelibKtor_ioAbstractInput, KmpcorelibKtor_ioByteReadPacketBase, KmpcorelibKtor_ioByteReadPacketPlatformBase, KmpcorelibKotlinKTypeProjection, KmpcorelibKotlinx_coroutines_coreLockFreeLinkedListNodeAddLastDesc<T>, KmpcorelibKotlinx_coroutines_coreLockFreeLinkedListNodeRemoveFirstDesc<T>, KmpcorelibKtor_httpHeaderValueParam, KmpcorelibKtor_httpHeaderValueWithParameters, KmpcorelibKotlinCharIterator, KmpcorelibKotlinKVariance;
+@class KmpcorelibKoin_coreKoin, KmpcorelibKoin_coreModule, KmpcorelibCouponCreator, KmpcorelibBSDateTime, KmpcorelibTaskInfo<T>, KmpcorelibResponse<T>, KmpcorelibCommonFlow<T>, KmpcorelibLogger, KmpcorelibBaseRepo, KmpcorelibBSTicketResponse, KmpcorelibBSCoupon, KmpcorelibBSTicket, KmpcorelibBSTicketData, KmpcorelibClientApiImplLoginResponse, KmpcorelibEmpty, KmpcorelibBSBetType, KmpcorelibBSClientInfo, KmpcorelibDatabaseFactory, KmpcorelibBSBonusTurnover, KmpcorelibKotlinArray<T>, KmpcorelibSocketOptions, KmpcorelibKotlinx_serialization_jsonJsonElement, KmpcorelibSocketEvent<T>, KmpcorelibSocket, KmpcorelibKotlinUnit, KmpcorelibKotlinThrowable, KmpcorelibSocketOptionsTransport, KmpcorelibKotlinEnum<E>, KmpcorelibBSTicketRequest, KmpcorelibKtor_client_coreHttpClient, KmpcorelibBaseApiImplHTTPCall, KmpcorelibKotlinx_serialization_jsonJson, KmpcorelibKtor_httpHttpStatusCode, KmpcorelibBaseApiImpl, KmpcorelibBettingApiImplTicketStatusRequest, KmpcorelibClientApiImplLoginData, KmpcorelibJsonRpcRequest, KmpcorelibJsonRpcResponse<T>, KmpcorelibCombiGroup, KmpcorelibBSBetCreditSource, KmpcorelibBSBetDeposit, KmpcorelibBSBetError, KmpcorelibBSBetGroup, KmpcorelibBSOdd, KmpcorelibBignumBigDecimal, KmpcorelibBSBetType_, KmpcorelibBSBetSource, KmpcorelibBSBetCashout, KmpcorelibBSBetResult, KmpcorelibBSOddBSOddGroup, KmpcorelibWinResult, KmpcorelibKotlinPair<__covariant A, __covariant B>, KmpcorelibBSBetResultBSMaxiCombiResult, KmpcorelibBSBetResultBSSoloAkoResult, KmpcorelibBSBet, KmpcorelibBSLeague, KmpcorelibBSSport, KmpcorelibBSRegion, KmpcorelibBSMatch, KmpcorelibBSOppty, KmpcorelibBSOddState, KmpcorelibBSOpptyState, KmpcorelibBSStorageOrCommunicator, KmpcorelibBSTicketState, KmpcorelibBSDataSourceType, KmpcorelibBSEnvironmentType, KmpcorelibKtor_client_coreHttpClientConfig<T>, KmpcorelibCacheManagerCacheItem<T>, KmpcorelibBSErrorResponse, KmpcorelibBSTicketRequestBet, KmpcorelibBSTicketRequestToleration, KmpcorelibBSTicketRequestItem, KmpcorelibBSTicketRequestVerify, KmpcorelibBSTicketRequestType, KmpcorelibBSTicketResponseError, KmpcorelibBSTicketResponseParameters, KmpcorelibBet, KmpcorelibCashout, KmpcorelibError, KmpcorelibLeague, KmpcorelibMarket, KmpcorelibRegion, KmpcorelibResult, KmpcorelibSport, KmpcorelibEvent, KmpcorelibGroup, KmpcorelibParameters, KmpcorelibNewBetServerResponse, KmpcorelibOddItem, KmpcorelibTicket, KmpcorelibTicketDraftsResponse, KmpcorelibTicketsResponse, KmpcorelibVerify, KmpcorelibKotlinx_datetimeInstant, KmpcorelibKotlinx_datetimeClockSystem, KmpcorelibKotlinx_datetimeMonth, KmpcorelibKotlinx_datetimeLocalDateTime, KmpcorelibKotlinx_datetimeLocalDate, KmpcorelibKotlinx_datetimeDayOfWeek, KmpcorelibBignumDecimalMode, KmpcorelibBignumBigInteger, KmpcorelibBignumRoundingMode, KmpcorelibKoin_coreDefinitionParameters, KmpcorelibKoin_coreScope, KmpcorelibKotlinLazyThreadSafetyMode, KmpcorelibKoin_coreLogger, KmpcorelibKoin_corePropertyRegistry, KmpcorelibKoin_coreScopeRegistry, KmpcorelibKoin_coreBeanDefinition<T>, KmpcorelibKoin_coreOptions, KmpcorelibKoin_coreScopeDSL, KmpcorelibKotlinCancellationException, KmpcorelibKtor_client_coreHttpClientEngineConfig, KmpcorelibKtor_client_coreHttpRequestBuilder, KmpcorelibKtor_client_coreHttpClientCall, KmpcorelibKotlinx_coroutines_coreCoroutineDispatcher, KmpcorelibKtor_client_coreHttpReceivePipeline, KmpcorelibKtor_client_coreHttpRequestPipeline, KmpcorelibKtor_client_coreHttpResponsePipeline, KmpcorelibKtor_client_coreHttpSendPipeline, KmpcorelibKotlinx_serialization_coreSerializersModule, KmpcorelibKotlinx_serialization_jsonJsonConfiguration, KmpcorelibKotlinx_serialization_coreSerialKind, KmpcorelibKotlinNothing, KmpcorelibKotlinException, KmpcorelibKotlinRuntimeException, KmpcorelibKotlinIllegalStateException, KmpcorelibKodein_db_apiKey<__covariant T>, KmpcorelibKotlinByteArray, KmpcorelibBignumBigIntegerQuotientAndRemainder, KmpcorelibBignumBigIntegerBigIntegerRange, KmpcorelibBignumBigIntegerSqareRootAndRemainder, KmpcorelibBignumModularBigInteger, KmpcorelibKoin_coreScopeDefinition, KmpcorelibKoin_coreLevel, KmpcorelibKoin_coreKind, KmpcorelibKoin_coreProperties, KmpcorelibKoin_coreCallbacks<T>, KmpcorelibKtor_client_coreHttpRequestData, KmpcorelibKtor_client_coreHttpResponseData, KmpcorelibKtor_client_coreProxyConfig, KmpcorelibKtor_httpHeadersBuilder, KmpcorelibKtor_httpURLBuilder, KmpcorelibKtor_httpHttpMethod, KmpcorelibKtor_client_coreTypeInfo, KmpcorelibKtor_client_coreHttpResponse, KmpcorelibKtor_utilsAttributeKey<T>, KmpcorelibKotlinAbstractCoroutineContextElement, KmpcorelibKtor_utilsPipelinePhase, KmpcorelibKtor_utilsPipeline<TSubject, TContext>, KmpcorelibKtor_client_coreHttpResponseContainer, KmpcorelibKodein_db_apiDBListenerBuilder<M>, KmpcorelibKotlinByteIterator, KmpcorelibBignumModularQuotientAndRemainder, KmpcorelibKotlinx_coroutines_coreAtomicDesc, KmpcorelibKotlinx_coroutines_coreLockFreeLinkedListNodePrepareOp, KmpcorelibKtor_httpUrl, KmpcorelibKtor_httpOutgoingContent, KmpcorelibKtor_utilsGMTDate, KmpcorelibKtor_httpHttpProtocolVersion, KmpcorelibKtor_utilsStringValuesBuilder, KmpcorelibKtor_httpURLProtocol, KmpcorelibKtor_httpParametersBuilder, KmpcorelibKtor_ioMemory, KmpcorelibKtor_ioIoBuffer, KmpcorelibKtor_ioByteReadPacket, KmpcorelibKtor_ioByteOrder, KmpcorelibKodein_db_apiDBListenerBuilderDidDelete<M>, KmpcorelibKodein_db_apiDBListenerBuilderDidPut<M>, KmpcorelibKodein_db_apiDBListenerBuilderWillDelete<M>, KmpcorelibKodein_db_apiDBListenerBuilderWillPut, KmpcorelibKotlinx_coroutines_coreAtomicOp<__contravariant T>, KmpcorelibKotlinx_coroutines_coreOpDescriptor, KmpcorelibKotlinx_coroutines_coreLockFreeLinkedListNode, KmpcorelibKotlinx_coroutines_coreLockFreeLinkedListNodeAbstractAtomicDesc, KmpcorelibKtor_httpContentType, KmpcorelibKtor_utilsWeekDay, KmpcorelibKtor_utilsMonth, KmpcorelibKtor_httpUrlEncodingOption, KmpcorelibKtor_ioBuffer, KmpcorelibKtor_ioChunkBuffer, KmpcorelibKotlinCharArray, KmpcorelibKtor_ioAbstractInput, KmpcorelibKtor_ioByteReadPacketBase, KmpcorelibKtor_ioByteReadPacketPlatformBase, KmpcorelibKotlinKTypeProjection, KmpcorelibKotlinx_coroutines_coreLockFreeLinkedListNodeAddLastDesc<T>, KmpcorelibKotlinx_coroutines_coreLockFreeLinkedListNodeRemoveFirstDesc<T>, KmpcorelibKtor_httpHeaderValueParam, KmpcorelibKtor_httpHeaderValueWithParameters, KmpcorelibKotlinCharIterator, KmpcorelibKotlinKVariance, KmpcorelibKodein_db_apiKeyAndSize<M>, KmpcorelibKodein_memoryMaybeThrowable, KmpcorelibKodein_leveldb_apiLevelDBWriteOptions, KmpcorelibKodein_leveldb_apiLevelDBReadOptions;
 
-@protocol KmpcorelibKoin_coreKoinComponent, KmpcorelibBSPlatform, KmpcorelibBettingRepo, KmpcorelibClientRepo, KmpcorelibOfferRepo, KmpcorelibRawRepo, KmpcorelibPreferencesManager, KmpcorelibKotlinx_serialization_coreKSerializer, KmpcorelibKotlinx_coroutines_coreFlow, KmpcorelibKotlinx_coroutines_coreChannel, KmpcorelibKotlinx_coroutines_coreCoroutineScope, KmpcorelibKotlinCoroutineContext, KmpcorelibBetGamesRepo, KmpcorelibBettingRepoImplOnResponseListener, KmpcorelibBettingApi, KmpcorelibClientApi, KmpcorelibLiveRepo, KmpcorelibPremRepo, KmpcorelibRawApi, KmpcorelibVirtualRepo, KmpcorelibSocketBuilder, KmpcorelibMapper, KmpcorelibKotlinComparable, KmpcorelibKotlinx_serialization_coreDeserializationStrategy, KmpcorelibJsonRpcClient, KmpcorelibKtor_httpHeaders, KmpcorelibGenericWebSocketEventListener, KmpcorelibKotlinx_serialization_coreEncoder, KmpcorelibKotlinx_serialization_coreSerialDescriptor, KmpcorelibKotlinx_serialization_coreSerializationStrategy, KmpcorelibKotlinx_serialization_coreDecoder, KmpcorelibKotlinx_coroutines_coreFlowCollector, KmpcorelibKtor_ioCloseable, KmpcorelibBignumBigNumber, KmpcorelibBignumBigNumberCreator, KmpcorelibKotlinKClass, KmpcorelibKoin_coreKoinScopeComponent, KmpcorelibKoin_coreQualifier, KmpcorelibKotlinLazy, KmpcorelibKotlinx_coroutines_coreSelectClause2, KmpcorelibKotlinx_coroutines_coreSendChannel, KmpcorelibKotlinx_coroutines_coreChannelIterator, KmpcorelibKotlinx_coroutines_coreSelectClause1, KmpcorelibKotlinx_coroutines_coreReceiveChannel, KmpcorelibKotlinCoroutineContextElement, KmpcorelibKotlinCoroutineContextKey, KmpcorelibKotlinIterator, KmpcorelibKtor_client_coreHttpClientEngine, KmpcorelibKtor_client_coreHttpClientEngineCapability, KmpcorelibKtor_utilsAttributes, KmpcorelibKotlinx_serialization_coreSerialFormat, KmpcorelibKotlinx_serialization_coreStringFormat, KmpcorelibKotlinMapEntry, KmpcorelibKtor_utilsStringValues, KmpcorelibKtor_client_coreHttpClientFeature, KmpcorelibKotlinx_serialization_coreCompositeEncoder, KmpcorelibKotlinAnnotation, KmpcorelibKotlinx_serialization_coreCompositeDecoder, KmpcorelibBignumBitwiseCapable, KmpcorelibBignumByteArraySerializable, KmpcorelibKotlinKDeclarationContainer, KmpcorelibKotlinKAnnotatedElement, KmpcorelibKotlinKClassifier, KmpcorelibKoin_coreScopeCallback, KmpcorelibKotlinx_coroutines_coreSelectInstance, KmpcorelibKotlinSuspendFunction1, KmpcorelibKtor_httpHttpMessageBuilder, KmpcorelibKotlinx_coroutines_coreJob, KmpcorelibKtor_ioByteReadChannel, KmpcorelibKtor_utilsTypeInfo, KmpcorelibKtor_client_coreHttpRequest, KmpcorelibKotlinContinuation, KmpcorelibKotlinContinuationInterceptor, KmpcorelibKotlinx_coroutines_coreRunnable, KmpcorelibKotlinSuspendFunction2, KmpcorelibKotlinx_serialization_coreSerializersModuleCollector, KmpcorelibKotlinClosedRange, KmpcorelibKotlinIterable, KmpcorelibKotlinx_coroutines_coreDisposableHandle, KmpcorelibKotlinFunction, KmpcorelibKotlinx_coroutines_coreChildHandle, KmpcorelibKotlinx_coroutines_coreChildJob, KmpcorelibKotlinSequence, KmpcorelibKotlinx_coroutines_coreSelectClause0, KmpcorelibKtor_ioReadSession, KmpcorelibKotlinAppendable, KmpcorelibKotlinKType, KmpcorelibKtor_httpHttpMessage, KmpcorelibKtor_httpParameters, KmpcorelibKotlinx_coroutines_coreParentJob, KmpcorelibKotlinSuspendFunction0, KmpcorelibKtor_ioObjectPool, KmpcorelibKtor_ioInput, KmpcorelibKtor_ioOutput;
+@protocol KmpcorelibKoin_coreKoinComponent, KmpcorelibBSPlatform, KmpcorelibBettingRepo, KmpcorelibClientRepo, KmpcorelibOfferRepo, KmpcorelibRawRepo, KmpcorelibPreferencesManager, KmpcorelibKotlinx_serialization_coreKSerializer, KmpcorelibKotlinx_coroutines_coreFlow, KmpcorelibKotlinx_coroutines_coreChannel, KmpcorelibKotlinx_coroutines_coreCoroutineScope, KmpcorelibKotlinCoroutineContext, KmpcorelibBetGamesRepo, KmpcorelibBettingRepoImplOnResponseListener, KmpcorelibBettingApi, KmpcorelibClientApi, KmpcorelibLiveRepo, KmpcorelibPremRepo, KmpcorelibRawApi, KmpcorelibVirtualRepo, KmpcorelibSocketBuilder, KmpcorelibMapper, KmpcorelibKotlinComparable, KmpcorelibKotlinx_serialization_coreDeserializationStrategy, KmpcorelibJsonRpcClient, KmpcorelibKtor_httpHeaders, KmpcorelibGenericWebSocketEventListener, KmpcorelibKotlinx_serialization_coreEncoder, KmpcorelibKotlinx_serialization_coreSerialDescriptor, KmpcorelibKotlinx_serialization_coreSerializationStrategy, KmpcorelibKotlinx_serialization_coreDecoder, KmpcorelibKotlinx_coroutines_coreFlowCollector, KmpcorelibKtor_ioCloseable, KmpcorelibKodein_db_apiDB, KmpcorelibKotlinx_datetimeClock, KmpcorelibBignumBigNumber, KmpcorelibBignumBigNumberCreator, KmpcorelibKotlinKClass, KmpcorelibKoin_coreKoinScopeComponent, KmpcorelibKoin_coreQualifier, KmpcorelibKotlinLazy, KmpcorelibKotlinx_coroutines_coreSelectClause2, KmpcorelibKotlinx_coroutines_coreSendChannel, KmpcorelibKotlinx_coroutines_coreChannelIterator, KmpcorelibKotlinx_coroutines_coreSelectClause1, KmpcorelibKotlinx_coroutines_coreReceiveChannel, KmpcorelibKotlinCoroutineContextElement, KmpcorelibKotlinCoroutineContextKey, KmpcorelibKotlinIterator, KmpcorelibKtor_client_coreHttpClientEngine, KmpcorelibKtor_client_coreHttpClientEngineCapability, KmpcorelibKtor_utilsAttributes, KmpcorelibKotlinx_serialization_coreSerialFormat, KmpcorelibKotlinx_serialization_coreStringFormat, KmpcorelibKotlinMapEntry, KmpcorelibKtor_utilsStringValues, KmpcorelibKtor_client_coreHttpClientFeature, KmpcorelibKotlinx_serialization_coreCompositeEncoder, KmpcorelibKotlinAnnotation, KmpcorelibKotlinx_serialization_coreCompositeDecoder, KmpcorelibKodein_db_apiOptionsDirectDelete, KmpcorelibKodein_db_apiBatch, KmpcorelibKodein_db_apiOptionsNewBatch, KmpcorelibKodein_db_apiSnapshot, KmpcorelibKodein_db_apiOptionsNewSnapshot, KmpcorelibKodein_db_apiDBRegisterDsl, KmpcorelibKodein_db_apiOptionsDirectPut, KmpcorelibKodein_db_apiDBReadFindDsl, KmpcorelibKodein_db_apiOptionsFind, KmpcorelibKodein_db_apiCursor, KmpcorelibKodein_db_apiOptionsGet, KmpcorelibKodein_db_apiOptionsPuts, KmpcorelibKodein_db_apiKeyMaker, KmpcorelibKodein_db_apiDBRead, KmpcorelibKodein_db_apiOptionsDeletes, KmpcorelibKodein_db_apiDBWrite, KmpcorelibKodein_memoryCloseable, KmpcorelibBignumBitwiseCapable, KmpcorelibBignumByteArraySerializable, KmpcorelibKotlinKDeclarationContainer, KmpcorelibKotlinKAnnotatedElement, KmpcorelibKotlinKClassifier, KmpcorelibKoin_coreScopeCallback, KmpcorelibKotlinx_coroutines_coreSelectInstance, KmpcorelibKotlinSuspendFunction1, KmpcorelibKtor_httpHttpMessageBuilder, KmpcorelibKotlinx_coroutines_coreJob, KmpcorelibKtor_ioByteReadChannel, KmpcorelibKtor_utilsTypeInfo, KmpcorelibKtor_client_coreHttpRequest, KmpcorelibKotlinContinuation, KmpcorelibKotlinContinuationInterceptor, KmpcorelibKotlinx_coroutines_coreRunnable, KmpcorelibKotlinSuspendFunction2, KmpcorelibKotlinx_serialization_coreSerializersModuleCollector, KmpcorelibKodein_memoryReadMemory, KmpcorelibKodein_db_apiOptions, KmpcorelibKodein_db_apiOptionsBatchDelete, KmpcorelibKodein_db_apiOptionsBatchPut, KmpcorelibKodein_db_apiOptionsBatchWrite, KmpcorelibKodein_db_apiDBListener, KmpcorelibKodein_db_apiBaseCursor, KmpcorelibKotlinClosedRange, KmpcorelibKotlinIterable, KmpcorelibKotlinx_coroutines_coreDisposableHandle, KmpcorelibKotlinFunction, KmpcorelibKotlinx_coroutines_coreChildHandle, KmpcorelibKotlinx_coroutines_coreChildJob, KmpcorelibKotlinSequence, KmpcorelibKotlinx_coroutines_coreSelectClause0, KmpcorelibKtor_ioReadSession, KmpcorelibKotlinAppendable, KmpcorelibKotlinKType, KmpcorelibKtor_httpHttpMessage, KmpcorelibKodein_db_apiMetadata, KmpcorelibKtor_httpParameters, KmpcorelibKotlinx_coroutines_coreParentJob, KmpcorelibKotlinSuspendFunction0, KmpcorelibKtor_ioObjectPool, KmpcorelibKtor_ioInput, KmpcorelibKtor_ioOutput, KmpcorelibKodein_db_apiModelDB, KmpcorelibKodein_db_apiHasMetadata, KmpcorelibKodein_db_apiExtensionKey, KmpcorelibKodein_db_apiModelBatch, KmpcorelibKodein_db_apiModelSnapshot, KmpcorelibKodein_db_apiDataDB, KmpcorelibKodein_db_apiValue, KmpcorelibKodein_db_apiValueMaker, KmpcorelibKodein_db_apiModelWrite, KmpcorelibKodein_db_apiModelCursor, KmpcorelibKodein_db_apiModelIndexCursor, KmpcorelibKodein_db_apiSized, KmpcorelibKodein_db_apiModelRead, KmpcorelibKodein_db_apiTypeTable, KmpcorelibKodein_db_apiModelTypeMatcher, KmpcorelibKodein_db_apiDataSnapshot, KmpcorelibKodein_db_apiDataBatch, KmpcorelibKodein_db_apiBody, KmpcorelibKodein_db_apiKeyValueDB, KmpcorelibKodein_db_apiDataKeyMaker, KmpcorelibKodein_db_apiDataWrite, KmpcorelibKodein_db_apiDataCursor, KmpcorelibKodein_db_apiDataIndexCursor, KmpcorelibKodein_memoryReadAllocation, KmpcorelibKodein_db_apiDataRead, KmpcorelibKodein_memoryWriteable, KmpcorelibKodein_db_apiOptionsOpen, KmpcorelibKodein_db_apiKeyValueBatch, KmpcorelibKodein_db_apiKeyValueSnapshot, KmpcorelibKodein_leveldb_apiLevelDB, KmpcorelibKodein_memoryAllocation, KmpcorelibKodein_db_apiKeyValueCursor, KmpcorelibKodein_db_apiKeyValueRead, KmpcorelibKodein_db_apiKeyValueWrite, KmpcorelibKodein_memoryReadable, KmpcorelibKodein_leveldb_apiLevelDBCursor, KmpcorelibKodein_leveldb_apiLevelDBSnapshot, KmpcorelibKodein_leveldb_apiLevelDBWriteBatch, KmpcorelibKodein_memoryMemory;
 
 NS_ASSUME_NONNULL_BEGIN
 #pragma clang diagnostic push
@@ -147,7 +147,7 @@ __attribute__((swift_name("Koin_coreKoinComponent")))
 __attribute__((objc_subclassing_restricted))
 __attribute__((swift_name("BSLib")))
 @interface KmpcorelibBSLib : KmpcorelibBase <KmpcorelibKoin_coreKoinComponent>
-- (instancetype)initWithPlatform:(id<KmpcorelibBSPlatform>)platform __attribute__((swift_name("init(platform:)"))) __attribute__((objc_designated_initializer));
+- (instancetype)initWithPlatform:(id<KmpcorelibBSPlatform>)platform androidClientModules:(NSMutableArray<KmpcorelibKoin_coreModule *> *)androidClientModules __attribute__((swift_name("init(platform:androidClientModules:)"))) __attribute__((objc_designated_initializer));
 - (void)start __attribute__((swift_name("start()")));
 - (void)stop __attribute__((swift_name("stop()")));
 @property (readonly) id<KmpcorelibBettingRepo> betting __attribute__((swift_name("betting")));
@@ -175,6 +175,7 @@ __attribute__((swift_name("BSDateTime")))
 - (instancetype)init __attribute__((swift_name("init()"))) __attribute__((objc_designated_initializer));
 + (instancetype)new __attribute__((availability(swift, unavailable, message="use object initializers instead")));
 - (int64_t)toEpochMilliseconds __attribute__((swift_name("toEpochMilliseconds()")));
+- (int64_t)toEpochSeconds __attribute__((swift_name("toEpochSeconds()")));
 - (NSString *)description __attribute__((swift_name("description()")));
 - (NSString *)toText __attribute__((swift_name("toText()")));
 @end;
@@ -215,6 +216,24 @@ __attribute__((swift_name("TaskInfo")))
 - (NSString *)description __attribute__((swift_name("description()")));
 @property (readonly) KmpcorelibCommonFlow<KmpcorelibResponse<T> *> *commonFlow __attribute__((swift_name("commonFlow")));
 @property (readonly) id<KmpcorelibKotlinx_coroutines_coreFlow> flow __attribute__((swift_name("flow")));
+@end;
+
+__attribute__((objc_subclassing_restricted))
+__attribute__((swift_name("UATSuffixFormatter")))
+@interface KmpcorelibUATSuffixFormatter : KmpcorelibBase
+- (instancetype)init __attribute__((swift_name("init()"))) __attribute__((objc_designated_initializer));
++ (instancetype)new __attribute__((availability(swift, unavailable, message="use object initializers instead")));
+- (NSString *)formatUatString:(NSString * _Nullable)uatString __attribute__((swift_name("format(uatString:)")));
+@end;
+
+__attribute__((objc_subclassing_restricted))
+__attribute__((swift_name("UATSuffixFormatter.Companion")))
+@interface KmpcorelibUATSuffixFormatterCompanion : KmpcorelibBase
++ (instancetype)alloc __attribute__((unavailable));
++ (instancetype)allocWithZone:(struct _NSZone *)zone __attribute__((unavailable));
++ (instancetype)companion __attribute__((swift_name("init()")));
+@property (readonly) int32_t TWO_DIGIT_LENGTH __attribute__((swift_name("TWO_DIGIT_LENGTH")));
+@property (readonly) NSString *baseURL __attribute__((swift_name("baseURL")));
 @end;
 
 __attribute__((objc_subclassing_restricted))
@@ -270,6 +289,7 @@ __attribute__((swift_name("BettingRepoImpl")))
 - (void)acceptNewValueIOSPAccept:(BOOL)pAccept onResponseListener:(id<KmpcorelibBettingRepoImplOnResponseListener>)onResponseListener __attribute__((swift_name("acceptNewValueIOS(pAccept:onResponseListener:)")));
 - (KmpcorelibTaskInfo<KmpcorelibBSTicketResponse *> *)betAndroidCoupon:(KmpcorelibBSCoupon *)coupon __attribute__((swift_name("betAndroid(coupon:)")));
 - (void)betIOSCoupon:(KmpcorelibBSCoupon *)coupon onResponseListener:(id<KmpcorelibBettingRepoImplOnResponseListener>)onResponseListener __attribute__((swift_name("betIOS(coupon:onResponseListener:)")));
+- (KmpcorelibResponse<KmpcorelibBSTicketResponse *> *)parseTicketResponseResponse:(KmpcorelibResponse<NSString *> *)response __attribute__((swift_name("parseTicketResponse(response:)")));
 @property (readonly) id<KmpcorelibBettingApi> api __attribute__((swift_name("api")));
 @property (readonly) id<KmpcorelibBSPlatform> platform __attribute__((swift_name("platform")));
 @property NSString * _Nullable requestUUID __attribute__((swift_name("requestUUID")));
@@ -287,6 +307,7 @@ __attribute__((swift_name("BettingRepoImpl.Companion")))
 @property (readonly) int32_t STATUS_TICKET_DELAYED __attribute__((swift_name("STATUS_TICKET_DELAYED")));
 @property (readonly) NSString *TICKET_RECEIVED __attribute__((swift_name("TICKET_RECEIVED")));
 @property (readonly) int64_t TICKET_STATUS_DELAY __attribute__((swift_name("TICKET_STATUS_DELAY")));
+@property (readonly) NSString *TICKET_STATUS_DELAYED __attribute__((swift_name("TICKET_STATUS_DELAYED")));
 @property (readonly) int64_t TICKET_STATUS_NEXT __attribute__((swift_name("TICKET_STATUS_NEXT")));
 @property (readonly) NSString *TICKET_STATUS_REJECTED __attribute__((swift_name("TICKET_STATUS_REJECTED")));
 @property (readonly) NSString *TICKET_STATUS_SAVED __attribute__((swift_name("TICKET_STATUS_SAVED")));
@@ -305,8 +326,11 @@ __attribute__((swift_name("ClientRepo")))
 - (KmpcorelibTaskInfo<KmpcorelibBSTicketData *> *)getTicketsActive __attribute__((swift_name("getTicketsActive()")));
 - (KmpcorelibTaskInfo<NSArray<KmpcorelibBSTicket *> *> *)getTicketsDraftsDraftsTicketsId:(NSString * _Nullable)draftsTicketsId __attribute__((swift_name("getTicketsDrafts(draftsTicketsId:)")));
 - (KmpcorelibTaskInfo<KmpcorelibBSTicketData *> *)getTicketsSettledPage:(int32_t)page __attribute__((swift_name("getTicketsSettled(page:)")));
+- (id<KmpcorelibKotlinx_coroutines_coreFlow>)getTicketsUpdatedFrom:(NSString *)from __attribute__((swift_name("getTicketsUpdated(from:)")));
 - (KmpcorelibTaskInfo<KmpcorelibClientApiImplLoginResponse *> *)loginUser:(NSString *)user pswd:(NSString *)pswd __attribute__((swift_name("login(user:pswd:)")));
 - (void)logout __attribute__((swift_name("logout()")));
+- (KmpcorelibTaskInfo<KmpcorelibEmpty *> *)ticketHideAllDrafts __attribute__((swift_name("ticketHideAllDrafts()")));
+- (KmpcorelibTaskInfo<KmpcorelibEmpty *> *)ticketHideDraftDraftTicketId:(NSString *)draftTicketId __attribute__((swift_name("ticketHideDraft(draftTicketId:)")));
 - (KmpcorelibTaskInfo<KmpcorelibBoolean *> *)useStorageOrCommunicatorBetType:(KmpcorelibBSBetType *)betType oddsNumber:(int32_t)oddsNumber __attribute__((swift_name("useStorageOrCommunicator(betType:oddsNumber:)")));
 @property (readonly) KmpcorelibBSClientInfo *info __attribute__((swift_name("info")));
 @property (readonly) BOOL isLogged __attribute__((swift_name("isLogged")));
@@ -315,15 +339,18 @@ __attribute__((swift_name("ClientRepo")))
 __attribute__((objc_subclassing_restricted))
 __attribute__((swift_name("ClientRepoImpl")))
 @interface KmpcorelibClientRepoImpl : KmpcorelibBaseRepo <KmpcorelibClientRepo>
-- (instancetype)initWithClientApi:(id<KmpcorelibClientApi>)clientApi __attribute__((swift_name("init(clientApi:)"))) __attribute__((objc_designated_initializer));
+- (instancetype)initWithClientApi:(id<KmpcorelibClientApi>)clientApi platform:(id<KmpcorelibBSPlatform>)platform dbFactory:(KmpcorelibDatabaseFactory *)dbFactory __attribute__((swift_name("init(clientApi:platform:dbFactory:)"))) __attribute__((objc_designated_initializer));
 - (instancetype)init __attribute__((swift_name("init()"))) __attribute__((objc_designated_initializer)) __attribute__((unavailable));
 + (instancetype)new __attribute__((unavailable));
 - (KmpcorelibTaskInfo<KmpcorelibBSTicket *> *)getTicketDetailTicketNumber:(NSString *)ticketNumber __attribute__((swift_name("getTicketDetail(ticketNumber:)")));
 - (KmpcorelibTaskInfo<KmpcorelibBSTicketData *> *)getTicketsActive __attribute__((swift_name("getTicketsActive()")));
 - (KmpcorelibTaskInfo<NSArray<KmpcorelibBSTicket *> *> *)getTicketsDraftsDraftsTicketsId:(NSString * _Nullable)draftsTicketsId __attribute__((swift_name("getTicketsDrafts(draftsTicketsId:)")));
 - (KmpcorelibTaskInfo<KmpcorelibBSTicketData *> *)getTicketsSettledPage:(int32_t)page __attribute__((swift_name("getTicketsSettled(page:)")));
+- (id<KmpcorelibKotlinx_coroutines_coreFlow>)getTicketsUpdatedFrom:(NSString *)from __attribute__((swift_name("getTicketsUpdated(from:)")));
 - (KmpcorelibTaskInfo<KmpcorelibClientApiImplLoginResponse *> *)loginUser:(NSString *)user pswd:(NSString *)pswd __attribute__((swift_name("login(user:pswd:)")));
 - (void)logout __attribute__((swift_name("logout()")));
+- (KmpcorelibTaskInfo<KmpcorelibEmpty *> *)ticketHideAllDrafts __attribute__((swift_name("ticketHideAllDrafts()")));
+- (KmpcorelibTaskInfo<KmpcorelibEmpty *> *)ticketHideDraftDraftTicketId:(NSString *)draftTicketId __attribute__((swift_name("ticketHideDraft(draftTicketId:)")));
 - (KmpcorelibTaskInfo<KmpcorelibBoolean *> *)useStorageOrCommunicatorBetType:(KmpcorelibBSBetType *)betType oddsNumber:(int32_t)oddsNumber __attribute__((swift_name("useStorageOrCommunicator(betType:oddsNumber:)")));
 @property (readonly) KmpcorelibBSClientInfo *info __attribute__((swift_name("info")));
 @property (readonly) BOOL isLogged __attribute__((swift_name("isLogged")));
@@ -439,6 +466,8 @@ __attribute__((swift_name("SocketBuilder")))
 
 __attribute__((swift_name("SocketEvent")))
 @interface KmpcorelibSocketEvent<T> : KmpcorelibBase <KmpcorelibMapper>
+- (instancetype)init __attribute__((swift_name("init()"))) __attribute__((objc_designated_initializer));
++ (instancetype)new __attribute__((availability(swift, unavailable, message="use object initializers instead")));
 @property (readonly) NSArray<NSString *> *socketIoEvents __attribute__((swift_name("socketIoEvents")));
 @end;
 
@@ -447,6 +476,8 @@ __attribute__((swift_name("SocketEventConnect")))
 @interface KmpcorelibSocketEventConnect : KmpcorelibSocketEvent<KmpcorelibKotlinUnit *> <KmpcorelibMapper>
 + (instancetype)alloc __attribute__((unavailable));
 + (instancetype)allocWithZone:(struct _NSZone *)zone __attribute__((unavailable));
+- (instancetype)init __attribute__((swift_name("init()"))) __attribute__((objc_designated_initializer)) __attribute__((unavailable));
++ (instancetype)new __attribute__((unavailable));
 + (instancetype)connect __attribute__((swift_name("init()")));
 - (KmpcorelibKotlinUnit *)mapperArray:(KmpcorelibKotlinArray<id> *)array __attribute__((swift_name("mapper(array:)")));
 @property (readonly) NSArray<NSString *> *socketIoEvents __attribute__((swift_name("socketIoEvents")));
@@ -457,6 +488,8 @@ __attribute__((swift_name("SocketEventConnecting")))
 @interface KmpcorelibSocketEventConnecting : KmpcorelibSocketEvent<KmpcorelibKotlinUnit *> <KmpcorelibMapper>
 + (instancetype)alloc __attribute__((unavailable));
 + (instancetype)allocWithZone:(struct _NSZone *)zone __attribute__((unavailable));
+- (instancetype)init __attribute__((swift_name("init()"))) __attribute__((objc_designated_initializer)) __attribute__((unavailable));
++ (instancetype)new __attribute__((unavailable));
 + (instancetype)connecting __attribute__((swift_name("init()")));
 - (KmpcorelibKotlinUnit *)mapperArray:(KmpcorelibKotlinArray<id> *)array __attribute__((swift_name("mapper(array:)")));
 @property (readonly) NSArray<NSString *> *socketIoEvents __attribute__((swift_name("socketIoEvents")));
@@ -467,6 +500,8 @@ __attribute__((swift_name("SocketEventDisconnect")))
 @interface KmpcorelibSocketEventDisconnect : KmpcorelibSocketEvent<KmpcorelibKotlinUnit *> <KmpcorelibMapper>
 + (instancetype)alloc __attribute__((unavailable));
 + (instancetype)allocWithZone:(struct _NSZone *)zone __attribute__((unavailable));
+- (instancetype)init __attribute__((swift_name("init()"))) __attribute__((objc_designated_initializer)) __attribute__((unavailable));
++ (instancetype)new __attribute__((unavailable));
 + (instancetype)disconnect __attribute__((swift_name("init()")));
 - (KmpcorelibKotlinUnit *)mapperArray:(KmpcorelibKotlinArray<id> *)array __attribute__((swift_name("mapper(array:)")));
 @property (readonly) NSArray<NSString *> *socketIoEvents __attribute__((swift_name("socketIoEvents")));
@@ -477,6 +512,8 @@ __attribute__((swift_name("SocketEventError")))
 @interface KmpcorelibSocketEventError : KmpcorelibSocketEvent<KmpcorelibKotlinThrowable *>
 + (instancetype)alloc __attribute__((unavailable));
 + (instancetype)allocWithZone:(struct _NSZone *)zone __attribute__((unavailable));
+- (instancetype)init __attribute__((swift_name("init()"))) __attribute__((objc_designated_initializer)) __attribute__((unavailable));
++ (instancetype)new __attribute__((unavailable));
 + (instancetype)error __attribute__((swift_name("init()")));
 - (KmpcorelibKotlinThrowable *)mapperArray:(KmpcorelibKotlinArray<id> *)array __attribute__((swift_name("mapper(array:)")));
 @property (readonly) NSArray<NSString *> *socketIoEvents __attribute__((swift_name("socketIoEvents")));
@@ -487,6 +524,8 @@ __attribute__((swift_name("SocketEventMessage")))
 @interface KmpcorelibSocketEventMessage : KmpcorelibSocketEvent<id>
 + (instancetype)alloc __attribute__((unavailable));
 + (instancetype)allocWithZone:(struct _NSZone *)zone __attribute__((unavailable));
+- (instancetype)init __attribute__((swift_name("init()"))) __attribute__((objc_designated_initializer)) __attribute__((unavailable));
++ (instancetype)new __attribute__((unavailable));
 + (instancetype)message __attribute__((swift_name("init()")));
 - (id)mapperArray:(KmpcorelibKotlinArray<id> *)array __attribute__((swift_name("mapper(array:)")));
 @property (readonly) NSArray<NSString *> *socketIoEvents __attribute__((swift_name("socketIoEvents")));
@@ -497,6 +536,8 @@ __attribute__((swift_name("SocketEventPing")))
 @interface KmpcorelibSocketEventPing : KmpcorelibSocketEvent<KmpcorelibKotlinUnit *> <KmpcorelibMapper>
 + (instancetype)alloc __attribute__((unavailable));
 + (instancetype)allocWithZone:(struct _NSZone *)zone __attribute__((unavailable));
+- (instancetype)init __attribute__((swift_name("init()"))) __attribute__((objc_designated_initializer)) __attribute__((unavailable));
++ (instancetype)new __attribute__((unavailable));
 + (instancetype)ping __attribute__((swift_name("init()")));
 - (KmpcorelibKotlinUnit *)mapperArray:(KmpcorelibKotlinArray<id> *)array __attribute__((swift_name("mapper(array:)")));
 @property (readonly) NSArray<NSString *> *socketIoEvents __attribute__((swift_name("socketIoEvents")));
@@ -507,6 +548,8 @@ __attribute__((swift_name("SocketEventPong")))
 @interface KmpcorelibSocketEventPong : KmpcorelibSocketEvent<KmpcorelibKotlinUnit *> <KmpcorelibMapper>
 + (instancetype)alloc __attribute__((unavailable));
 + (instancetype)allocWithZone:(struct _NSZone *)zone __attribute__((unavailable));
+- (instancetype)init __attribute__((swift_name("init()"))) __attribute__((objc_designated_initializer)) __attribute__((unavailable));
++ (instancetype)new __attribute__((unavailable));
 + (instancetype)pong __attribute__((swift_name("init()")));
 - (KmpcorelibKotlinUnit *)mapperArray:(KmpcorelibKotlinArray<id> *)array __attribute__((swift_name("mapper(array:)")));
 @property (readonly) NSArray<NSString *> *socketIoEvents __attribute__((swift_name("socketIoEvents")));
@@ -517,6 +560,8 @@ __attribute__((swift_name("SocketEventReconnect")))
 @interface KmpcorelibSocketEventReconnect : KmpcorelibSocketEvent<KmpcorelibKotlinUnit *> <KmpcorelibMapper>
 + (instancetype)alloc __attribute__((unavailable));
 + (instancetype)allocWithZone:(struct _NSZone *)zone __attribute__((unavailable));
+- (instancetype)init __attribute__((swift_name("init()"))) __attribute__((objc_designated_initializer)) __attribute__((unavailable));
++ (instancetype)new __attribute__((unavailable));
 + (instancetype)reconnect __attribute__((swift_name("init()")));
 - (KmpcorelibKotlinUnit *)mapperArray:(KmpcorelibKotlinArray<id> *)array __attribute__((swift_name("mapper(array:)")));
 @property (readonly) NSArray<NSString *> *socketIoEvents __attribute__((swift_name("socketIoEvents")));
@@ -527,6 +572,8 @@ __attribute__((swift_name("SocketEventReconnectAttempt")))
 @interface KmpcorelibSocketEventReconnectAttempt : KmpcorelibSocketEvent<KmpcorelibInt *>
 + (instancetype)alloc __attribute__((unavailable));
 + (instancetype)allocWithZone:(struct _NSZone *)zone __attribute__((unavailable));
+- (instancetype)init __attribute__((swift_name("init()"))) __attribute__((objc_designated_initializer)) __attribute__((unavailable));
++ (instancetype)new __attribute__((unavailable));
 + (instancetype)reconnectAttempt __attribute__((swift_name("init()")));
 - (KmpcorelibInt *)mapperArray:(KmpcorelibKotlinArray<id> *)array __attribute__((swift_name("mapper(array:)")));
 @property (readonly) NSArray<NSString *> *socketIoEvents __attribute__((swift_name("socketIoEvents")));
@@ -590,7 +637,7 @@ __attribute__((swift_name("BettingApi")))
 __attribute__((swift_name("BaseApiImpl")))
 @interface KmpcorelibBaseApiImpl : KmpcorelibBase <KmpcorelibKoin_coreKoinComponent>
 - (instancetype)initWithPlatform:(id<KmpcorelibBSPlatform>)platform httpClient:(KmpcorelibKtor_client_coreHttpClient *)httpClient __attribute__((swift_name("init(platform:httpClient:)"))) __attribute__((objc_designated_initializer));
-- (id<KmpcorelibKotlinx_coroutines_coreFlow>)callUrl:(NSString *)url deserializationStrategy:(id<KmpcorelibKotlinx_serialization_coreDeserializationStrategy>)deserializationStrategy callType:(KmpcorelibBaseApiImplHTTPCall *)callType requestBody:(id _Nullable)requestBody pars:(NSDictionary<NSString *, id> * _Nullable)pars headers:(NSDictionary<NSString *, NSString *> * _Nullable)headers __attribute__((swift_name("call(url:deserializationStrategy:callType:requestBody:pars:headers:)")));
+- (id<KmpcorelibKotlinx_coroutines_coreFlow>)callUrl:(NSString *)url deserializationStrategy:(id<KmpcorelibKotlinx_serialization_coreDeserializationStrategy>)deserializationStrategy callType:(KmpcorelibBaseApiImplHTTPCall *)callType requestBody:(id _Nullable)requestBody pars:(NSDictionary<NSString *, id> * _Nullable)pars path:(NSString * _Nullable)path headers:(NSDictionary<NSString *, NSString *> * _Nullable)headers __attribute__((swift_name("call(url:deserializationStrategy:callType:requestBody:pars:path:headers:)")));
 @property (readonly) KmpcorelibKtor_client_coreHttpClient *httpClient __attribute__((swift_name("httpClient")));
 @property (readonly) KmpcorelibKotlinx_serialization_jsonJson *jsonParser __attribute__((swift_name("jsonParser")));
 @property (readonly) KmpcorelibLogger *logger __attribute__((swift_name("logger")));
@@ -671,7 +718,10 @@ __attribute__((swift_name("ClientApi")))
 - (id<KmpcorelibKotlinx_coroutines_coreFlow>)getTicketsActive __attribute__((swift_name("getTicketsActive()")));
 - (id<KmpcorelibKotlinx_coroutines_coreFlow>)getTicketsDraftsDraftTicketsId:(NSString * _Nullable)draftTicketsId __attribute__((swift_name("getTicketsDrafts(draftTicketsId:)")));
 - (id<KmpcorelibKotlinx_coroutines_coreFlow>)getTicketsSettledPage:(int32_t)page size:(int32_t)size __attribute__((swift_name("getTicketsSettled(page:size:)")));
+- (id<KmpcorelibKotlinx_coroutines_coreFlow>)getTicketsUpdatedFrom:(NSString *)from page:(int32_t)page size:(int32_t)size __attribute__((swift_name("getTicketsUpdated(from:page:size:)")));
 - (id<KmpcorelibKotlinx_coroutines_coreFlow>)loginUserInput:(KmpcorelibClientApiImplLoginData *)input __attribute__((swift_name("loginUser(input:)")));
+- (id<KmpcorelibKotlinx_coroutines_coreFlow>)ticketHideAllDrafts __attribute__((swift_name("ticketHideAllDrafts()")));
+- (id<KmpcorelibKotlinx_coroutines_coreFlow>)ticketHideDraftDraftTicketId_:(NSString * _Nullable)draftTicketId __attribute__((swift_name("ticketHideDraft(draftTicketId_:)")));
 - (id<KmpcorelibKotlinx_coroutines_coreFlow>)useStorageOrCommunicatorBetType:(NSString *)betType itemCount:(int32_t)itemCount __attribute__((swift_name("useStorageOrCommunicator(betType:itemCount:)")));
 @end;
 
@@ -684,7 +734,10 @@ __attribute__((swift_name("ClientApiImpl")))
 - (id<KmpcorelibKotlinx_coroutines_coreFlow>)getTicketsActive __attribute__((swift_name("getTicketsActive()")));
 - (id<KmpcorelibKotlinx_coroutines_coreFlow>)getTicketsDraftsDraftTicketsId:(NSString * _Nullable)draftTicketsId __attribute__((swift_name("getTicketsDrafts(draftTicketsId:)")));
 - (id<KmpcorelibKotlinx_coroutines_coreFlow>)getTicketsSettledPage:(int32_t)page size:(int32_t)size __attribute__((swift_name("getTicketsSettled(page:size:)")));
+- (id<KmpcorelibKotlinx_coroutines_coreFlow>)getTicketsUpdatedFrom:(NSString *)from page:(int32_t)page size:(int32_t)size __attribute__((swift_name("getTicketsUpdated(from:page:size:)")));
 - (id<KmpcorelibKotlinx_coroutines_coreFlow>)loginUserInput:(KmpcorelibClientApiImplLoginData *)input __attribute__((swift_name("loginUser(input:)")));
+- (id<KmpcorelibKotlinx_coroutines_coreFlow>)ticketHideAllDrafts __attribute__((swift_name("ticketHideAllDrafts()")));
+- (id<KmpcorelibKotlinx_coroutines_coreFlow>)ticketHideDraftDraftTicketId_:(NSString * _Nullable)draftTicketId __attribute__((swift_name("ticketHideDraft(draftTicketId_:)")));
 - (id<KmpcorelibKotlinx_coroutines_coreFlow>)useStorageOrCommunicatorBetType:(NSString *)betType itemCount:(int32_t)itemCount __attribute__((swift_name("useStorageOrCommunicator(betType:itemCount:)")));
 @end;
 
@@ -699,11 +752,13 @@ __attribute__((swift_name("ClientApiImpl.Companion")))
 @property (readonly) NSString *TICKETS_DRAFTS __attribute__((swift_name("TICKETS_DRAFTS")));
 @property (readonly) NSString *TICKETS_SETTLED_LIMIT __attribute__((swift_name("TICKETS_SETTLED_LIMIT")));
 @property (readonly) NSString *TICKETS_SETTLED_PAGE __attribute__((swift_name("TICKETS_SETTLED_PAGE")));
+@property (readonly) NSString *TICKETS_UPDATED_FROM __attribute__((swift_name("TICKETS_UPDATED_FROM")));
 @property (readonly) NSString *URL_ACTIVE_TICKETS __attribute__((swift_name("URL_ACTIVE_TICKETS")));
 @property (readonly) NSString *URL_BET_DETAIL __attribute__((swift_name("URL_BET_DETAIL")));
 @property (readonly) NSString *URL_BONUS_TURNOVER __attribute__((swift_name("URL_BONUS_TURNOVER")));
 @property (readonly) NSString *URL_DRAFTS_TICKETS __attribute__((swift_name("URL_DRAFTS_TICKETS")));
 @property (readonly) NSString *URL_SETTLED_TICKETS __attribute__((swift_name("URL_SETTLED_TICKETS")));
+@property (readonly) NSString *URL_UPDATED_TICKETS __attribute__((swift_name("URL_UPDATED_TICKETS")));
 @property (readonly) NSString *URL_USE_STORAGE __attribute__((swift_name("URL_USE_STORAGE")));
 @property (readonly) NSString *USE_STORAGE_ENDPOINT_TYPE __attribute__((swift_name("USE_STORAGE_ENDPOINT_TYPE")));
 @property (readonly) NSString *USE_STORAGE_ITEM_COUNT __attribute__((swift_name("USE_STORAGE_ITEM_COUNT")));
@@ -772,21 +827,37 @@ __attribute__((swift_name("JsonRpcClientImpl")))
 @end;
 
 __attribute__((objc_subclassing_restricted))
+__attribute__((swift_name("JsonRpcClientImpl.Companion")))
+@interface KmpcorelibJsonRpcClientImplCompanion : KmpcorelibBase
++ (instancetype)alloc __attribute__((unavailable));
++ (instancetype)allocWithZone:(struct _NSZone *)zone __attribute__((unavailable));
++ (instancetype)companion __attribute__((swift_name("init()")));
+@property (readonly) NSString *BASE_URL_PROD __attribute__((swift_name("BASE_URL_PROD")));
+@property (readonly) NSString *BASE_URL_UAT __attribute__((swift_name("BASE_URL_UAT")));
+@property (readonly) int64_t DEFAULT_TIMEOUT __attribute__((swift_name("DEFAULT_TIMEOUT")));
+@property (readonly) int32_t VALUE_ID __attribute__((swift_name("VALUE_ID")));
+@property (readonly) NSString *VALUE_JSONRPC __attribute__((swift_name("VALUE_JSONRPC")));
+@property (readonly) NSString *VALUE_LANG __attribute__((swift_name("VALUE_LANG")));
+@end;
+
+__attribute__((objc_subclassing_restricted))
 __attribute__((swift_name("JsonRpcRequest")))
 @interface KmpcorelibJsonRpcRequest : KmpcorelibBase
-- (instancetype)initWithAppId:(NSString *)appId method:(NSString *)method jsonrpc:(NSString *)jsonrpc lang:(NSString *)lang params:(KmpcorelibKotlinx_serialization_jsonJsonElement *)params session:(NSString *)session stationName:(NSString *)stationName __attribute__((swift_name("init(appId:method:jsonrpc:lang:params:session:stationName:)"))) __attribute__((objc_designated_initializer));
-- (NSString *)component1 __attribute__((swift_name("component1()")));
+- (instancetype)initWithId:(int32_t)id appId:(NSString *)appId method:(NSString *)method jsonrpc:(NSString *)jsonrpc lang:(NSString *)lang params:(KmpcorelibKotlinx_serialization_jsonJsonElement *)params session:(NSString *)session stationName:(NSString *)stationName __attribute__((swift_name("init(id:appId:method:jsonrpc:lang:params:session:stationName:)"))) __attribute__((objc_designated_initializer));
+- (int32_t)component1 __attribute__((swift_name("component1()")));
 - (NSString *)component2 __attribute__((swift_name("component2()")));
 - (NSString *)component3 __attribute__((swift_name("component3()")));
 - (NSString *)component4 __attribute__((swift_name("component4()")));
-- (KmpcorelibKotlinx_serialization_jsonJsonElement *)component5 __attribute__((swift_name("component5()")));
-- (NSString *)component6 __attribute__((swift_name("component6()")));
+- (NSString *)component5 __attribute__((swift_name("component5()")));
+- (KmpcorelibKotlinx_serialization_jsonJsonElement *)component6 __attribute__((swift_name("component6()")));
 - (NSString *)component7 __attribute__((swift_name("component7()")));
-- (KmpcorelibJsonRpcRequest *)doCopyAppId:(NSString *)appId method:(NSString *)method jsonrpc:(NSString *)jsonrpc lang:(NSString *)lang params:(KmpcorelibKotlinx_serialization_jsonJsonElement *)params session:(NSString *)session stationName:(NSString *)stationName __attribute__((swift_name("doCopy(appId:method:jsonrpc:lang:params:session:stationName:)")));
+- (NSString *)component8 __attribute__((swift_name("component8()")));
+- (KmpcorelibJsonRpcRequest *)doCopyId:(int32_t)id appId:(NSString *)appId method:(NSString *)method jsonrpc:(NSString *)jsonrpc lang:(NSString *)lang params:(KmpcorelibKotlinx_serialization_jsonJsonElement *)params session:(NSString *)session stationName:(NSString *)stationName __attribute__((swift_name("doCopy(id:appId:method:jsonrpc:lang:params:session:stationName:)")));
 - (BOOL)isEqual:(id _Nullable)other __attribute__((swift_name("isEqual(_:)")));
 - (NSUInteger)hash __attribute__((swift_name("hash()")));
 - (NSString *)description __attribute__((swift_name("description()")));
 @property (readonly) NSString *appId __attribute__((swift_name("appId")));
+@property (readonly) int32_t id __attribute__((swift_name("id")));
 @property (readonly) NSString *jsonrpc __attribute__((swift_name("jsonrpc")));
 @property (readonly) NSString *lang __attribute__((swift_name("lang")));
 @property (readonly) NSString *method __attribute__((swift_name("method")));
@@ -915,9 +986,11 @@ __attribute__((swift_name("ResponseCompanion")))
 + (instancetype)alloc __attribute__((unavailable));
 + (instancetype)allocWithZone:(struct _NSZone *)zone __attribute__((unavailable));
 + (instancetype)companion __attribute__((swift_name("init()")));
+- (KmpcorelibResponse<id> *)disconnectStatusCode:(KmpcorelibInt * _Nullable)statusCode errorMessage:(NSString * _Nullable)errorMessage __attribute__((swift_name("disconnect(statusCode:errorMessage:)")));
 - (KmpcorelibResponse<id> *)errorError:(KmpcorelibKotlinThrowable * _Nullable)error statusCode:(KmpcorelibInt * _Nullable)statusCode errorMessage:(NSString * _Nullable)errorMessage __attribute__((swift_name("error(error:statusCode:errorMessage:)")));
 - (KmpcorelibResponse<id> *)progressUuid:(NSString * _Nullable)uuid __attribute__((swift_name("progress(uuid:)")));
 - (KmpcorelibResponse<id> *)successValue:(id _Nullable)value headers:(id<KmpcorelibKtor_httpHeaders> _Nullable)headers statusCode:(KmpcorelibInt * _Nullable)statusCode __attribute__((swift_name("success(value:headers:statusCode:)")));
+@property (readonly) int32_t TYPE_DISCONNECT __attribute__((swift_name("TYPE_DISCONNECT")));
 @property (readonly) int32_t TYPE_ERROR __attribute__((swift_name("TYPE_ERROR")));
 @property (readonly) int32_t TYPE_PROGRESS __attribute__((swift_name("TYPE_PROGRESS")));
 @property (readonly) int32_t TYPE_SUCCESS __attribute__((swift_name("TYPE_SUCCESS")));
@@ -941,7 +1014,8 @@ __attribute__((swift_name("StorageHttpClientFactory.Companion")))
 @property (readonly) NSString *API_KEY_UAT __attribute__((swift_name("API_KEY_UAT")));
 @property (readonly) NSString *BASE_URL_MOCK __attribute__((swift_name("BASE_URL_MOCK")));
 @property (readonly) NSString *BASE_URL_PROD __attribute__((swift_name("BASE_URL_PROD")));
-@property (readonly) NSString *BASE_URL_UAT __attribute__((swift_name("BASE_URL_UAT")));
+@property (readonly) NSString *BASE_URL_UAT_PREFIX __attribute__((swift_name("BASE_URL_UAT_PREFIX")));
+@property (readonly) NSString *BASE_URL_UAT_SUFFIX __attribute__((swift_name("BASE_URL_UAT_SUFFIX")));
 @property (readonly) int64_t DEFAULT_TIMEOUT __attribute__((swift_name("DEFAULT_TIMEOUT")));
 @property (readonly) NSString *HEADER_KEY_API_KEY __attribute__((swift_name("HEADER_KEY_API_KEY")));
 @property (readonly) NSString *HEADER_KEY_APP_ID __attribute__((swift_name("HEADER_KEY_APP_ID")));
@@ -957,6 +1031,7 @@ __attribute__((swift_name("BSBet")))
 - (instancetype)init __attribute__((swift_name("init()"))) __attribute__((objc_designated_initializer));
 + (instancetype)new __attribute__((availability(swift, unavailable, message="use object initializers instead")));
 - (KmpcorelibCommonFlow<KmpcorelibBoolean *> *)refreshErrs __attribute__((swift_name("refreshErrs()")));
+- (void)refreshFunErrs __attribute__((swift_name("refreshFunErrs()")));
 @property (readonly) NSMutableArray<KmpcorelibCombiGroup *> *combiGroups __attribute__((swift_name("combiGroups")));
 @property KmpcorelibBSBetCreditSource *creditSource __attribute__((swift_name("creditSource")));
 @property (readonly) NSMutableArray<KmpcorelibBSBetDeposit *> *deposits __attribute__((swift_name("deposits")));
@@ -1107,6 +1182,8 @@ __attribute__((swift_name("BSBetGroup.Companion")))
 
 __attribute__((swift_name("BSBetResult")))
 @interface KmpcorelibBSBetResult : KmpcorelibBase
+- (instancetype)init __attribute__((swift_name("init()"))) __attribute__((objc_designated_initializer));
++ (instancetype)new __attribute__((availability(swift, unavailable, message="use object initializers instead")));
 @property (readonly) KmpcorelibBignumBigDecimal *totalPay __attribute__((swift_name("totalPay")));
 @property (readonly) KmpcorelibBignumBigDecimal *totalStake __attribute__((swift_name("totalStake")));
 @property (readonly) KmpcorelibBignumBigDecimal *totalWin __attribute__((swift_name("totalWin")));
@@ -1116,6 +1193,8 @@ __attribute__((objc_subclassing_restricted))
 __attribute__((swift_name("BSBetResult.BSMaxiCombiResult")))
 @interface KmpcorelibBSBetResultBSMaxiCombiResult : KmpcorelibBSBetResult
 - (instancetype)initWithGroupOdds:(NSDictionary<KmpcorelibBSOddBSOddGroup *, KmpcorelibBignumBigDecimal *> *)groupOdds totalWin:(KmpcorelibBignumBigDecimal *)totalWin totalPay:(KmpcorelibBignumBigDecimal *)totalPay totalStake:(KmpcorelibBignumBigDecimal *)totalStake combiOdds:(NSArray<KmpcorelibCombiGroup *> *)combiOdds errors:(NSDictionary<KmpcorelibInt *, KmpcorelibKotlinPair<KmpcorelibWinResult *, KmpcorelibWinResult *> *> *)errors __attribute__((swift_name("init(groupOdds:totalWin:totalPay:totalStake:combiOdds:errors:)"))) __attribute__((objc_designated_initializer));
+- (instancetype)init __attribute__((swift_name("init()"))) __attribute__((objc_designated_initializer)) __attribute__((unavailable));
++ (instancetype)new __attribute__((unavailable));
 - (NSDictionary<KmpcorelibBSOddBSOddGroup *, KmpcorelibBignumBigDecimal *> *)component1 __attribute__((swift_name("component1()")));
 - (KmpcorelibBignumBigDecimal *)component2 __attribute__((swift_name("component2()")));
 - (KmpcorelibBignumBigDecimal *)component3 __attribute__((swift_name("component3()")));
@@ -1147,6 +1226,8 @@ __attribute__((objc_subclassing_restricted))
 __attribute__((swift_name("BSBetResult.BSSoloAkoResult")))
 @interface KmpcorelibBSBetResultBSSoloAkoResult : KmpcorelibBSBetResult
 - (instancetype)initWithTotalOdd:(KmpcorelibBignumBigDecimal *)totalOdd totalWin:(KmpcorelibBignumBigDecimal *)totalWin totalPay:(KmpcorelibBignumBigDecimal *)totalPay totalStake:(KmpcorelibBignumBigDecimal *)totalStake __attribute__((swift_name("init(totalOdd:totalWin:totalPay:totalStake:)"))) __attribute__((objc_designated_initializer));
+- (instancetype)init __attribute__((swift_name("init()"))) __attribute__((objc_designated_initializer)) __attribute__((unavailable));
++ (instancetype)new __attribute__((unavailable));
 - (KmpcorelibBignumBigDecimal *)component1 __attribute__((swift_name("component1()")));
 - (KmpcorelibBignumBigDecimal *)component2 __attribute__((swift_name("component2()")));
 - (KmpcorelibBignumBigDecimal *)component3 __attribute__((swift_name("component3()")));
@@ -1590,14 +1671,12 @@ __attribute__((swift_name("BSTicket.State")))
 __attribute__((objc_subclassing_restricted))
 __attribute__((swift_name("BSTicketData")))
 @interface KmpcorelibBSTicketData : KmpcorelibBase
-- (instancetype)initWithTicket:(NSArray<KmpcorelibBSTicket *> *)ticket nextPagaAvaialable:(KmpcorelibBoolean * _Nullable)nextPagaAvaialable __attribute__((swift_name("init(ticket:nextPagaAvaialable:)"))) __attribute__((objc_designated_initializer));
+- (instancetype)initWithTicket:(NSArray<KmpcorelibBSTicket *> *)ticket __attribute__((swift_name("init(ticket:)"))) __attribute__((objc_designated_initializer));
 - (NSArray<KmpcorelibBSTicket *> *)component1 __attribute__((swift_name("component1()")));
-- (KmpcorelibBoolean * _Nullable)component2 __attribute__((swift_name("component2()")));
-- (KmpcorelibBSTicketData *)doCopyTicket:(NSArray<KmpcorelibBSTicket *> *)ticket nextPagaAvaialable:(KmpcorelibBoolean * _Nullable)nextPagaAvaialable __attribute__((swift_name("doCopy(ticket:nextPagaAvaialable:)")));
+- (KmpcorelibBSTicketData *)doCopyTicket:(NSArray<KmpcorelibBSTicket *> *)ticket __attribute__((swift_name("doCopy(ticket:)")));
 - (BOOL)isEqual:(id _Nullable)other __attribute__((swift_name("isEqual(_:)")));
 - (NSUInteger)hash __attribute__((swift_name("hash()")));
 - (NSString *)description __attribute__((swift_name("description()")));
-@property (readonly) KmpcorelibBoolean * _Nullable nextPagaAvaialable __attribute__((swift_name("nextPagaAvaialable")));
 @property (readonly) NSArray<KmpcorelibBSTicket *> *ticket __attribute__((swift_name("ticket")));
 @end;
 
@@ -1688,16 +1767,33 @@ __attribute__((swift_name("BSPlatform")))
 - (void)disconnectFromWebsockets __attribute__((swift_name("disconnectFromWebsockets()")));
 - (NSString *)getAppId __attribute__((swift_name("getAppId()")));
 - (NSString *)getBuildVersion __attribute__((swift_name("getBuildVersion()")));
+- (NSString *)getClientId __attribute__((swift_name("getClientId()")));
 - (NSString *)getClientSession __attribute__((swift_name("getClientSession()")));
 - (int64_t)getCurrentInMs __attribute__((swift_name("getCurrentInMs()")));
 - (KmpcorelibBSDataSourceType *)getDataSourceType __attribute__((swift_name("getDataSourceType()")));
 - (KmpcorelibBSEnvironmentType *)getEnvironmentType __attribute__((swift_name("getEnvironmentType()")));
 - (NSString *)getJWEToken __attribute__((swift_name("getJWEToken()")));
+- (NSString *)getPathToDb __attribute__((swift_name("getPathToDb()")));
+- (NSString *)getPreferencesValueKey:(NSString *)key defValue:(NSString *)defValue __attribute__((swift_name("getPreferencesValue(key:defValue:)")));
+- (NSString * _Nullable)getUATVersion __attribute__((swift_name("getUATVersion()")));
 - (NSString *)getUUID __attribute__((swift_name("getUUID()")));
 - (void)logMsg:(NSString *)msg __attribute__((swift_name("log(msg:)")));
+- (void)logCrashlyticsCustomEventName:(NSString *)eventName values:(NSDictionary<NSString *, id> *)values __attribute__((swift_name("logCrashlyticsCustom(eventName:values:)")));
+- (void)logCrashlyticsSimpleEventName:(NSString *)eventName value:(NSString *)value __attribute__((swift_name("logCrashlyticsSimple(eventName:value:)")));
 - (void)refreshStatusViaWebSocketsSocketURL:(NSString *)socketURL listener:(id<KmpcorelibGenericWebSocketEventListener>)listener __attribute__((swift_name("refreshStatusViaWebSockets(socketURL:listener:)")));
+- (void)setPreferencesValueKey:(NSString *)key value:(NSString *)value __attribute__((swift_name("setPreferencesValue(key:value:)")));
 - (BOOL)useClientWebsockets __attribute__((swift_name("useClientWebsockets()")));
+- (BOOL)useWebSocketsForBetting __attribute__((swift_name("useWebSocketsForBetting()")));
 @property (readonly) NSString *name __attribute__((swift_name("name")));
+@end;
+
+__attribute__((objc_subclassing_restricted))
+__attribute__((swift_name("BaseApiImpl.Companion")))
+@interface KmpcorelibBaseApiImplCompanion : KmpcorelibBase
++ (instancetype)alloc __attribute__((unavailable));
++ (instancetype)allocWithZone:(struct _NSZone *)zone __attribute__((unavailable));
++ (instancetype)companion __attribute__((swift_name("init()")));
+@property (readonly) NSString *BLANK_JSON __attribute__((swift_name("BLANK_JSON")));
 @end;
 
 __attribute__((objc_subclassing_restricted))
@@ -1708,6 +1804,7 @@ __attribute__((swift_name("BaseApiImpl.HTTPCall")))
 - (instancetype)initWithName:(NSString *)name ordinal:(int32_t)ordinal __attribute__((swift_name("init(name:ordinal:)"))) __attribute__((objc_designated_initializer)) __attribute__((unavailable));
 @property (class, readonly) KmpcorelibBaseApiImplHTTPCall *post __attribute__((swift_name("post")));
 @property (class, readonly) KmpcorelibBaseApiImplHTTPCall *get __attribute__((swift_name("get")));
+@property (class, readonly) KmpcorelibBaseApiImplHTTPCall *delete_ __attribute__((swift_name("delete_")));
 + (KmpcorelibKotlinArray<KmpcorelibBaseApiImplHTTPCall *> *)values __attribute__((swift_name("values()")));
 @end;
 
@@ -1763,6 +1860,30 @@ __attribute__((swift_name("BigDecimalSerializer")))
 @property (readonly) id<KmpcorelibKotlinx_serialization_coreSerialDescriptor> descriptor __attribute__((swift_name("descriptor")));
 @end;
 
+__attribute__((objc_subclassing_restricted))
+__attribute__((swift_name("KmpConst")))
+@interface KmpcorelibKmpConst : KmpcorelibBase
++ (instancetype)alloc __attribute__((unavailable));
++ (instancetype)allocWithZone:(struct _NSZone *)zone __attribute__((unavailable));
++ (instancetype)kmpConst __attribute__((swift_name("init()")));
+@property (readonly) NSString *EMPTY __attribute__((swift_name("EMPTY")));
+@property (readonly) int32_t ONE __attribute__((swift_name("ONE")));
+@property (readonly) int32_t TEN __attribute__((swift_name("TEN")));
+@property (readonly) int32_t ZERO __attribute__((swift_name("ZERO")));
+@property (readonly) int64_t ZERO_LONG __attribute__((swift_name("ZERO_LONG")));
+@property (readonly) NSString *ZERO_TIMEZONE __attribute__((swift_name("ZERO_TIMEZONE")));
+@end;
+
+__attribute__((objc_subclassing_restricted))
+__attribute__((swift_name("KmpConst.Db")))
+@interface KmpcorelibKmpConstDb : KmpcorelibBase
++ (instancetype)alloc __attribute__((unavailable));
++ (instancetype)allocWithZone:(struct _NSZone *)zone __attribute__((unavailable));
++ (instancetype)db __attribute__((swift_name("init()")));
+@property (readonly) NSString *DB_NAME __attribute__((swift_name("DB_NAME")));
+@property (readonly) NSString *INDEX_NUMBER __attribute__((swift_name("INDEX_NUMBER")));
+@end;
+
 __attribute__((swift_name("Logger")))
 @interface KmpcorelibLogger : KmpcorelibBase <KmpcorelibKoin_coreKoinComponent>
 - (instancetype)init __attribute__((swift_name("init()"))) __attribute__((objc_designated_initializer));
@@ -1773,6 +1894,35 @@ __attribute__((swift_name("Logger")))
 - (void)vMsg:(NSString *)msg __attribute__((swift_name("v(msg:)")));
 - (void)wMsg:(NSString *)msg __attribute__((swift_name("w(msg:)")));
 @property (readonly) id<KmpcorelibBSPlatform> platform __attribute__((swift_name("platform")));
+@end;
+
+__attribute__((objc_subclassing_restricted))
+__attribute__((swift_name("SharedPref")))
+@interface KmpcorelibSharedPref : KmpcorelibBase
++ (instancetype)alloc __attribute__((unavailable));
++ (instancetype)allocWithZone:(struct _NSZone *)zone __attribute__((unavailable));
++ (instancetype)sharedPref __attribute__((swift_name("init()")));
+@end;
+
+__attribute__((objc_subclassing_restricted))
+__attribute__((swift_name("SharedPref.Keys")))
+@interface KmpcorelibSharedPrefKeys : KmpcorelibBase
++ (instancetype)alloc __attribute__((unavailable));
++ (instancetype)allocWithZone:(struct _NSZone *)zone __attribute__((unavailable));
++ (instancetype)keys __attribute__((swift_name("init()")));
+@property (readonly) NSString *ACTIVE_TICKETS_IS_GET __attribute__((swift_name("ACTIVE_TICKETS_IS_GET")));
+@property (readonly) NSString *LAST_TICKET_UPDATE __attribute__((swift_name("LAST_TICKET_UPDATE")));
+@property (readonly) NSString *SETTLED_TICKETS_IS_GET __attribute__((swift_name("SETTLED_TICKETS_IS_GET")));
+@end;
+
+__attribute__((objc_subclassing_restricted))
+__attribute__((swift_name("SharedPref.Values")))
+@interface KmpcorelibSharedPrefValues : KmpcorelibBase
++ (instancetype)alloc __attribute__((unavailable));
++ (instancetype)allocWithZone:(struct _NSZone *)zone __attribute__((unavailable));
++ (instancetype)values __attribute__((swift_name("init()")));
+@property (readonly) NSString *DEFAULT_EMPTY __attribute__((swift_name("DEFAULT_EMPTY")));
+@property (readonly) NSString *DEFAULT_FULL __attribute__((swift_name("DEFAULT_FULL")));
 @end;
 
 __attribute__((objc_subclassing_restricted))
@@ -2058,19 +2208,25 @@ __attribute__((swift_name("BSTicketRequest.VerifyCompanion")))
 __attribute__((objc_subclassing_restricted))
 __attribute__((swift_name("BSTicketResponse")))
 @interface KmpcorelibBSTicketResponse : KmpcorelibBase
-- (instancetype)initWithHttp_status:(KmpcorelibInt * _Nullable)http_status ticket_number:(NSString * _Nullable)ticket_number errors:(NSArray<KmpcorelibBSTicketResponseError *> * _Nullable)errors status:(NSString * _Nullable)status parameters:(KmpcorelibBSTicketResponseParameters * _Nullable)parameters ticket_uuid:(NSString * _Nullable)ticket_uuid code:(NSString * _Nullable)code error:(NSString * _Nullable)error message:(NSString * _Nullable)message __attribute__((swift_name("init(http_status:ticket_number:errors:status:parameters:ticket_uuid:code:error:message:)"))) __attribute__((objc_designated_initializer));
+- (instancetype)initWithHttp_status:(KmpcorelibInt * _Nullable)http_status ticket_number:(NSString * _Nullable)ticket_number total_odds_value:(NSString * _Nullable)total_odds_value total_win_to_pay:(NSString * _Nullable)total_win_to_pay total_win:(NSString * _Nullable)total_win errors:(NSArray<KmpcorelibBSTicketResponseError *> * _Nullable)errors status:(NSString * _Nullable)status parameters:(KmpcorelibBSTicketResponseParameters * _Nullable)parameters ticket_uuid:(NSString * _Nullable)ticket_uuid code:(NSString * _Nullable)code error:(NSString * _Nullable)error message:(NSString * _Nullable)message __attribute__((swift_name("init(http_status:ticket_number:total_odds_value:total_win_to_pay:total_win:errors:status:parameters:ticket_uuid:code:error:message:)"))) __attribute__((objc_designated_initializer));
 - (KmpcorelibInt * _Nullable)component1 __attribute__((swift_name("component1()")));
+- (NSString * _Nullable)component10 __attribute__((swift_name("component10()")));
+- (NSString * _Nullable)component11 __attribute__((swift_name("component11()")));
+- (NSString * _Nullable)component12 __attribute__((swift_name("component12()")));
 - (NSString * _Nullable)component2 __attribute__((swift_name("component2()")));
-- (NSArray<KmpcorelibBSTicketResponseError *> * _Nullable)component3 __attribute__((swift_name("component3()")));
+- (NSString * _Nullable)component3 __attribute__((swift_name("component3()")));
 - (NSString * _Nullable)component4 __attribute__((swift_name("component4()")));
-- (KmpcorelibBSTicketResponseParameters * _Nullable)component5 __attribute__((swift_name("component5()")));
-- (NSString * _Nullable)component6 __attribute__((swift_name("component6()")));
+- (NSString * _Nullable)component5 __attribute__((swift_name("component5()")));
+- (NSArray<KmpcorelibBSTicketResponseError *> * _Nullable)component6 __attribute__((swift_name("component6()")));
 - (NSString * _Nullable)component7 __attribute__((swift_name("component7()")));
-- (NSString * _Nullable)component8 __attribute__((swift_name("component8()")));
+- (KmpcorelibBSTicketResponseParameters * _Nullable)component8 __attribute__((swift_name("component8()")));
 - (NSString * _Nullable)component9 __attribute__((swift_name("component9()")));
-- (KmpcorelibBSTicketResponse *)doCopyHttp_status:(KmpcorelibInt * _Nullable)http_status ticket_number:(NSString * _Nullable)ticket_number errors:(NSArray<KmpcorelibBSTicketResponseError *> * _Nullable)errors status:(NSString * _Nullable)status parameters:(KmpcorelibBSTicketResponseParameters * _Nullable)parameters ticket_uuid:(NSString * _Nullable)ticket_uuid code:(NSString * _Nullable)code error:(NSString * _Nullable)error message:(NSString * _Nullable)message __attribute__((swift_name("doCopy(http_status:ticket_number:errors:status:parameters:ticket_uuid:code:error:message:)")));
+- (KmpcorelibBSTicketResponse *)doCopyHttp_status:(KmpcorelibInt * _Nullable)http_status ticket_number:(NSString * _Nullable)ticket_number total_odds_value:(NSString * _Nullable)total_odds_value total_win_to_pay:(NSString * _Nullable)total_win_to_pay total_win:(NSString * _Nullable)total_win errors:(NSArray<KmpcorelibBSTicketResponseError *> * _Nullable)errors status:(NSString * _Nullable)status parameters:(KmpcorelibBSTicketResponseParameters * _Nullable)parameters ticket_uuid:(NSString * _Nullable)ticket_uuid code:(NSString * _Nullable)code error:(NSString * _Nullable)error message:(NSString * _Nullable)message __attribute__((swift_name("doCopy(http_status:ticket_number:total_odds_value:total_win_to_pay:total_win:errors:status:parameters:ticket_uuid:code:error:message:)")));
 - (BOOL)isEqual:(id _Nullable)other __attribute__((swift_name("isEqual(_:)")));
 - (NSString *)fullMessage __attribute__((swift_name("fullMessage()")));
+- (NSString *)getTicketNumber __attribute__((swift_name("getTicketNumber()")));
+- (NSString *)getTotalOddsValue __attribute__((swift_name("getTotalOddsValue()")));
+- (NSString *)getTotalWinToPay __attribute__((swift_name("getTotalWinToPay()")));
 - (NSUInteger)hash __attribute__((swift_name("hash()")));
 - (BOOL)isAccepted __attribute__((swift_name("isAccepted()")));
 - (BOOL)isAnotherTicketInProcess __attribute__((swift_name("isAnotherTicketInProcess()")));
@@ -2090,6 +2246,9 @@ __attribute__((swift_name("BSTicketResponse")))
 @property (readonly) NSString * _Nullable status __attribute__((swift_name("status")));
 @property (readonly) NSString * _Nullable ticket_number __attribute__((swift_name("ticket_number")));
 @property (readonly) NSString * _Nullable ticket_uuid __attribute__((swift_name("ticket_uuid")));
+@property (readonly) NSString * _Nullable total_odds_value __attribute__((swift_name("total_odds_value")));
+@property (readonly) NSString * _Nullable total_win __attribute__((swift_name("total_win")));
+@property (readonly) NSString * _Nullable total_win_to_pay __attribute__((swift_name("total_win_to_pay")));
 @end;
 
 __attribute__((objc_subclassing_restricted))
@@ -2132,15 +2291,19 @@ __attribute__((swift_name("BSTicketResponse.ErrorCompanion")))
 __attribute__((objc_subclassing_restricted))
 __attribute__((swift_name("BSTicketResponse.Parameters")))
 @interface KmpcorelibBSTicketResponseParameters : KmpcorelibBase
-- (instancetype)initWithInfo_number:(NSString * _Nullable)info_number opportunity_id:(NSString * _Nullable)opportunity_id odds_id:(NSString * _Nullable)odds_id odds_value:(NSString * _Nullable)odds_value total_stake_old:(NSString * _Nullable)total_stake_old total_stake_new:(NSString * _Nullable)total_stake_new correlated_odds_ids:(NSArray<NSString *> * _Nullable)correlated_odds_ids __attribute__((swift_name("init(info_number:opportunity_id:odds_id:odds_value:total_stake_old:total_stake_new:correlated_odds_ids:)"))) __attribute__((objc_designated_initializer));
+- (instancetype)initWithInfo_number:(NSString * _Nullable)info_number opportunity_id:(NSString * _Nullable)opportunity_id odds_id:(NSString * _Nullable)odds_id odds_value:(NSString * _Nullable)odds_value total_stake_old:(NSString * _Nullable)total_stake_old total_stake_new:(NSString * _Nullable)total_stake_new correlated_odds_ids:(NSArray<NSString *> * _Nullable)correlated_odds_ids ticket_number:(NSString * _Nullable)ticket_number total_odds_value:(NSString * _Nullable)total_odds_value total_win:(NSString * _Nullable)total_win total_win_to_pay:(NSString * _Nullable)total_win_to_pay __attribute__((swift_name("init(info_number:opportunity_id:odds_id:odds_value:total_stake_old:total_stake_new:correlated_odds_ids:ticket_number:total_odds_value:total_win:total_win_to_pay:)"))) __attribute__((objc_designated_initializer));
 - (NSString * _Nullable)component1 __attribute__((swift_name("component1()")));
+- (NSString * _Nullable)component10 __attribute__((swift_name("component10()")));
+- (NSString * _Nullable)component11 __attribute__((swift_name("component11()")));
 - (NSString * _Nullable)component2 __attribute__((swift_name("component2()")));
 - (NSString * _Nullable)component3 __attribute__((swift_name("component3()")));
 - (NSString * _Nullable)component4 __attribute__((swift_name("component4()")));
 - (NSString * _Nullable)component5 __attribute__((swift_name("component5()")));
 - (NSString * _Nullable)component6 __attribute__((swift_name("component6()")));
 - (NSArray<NSString *> * _Nullable)component7 __attribute__((swift_name("component7()")));
-- (KmpcorelibBSTicketResponseParameters *)doCopyInfo_number:(NSString * _Nullable)info_number opportunity_id:(NSString * _Nullable)opportunity_id odds_id:(NSString * _Nullable)odds_id odds_value:(NSString * _Nullable)odds_value total_stake_old:(NSString * _Nullable)total_stake_old total_stake_new:(NSString * _Nullable)total_stake_new correlated_odds_ids:(NSArray<NSString *> * _Nullable)correlated_odds_ids __attribute__((swift_name("doCopy(info_number:opportunity_id:odds_id:odds_value:total_stake_old:total_stake_new:correlated_odds_ids:)")));
+- (NSString * _Nullable)component8 __attribute__((swift_name("component8()")));
+- (NSString * _Nullable)component9 __attribute__((swift_name("component9()")));
+- (KmpcorelibBSTicketResponseParameters *)doCopyInfo_number:(NSString * _Nullable)info_number opportunity_id:(NSString * _Nullable)opportunity_id odds_id:(NSString * _Nullable)odds_id odds_value:(NSString * _Nullable)odds_value total_stake_old:(NSString * _Nullable)total_stake_old total_stake_new:(NSString * _Nullable)total_stake_new correlated_odds_ids:(NSArray<NSString *> * _Nullable)correlated_odds_ids ticket_number:(NSString * _Nullable)ticket_number total_odds_value:(NSString * _Nullable)total_odds_value total_win:(NSString * _Nullable)total_win total_win_to_pay:(NSString * _Nullable)total_win_to_pay __attribute__((swift_name("doCopy(info_number:opportunity_id:odds_id:odds_value:total_stake_old:total_stake_new:correlated_odds_ids:ticket_number:total_odds_value:total_win:total_win_to_pay:)")));
 - (BOOL)isEqual:(id _Nullable)other __attribute__((swift_name("isEqual(_:)")));
 - (NSUInteger)hash __attribute__((swift_name("hash()")));
 - (NSString *)description __attribute__((swift_name("description()")));
@@ -2149,8 +2312,12 @@ __attribute__((swift_name("BSTicketResponse.Parameters")))
 @property (readonly) NSString * _Nullable odds_id __attribute__((swift_name("odds_id")));
 @property (readonly) NSString * _Nullable odds_value __attribute__((swift_name("odds_value")));
 @property (readonly) NSString * _Nullable opportunity_id __attribute__((swift_name("opportunity_id")));
+@property (readonly) NSString * _Nullable ticket_number __attribute__((swift_name("ticket_number")));
+@property (readonly) NSString * _Nullable total_odds_value __attribute__((swift_name("total_odds_value")));
 @property (readonly) NSString * _Nullable total_stake_new __attribute__((swift_name("total_stake_new")));
 @property (readonly) NSString * _Nullable total_stake_old __attribute__((swift_name("total_stake_old")));
+@property (readonly) NSString * _Nullable total_win __attribute__((swift_name("total_win")));
+@property (readonly) NSString * _Nullable total_win_to_pay __attribute__((swift_name("total_win_to_pay")));
 @end;
 
 __attribute__((objc_subclassing_restricted))
@@ -2204,6 +2371,27 @@ __attribute__((swift_name("Cashout")))
 __attribute__((objc_subclassing_restricted))
 __attribute__((swift_name("Cashout.Companion")))
 @interface KmpcorelibCashoutCompanion : KmpcorelibBase
++ (instancetype)alloc __attribute__((unavailable));
++ (instancetype)allocWithZone:(struct _NSZone *)zone __attribute__((unavailable));
++ (instancetype)companion __attribute__((swift_name("init()")));
+- (id<KmpcorelibKotlinx_serialization_coreKSerializer>)serializer __attribute__((swift_name("serializer()")));
+@end;
+
+__attribute__((objc_subclassing_restricted))
+__attribute__((swift_name("Empty")))
+@interface KmpcorelibEmpty : KmpcorelibBase
+- (instancetype)initWithNothing:(KmpcorelibKotlinUnit *)nothing __attribute__((swift_name("init(nothing:)"))) __attribute__((objc_designated_initializer));
+- (void)component1 __attribute__((swift_name("component1()")));
+- (KmpcorelibEmpty *)doCopyNothing:(KmpcorelibKotlinUnit *)nothing __attribute__((swift_name("doCopy(nothing:)")));
+- (BOOL)isEqual:(id _Nullable)other __attribute__((swift_name("isEqual(_:)")));
+- (NSUInteger)hash __attribute__((swift_name("hash()")));
+- (NSString *)description __attribute__((swift_name("description()")));
+@property (readonly) KmpcorelibKotlinUnit *nothing __attribute__((swift_name("nothing")));
+@end;
+
+__attribute__((objc_subclassing_restricted))
+__attribute__((swift_name("Empty.Companion")))
+@interface KmpcorelibEmptyCompanion : KmpcorelibBase
 + (instancetype)alloc __attribute__((unavailable));
 + (instancetype)allocWithZone:(struct _NSZone *)zone __attribute__((unavailable));
 + (instancetype)companion __attribute__((swift_name("init()")));
@@ -2420,37 +2608,6 @@ __attribute__((swift_name("OddItem.Companion")))
 @end;
 
 __attribute__((objc_subclassing_restricted))
-__attribute__((swift_name("Pagination")))
-@interface KmpcorelibPagination : KmpcorelibBase
-- (instancetype)initWithFirst:(NSString * _Nullable)first last:(NSString * _Nullable)last next:(NSString * _Nullable)next prev:(NSString * _Nullable)prev self:(NSString * _Nullable)self total_count:(KmpcorelibInt * _Nullable)total_count __attribute__((swift_name("init(first:last:next:prev:self:total_count:)"))) __attribute__((objc_designated_initializer));
-- (NSString * _Nullable)component1 __attribute__((swift_name("component1()")));
-- (NSString * _Nullable)component2 __attribute__((swift_name("component2()")));
-- (NSString * _Nullable)component3 __attribute__((swift_name("component3()")));
-- (NSString * _Nullable)component4 __attribute__((swift_name("component4()")));
-- (NSString * _Nullable)component5 __attribute__((swift_name("component5()")));
-- (KmpcorelibInt * _Nullable)component6 __attribute__((swift_name("component6()")));
-- (KmpcorelibPagination *)doCopyFirst:(NSString * _Nullable)first last:(NSString * _Nullable)last next:(NSString * _Nullable)next prev:(NSString * _Nullable)prev self:(NSString * _Nullable)self total_count:(KmpcorelibInt * _Nullable)total_count __attribute__((swift_name("doCopy(first:last:next:prev:self:total_count:)")));
-- (BOOL)isEqual:(id _Nullable)other __attribute__((swift_name("isEqual(_:)")));
-- (NSUInteger)hash __attribute__((swift_name("hash()")));
-- (NSString *)description __attribute__((swift_name("description()")));
-@property (readonly) NSString * _Nullable first __attribute__((swift_name("first")));
-@property (readonly) NSString * _Nullable last __attribute__((swift_name("last")));
-@property (readonly) NSString * _Nullable next __attribute__((swift_name("next")));
-@property (readonly) NSString * _Nullable prev __attribute__((swift_name("prev")));
-@property (readonly) NSString * _Nullable self __attribute__((swift_name("self")));
-@property (readonly) KmpcorelibInt * _Nullable total_count __attribute__((swift_name("total_count")));
-@end;
-
-__attribute__((objc_subclassing_restricted))
-__attribute__((swift_name("Pagination.Companion")))
-@interface KmpcorelibPaginationCompanion : KmpcorelibBase
-+ (instancetype)alloc __attribute__((unavailable));
-+ (instancetype)allocWithZone:(struct _NSZone *)zone __attribute__((unavailable));
-+ (instancetype)companion __attribute__((swift_name("init()")));
-- (id<KmpcorelibKotlinx_serialization_coreKSerializer>)serializer __attribute__((swift_name("serializer()")));
-@end;
-
-__attribute__((objc_subclassing_restricted))
 __attribute__((swift_name("Parameters")))
 @interface KmpcorelibParameters : KmpcorelibBase
 - (instancetype)initWithMin_stake:(NSString * _Nullable)min_stake odds_id:(NSString * _Nullable)odds_id total_stake:(NSString * _Nullable)total_stake __attribute__((swift_name("init(min_stake:odds_id:total_stake:)"))) __attribute__((objc_designated_initializer));
@@ -2549,7 +2706,7 @@ __attribute__((swift_name("Sport.Companion")))
 __attribute__((objc_subclassing_restricted))
 __attribute__((swift_name("Ticket")))
 @interface KmpcorelibTicket : KmpcorelibBase
-- (instancetype)initWithBets:(NSArray<KmpcorelibBet *> *)bets cashout:(KmpcorelibCashout * _Nullable)cashout cashed_at:(NSString * _Nullable)cashed_at created_at:(NSString * _Nullable)created_at evaluated_at:(NSString * _Nullable)evaluated_at credit_source:(NSString * _Nullable)credit_source e_ticket:(BOOL)e_ticket groups:(NSArray<KmpcorelibGroup *> *)groups is_retail_ticket:(BOOL)is_retail_ticket number:(NSString *)number possible_win:(NSString * _Nullable)possible_win possible_win_gross:(NSString * _Nullable)possible_win_gross source:(NSString * _Nullable)source stake:(NSString * _Nullable)stake state:(NSString * _Nullable)state total_odds:(NSString * _Nullable)total_odds total_odds_evaluated:(NSString * _Nullable)total_odds_evaluated kind:(NSString * _Nullable)kind uuid:(NSString * _Nullable)uuid win:(NSString * _Nullable)win win_to_pay:(NSString * _Nullable)win_to_pay ticket_highest_winning_combination_odds:(NSString * _Nullable)ticket_highest_winning_combination_odds __attribute__((swift_name("init(bets:cashout:cashed_at:created_at:evaluated_at:credit_source:e_ticket:groups:is_retail_ticket:number:possible_win:possible_win_gross:source:stake:state:total_odds:total_odds_evaluated:kind:uuid:win:win_to_pay:ticket_highest_winning_combination_odds:)"))) __attribute__((objc_designated_initializer));
+- (instancetype)initWithBets:(NSArray<KmpcorelibBet *> *)bets cashout:(KmpcorelibCashout * _Nullable)cashout cashed_at:(NSString * _Nullable)cashed_at created_at:(NSString * _Nullable)created_at evaluated_at:(NSString * _Nullable)evaluated_at credit_source:(NSString * _Nullable)credit_source e_ticket:(BOOL)e_ticket groups:(NSArray<KmpcorelibGroup *> *)groups is_retail_ticket:(BOOL)is_retail_ticket number:(NSString *)number possible_win:(NSString * _Nullable)possible_win possible_win_gross:(NSString * _Nullable)possible_win_gross source:(NSString * _Nullable)source stake:(NSString * _Nullable)stake state:(NSString * _Nullable)state total_odds:(NSString * _Nullable)total_odds total_odds_evaluated:(NSString * _Nullable)total_odds_evaluated kind:(NSString * _Nullable)kind win:(NSString * _Nullable)win win_to_pay:(NSString * _Nullable)win_to_pay ticket_highest_winning_combination_odds:(NSString * _Nullable)ticket_highest_winning_combination_odds __attribute__((swift_name("init(bets:cashout:cashed_at:created_at:evaluated_at:credit_source:e_ticket:groups:is_retail_ticket:number:possible_win:possible_win_gross:source:stake:state:total_odds:total_odds_evaluated:kind:win:win_to_pay:ticket_highest_winning_combination_odds:)"))) __attribute__((objc_designated_initializer));
 - (NSArray<KmpcorelibBet *> *)component1 __attribute__((swift_name("component1()")));
 - (NSString *)component10 __attribute__((swift_name("component10()")));
 - (NSString * _Nullable)component11 __attribute__((swift_name("component11()")));
@@ -2564,7 +2721,6 @@ __attribute__((swift_name("Ticket")))
 - (KmpcorelibCashout * _Nullable)component2 __attribute__((swift_name("component2()")));
 - (NSString * _Nullable)component20 __attribute__((swift_name("component20()")));
 - (NSString * _Nullable)component21 __attribute__((swift_name("component21()")));
-- (NSString * _Nullable)component22 __attribute__((swift_name("component22()")));
 - (NSString * _Nullable)component3 __attribute__((swift_name("component3()")));
 - (NSString * _Nullable)component4 __attribute__((swift_name("component4()")));
 - (NSString * _Nullable)component5 __attribute__((swift_name("component5()")));
@@ -2572,9 +2728,10 @@ __attribute__((swift_name("Ticket")))
 - (BOOL)component7 __attribute__((swift_name("component7()")));
 - (NSArray<KmpcorelibGroup *> *)component8 __attribute__((swift_name("component8()")));
 - (BOOL)component9 __attribute__((swift_name("component9()")));
-- (KmpcorelibTicket *)doCopyBets:(NSArray<KmpcorelibBet *> *)bets cashout:(KmpcorelibCashout * _Nullable)cashout cashed_at:(NSString * _Nullable)cashed_at created_at:(NSString * _Nullable)created_at evaluated_at:(NSString * _Nullable)evaluated_at credit_source:(NSString * _Nullable)credit_source e_ticket:(BOOL)e_ticket groups:(NSArray<KmpcorelibGroup *> *)groups is_retail_ticket:(BOOL)is_retail_ticket number:(NSString *)number possible_win:(NSString * _Nullable)possible_win possible_win_gross:(NSString * _Nullable)possible_win_gross source:(NSString * _Nullable)source stake:(NSString * _Nullable)stake state:(NSString * _Nullable)state total_odds:(NSString * _Nullable)total_odds total_odds_evaluated:(NSString * _Nullable)total_odds_evaluated kind:(NSString * _Nullable)kind uuid:(NSString * _Nullable)uuid win:(NSString * _Nullable)win win_to_pay:(NSString * _Nullable)win_to_pay ticket_highest_winning_combination_odds:(NSString * _Nullable)ticket_highest_winning_combination_odds __attribute__((swift_name("doCopy(bets:cashout:cashed_at:created_at:evaluated_at:credit_source:e_ticket:groups:is_retail_ticket:number:possible_win:possible_win_gross:source:stake:state:total_odds:total_odds_evaluated:kind:uuid:win:win_to_pay:ticket_highest_winning_combination_odds:)")));
+- (KmpcorelibTicket *)doCopyBets:(NSArray<KmpcorelibBet *> *)bets cashout:(KmpcorelibCashout * _Nullable)cashout cashed_at:(NSString * _Nullable)cashed_at created_at:(NSString * _Nullable)created_at evaluated_at:(NSString * _Nullable)evaluated_at credit_source:(NSString * _Nullable)credit_source e_ticket:(BOOL)e_ticket groups:(NSArray<KmpcorelibGroup *> *)groups is_retail_ticket:(BOOL)is_retail_ticket number:(NSString *)number possible_win:(NSString * _Nullable)possible_win possible_win_gross:(NSString * _Nullable)possible_win_gross source:(NSString * _Nullable)source stake:(NSString * _Nullable)stake state:(NSString * _Nullable)state total_odds:(NSString * _Nullable)total_odds total_odds_evaluated:(NSString * _Nullable)total_odds_evaluated kind:(NSString * _Nullable)kind win:(NSString * _Nullable)win win_to_pay:(NSString * _Nullable)win_to_pay ticket_highest_winning_combination_odds:(NSString * _Nullable)ticket_highest_winning_combination_odds __attribute__((swift_name("doCopy(bets:cashout:cashed_at:created_at:evaluated_at:credit_source:e_ticket:groups:is_retail_ticket:number:possible_win:possible_win_gross:source:stake:state:total_odds:total_odds_evaluated:kind:win:win_to_pay:ticket_highest_winning_combination_odds:)")));
 - (BOOL)isEqual:(id _Nullable)other __attribute__((swift_name("isEqual(_:)")));
 - (NSUInteger)hash __attribute__((swift_name("hash()")));
+- (BOOL)isActive __attribute__((swift_name("isActive()")));
 - (NSString *)description __attribute__((swift_name("description()")));
 @property (readonly) NSArray<KmpcorelibBet *> *bets __attribute__((swift_name("bets")));
 @property (readonly) NSString * _Nullable cashed_at __attribute__((swift_name("cashed_at")));
@@ -2595,7 +2752,6 @@ __attribute__((swift_name("Ticket")))
 @property (readonly) NSString * _Nullable ticket_highest_winning_combination_odds __attribute__((swift_name("ticket_highest_winning_combination_odds")));
 @property (readonly) NSString * _Nullable total_odds __attribute__((swift_name("total_odds")));
 @property (readonly) NSString * _Nullable total_odds_evaluated __attribute__((swift_name("total_odds_evaluated")));
-@property (readonly) NSString * _Nullable uuid __attribute__((swift_name("uuid")));
 @property (readonly) NSString * _Nullable win __attribute__((swift_name("win")));
 @property (readonly) NSString * _Nullable win_to_pay __attribute__((swift_name("win_to_pay")));
 @end;
@@ -2603,33 +2759,6 @@ __attribute__((swift_name("Ticket")))
 __attribute__((objc_subclassing_restricted))
 __attribute__((swift_name("Ticket.Companion")))
 @interface KmpcorelibTicketCompanion : KmpcorelibBase
-+ (instancetype)alloc __attribute__((unavailable));
-+ (instancetype)allocWithZone:(struct _NSZone *)zone __attribute__((unavailable));
-+ (instancetype)companion __attribute__((swift_name("init()")));
-- (id<KmpcorelibKotlinx_serialization_coreKSerializer>)serializer __attribute__((swift_name("serializer()")));
-@end;
-
-__attribute__((objc_subclassing_restricted))
-__attribute__((swift_name("TicketActiveResponse")))
-@interface KmpcorelibTicketActiveResponse : KmpcorelibBase
-- (instancetype)initWithTickets:(NSArray<KmpcorelibTicket *> * _Nullable)tickets code:(NSString * _Nullable)code error:(NSString * _Nullable)error message:(NSString * _Nullable)message __attribute__((swift_name("init(tickets:code:error:message:)"))) __attribute__((objc_designated_initializer));
-- (NSArray<KmpcorelibTicket *> * _Nullable)component1 __attribute__((swift_name("component1()")));
-- (NSString * _Nullable)component2 __attribute__((swift_name("component2()")));
-- (NSString * _Nullable)component3 __attribute__((swift_name("component3()")));
-- (NSString * _Nullable)component4 __attribute__((swift_name("component4()")));
-- (KmpcorelibTicketActiveResponse *)doCopyTickets:(NSArray<KmpcorelibTicket *> * _Nullable)tickets code:(NSString * _Nullable)code error:(NSString * _Nullable)error message:(NSString * _Nullable)message __attribute__((swift_name("doCopy(tickets:code:error:message:)")));
-- (BOOL)isEqual:(id _Nullable)other __attribute__((swift_name("isEqual(_:)")));
-- (NSUInteger)hash __attribute__((swift_name("hash()")));
-- (NSString *)description __attribute__((swift_name("description()")));
-@property (readonly) NSString * _Nullable code __attribute__((swift_name("code")));
-@property (readonly) NSString * _Nullable error __attribute__((swift_name("error")));
-@property (readonly) NSString * _Nullable message __attribute__((swift_name("message")));
-@property (readonly) NSArray<KmpcorelibTicket *> * _Nullable tickets __attribute__((swift_name("tickets")));
-@end;
-
-__attribute__((objc_subclassing_restricted))
-__attribute__((swift_name("TicketActiveResponse.Companion")))
-@interface KmpcorelibTicketActiveResponseCompanion : KmpcorelibBase
 + (instancetype)alloc __attribute__((unavailable));
 + (instancetype)allocWithZone:(struct _NSZone *)zone __attribute__((unavailable));
 + (instancetype)companion __attribute__((swift_name("init()")));
@@ -2658,28 +2787,26 @@ __attribute__((swift_name("TicketDraftsResponse.Companion")))
 @end;
 
 __attribute__((objc_subclassing_restricted))
-__attribute__((swift_name("TicketSettledResponse")))
-@interface KmpcorelibTicketSettledResponse : KmpcorelibBase
-- (instancetype)initWithPagination:(KmpcorelibPagination * _Nullable)pagination tickets:(NSArray<KmpcorelibTicket *> * _Nullable)tickets code:(NSString * _Nullable)code error:(NSString * _Nullable)error message:(NSString * _Nullable)message __attribute__((swift_name("init(pagination:tickets:code:error:message:)"))) __attribute__((objc_designated_initializer));
-- (KmpcorelibPagination * _Nullable)component1 __attribute__((swift_name("component1()")));
-- (NSArray<KmpcorelibTicket *> * _Nullable)component2 __attribute__((swift_name("component2()")));
+__attribute__((swift_name("TicketsResponse")))
+@interface KmpcorelibTicketsResponse : KmpcorelibBase
+- (instancetype)initWithTickets:(NSArray<KmpcorelibTicket *> * _Nullable)tickets code:(NSString * _Nullable)code error:(NSString * _Nullable)error message:(NSString * _Nullable)message __attribute__((swift_name("init(tickets:code:error:message:)"))) __attribute__((objc_designated_initializer));
+- (NSArray<KmpcorelibTicket *> * _Nullable)component1 __attribute__((swift_name("component1()")));
+- (NSString * _Nullable)component2 __attribute__((swift_name("component2()")));
 - (NSString * _Nullable)component3 __attribute__((swift_name("component3()")));
 - (NSString * _Nullable)component4 __attribute__((swift_name("component4()")));
-- (NSString * _Nullable)component5 __attribute__((swift_name("component5()")));
-- (KmpcorelibTicketSettledResponse *)doCopyPagination:(KmpcorelibPagination * _Nullable)pagination tickets:(NSArray<KmpcorelibTicket *> * _Nullable)tickets code:(NSString * _Nullable)code error:(NSString * _Nullable)error message:(NSString * _Nullable)message __attribute__((swift_name("doCopy(pagination:tickets:code:error:message:)")));
+- (KmpcorelibTicketsResponse *)doCopyTickets:(NSArray<KmpcorelibTicket *> * _Nullable)tickets code:(NSString * _Nullable)code error:(NSString * _Nullable)error message:(NSString * _Nullable)message __attribute__((swift_name("doCopy(tickets:code:error:message:)")));
 - (BOOL)isEqual:(id _Nullable)other __attribute__((swift_name("isEqual(_:)")));
 - (NSUInteger)hash __attribute__((swift_name("hash()")));
 - (NSString *)description __attribute__((swift_name("description()")));
 @property (readonly) NSString * _Nullable code __attribute__((swift_name("code")));
 @property (readonly) NSString * _Nullable error __attribute__((swift_name("error")));
 @property (readonly) NSString * _Nullable message __attribute__((swift_name("message")));
-@property (readonly) KmpcorelibPagination * _Nullable pagination __attribute__((swift_name("pagination")));
 @property (readonly) NSArray<KmpcorelibTicket *> * _Nullable tickets __attribute__((swift_name("tickets")));
 @end;
 
 __attribute__((objc_subclassing_restricted))
-__attribute__((swift_name("TicketSettledResponse.Companion")))
-@interface KmpcorelibTicketSettledResponseCompanion : KmpcorelibBase
+__attribute__((swift_name("TicketsResponse.Companion")))
+@interface KmpcorelibTicketsResponseCompanion : KmpcorelibBase
 + (instancetype)alloc __attribute__((unavailable));
 + (instancetype)allocWithZone:(struct _NSZone *)zone __attribute__((unavailable));
 + (instancetype)companion __attribute__((swift_name("init()")));
@@ -2711,9 +2838,72 @@ __attribute__((swift_name("Verify.Companion")))
 - (id<KmpcorelibKotlinx_serialization_coreKSerializer>)serializer __attribute__((swift_name("serializer()")));
 @end;
 
+__attribute__((objc_subclassing_restricted))
+__attribute__((swift_name("DatabaseFactory")))
+@interface KmpcorelibDatabaseFactory : KmpcorelibBase
+- (instancetype)initWithPlatform:(id<KmpcorelibBSPlatform>)platform __attribute__((swift_name("init(platform:)"))) __attribute__((objc_designated_initializer));
+- (void)closeDb __attribute__((swift_name("closeDb()")));
+- (id<KmpcorelibKodein_db_apiDB>)getDb __attribute__((swift_name("getDb()")));
+@property (readonly) id<KmpcorelibBSPlatform> platform __attribute__((swift_name("platform")));
+@end;
+
+__attribute__((objc_subclassing_restricted))
+__attribute__((swift_name("DatabaseFactory.Companion")))
+@interface KmpcorelibDatabaseFactoryCompanion : KmpcorelibBase
++ (instancetype)alloc __attribute__((unavailable));
++ (instancetype)allocWithZone:(struct _NSZone *)zone __attribute__((unavailable));
++ (instancetype)companion __attribute__((swift_name("init()")));
+@end;
+
+__attribute__((swift_name("Kotlinx_datetimeClock")))
+@protocol KmpcorelibKotlinx_datetimeClock
+@required
+- (KmpcorelibKotlinx_datetimeInstant *)now __attribute__((swift_name("now()")));
+@end;
+
+__attribute__((objc_subclassing_restricted))
+__attribute__((swift_name("Kotlinx_datetimeClockSystem")))
+@interface KmpcorelibKotlinx_datetimeClockSystem : KmpcorelibBase <KmpcorelibKotlinx_datetimeClock>
++ (instancetype)alloc __attribute__((unavailable));
++ (instancetype)allocWithZone:(struct _NSZone *)zone __attribute__((unavailable));
++ (instancetype)system __attribute__((swift_name("init()")));
+- (KmpcorelibKotlinx_datetimeInstant *)now __attribute__((swift_name("now()")));
+@end;
+
+@interface KmpcorelibKotlinx_datetimeClockSystem (Extensions)
+- (NSString *)getSimpleUTCDateTime __attribute__((swift_name("getSimpleUTCDateTime()")));
+@end;
+
+__attribute__((objc_subclassing_restricted))
+__attribute__((swift_name("Kotlinx_datetimeLocalDateTime")))
+@interface KmpcorelibKotlinx_datetimeLocalDateTime : KmpcorelibBase <KmpcorelibKotlinComparable>
+- (instancetype)initWithYear:(int32_t)year monthNumber:(int32_t)monthNumber dayOfMonth:(int32_t)dayOfMonth hour:(int32_t)hour minute:(int32_t)minute second:(int32_t)second nanosecond:(int32_t)nanosecond __attribute__((swift_name("init(year:monthNumber:dayOfMonth:hour:minute:second:nanosecond:)"))) __attribute__((objc_designated_initializer));
+- (instancetype)initWithYear:(int32_t)year month:(KmpcorelibKotlinx_datetimeMonth *)month dayOfMonth:(int32_t)dayOfMonth hour:(int32_t)hour minute:(int32_t)minute second:(int32_t)second nanosecond:(int32_t)nanosecond __attribute__((swift_name("init(year:month:dayOfMonth:hour:minute:second:nanosecond:)"))) __attribute__((objc_designated_initializer));
+- (int32_t)compareToOther:(KmpcorelibKotlinx_datetimeLocalDateTime *)other __attribute__((swift_name("compareTo(other:)")));
+- (BOOL)isEqual:(id _Nullable)other __attribute__((swift_name("isEqual(_:)")));
+- (NSUInteger)hash __attribute__((swift_name("hash()")));
+- (NSString *)description __attribute__((swift_name("description()")));
+@property (readonly) KmpcorelibKotlinx_datetimeLocalDate *date __attribute__((swift_name("date")));
+@property (readonly) int32_t dayOfMonth __attribute__((swift_name("dayOfMonth")));
+@property (readonly) KmpcorelibKotlinx_datetimeDayOfWeek *dayOfWeek __attribute__((swift_name("dayOfWeek")));
+@property (readonly) int32_t dayOfYear __attribute__((swift_name("dayOfYear")));
+@property (readonly) int32_t hour __attribute__((swift_name("hour")));
+@property (readonly) int32_t minute __attribute__((swift_name("minute")));
+@property (readonly) KmpcorelibKotlinx_datetimeMonth *month __attribute__((swift_name("month")));
+@property (readonly) int32_t monthNumber __attribute__((swift_name("monthNumber")));
+@property (readonly) int32_t nanosecond __attribute__((swift_name("nanosecond")));
+@property (readonly) int32_t second __attribute__((swift_name("second")));
+@property (readonly) int32_t year __attribute__((swift_name("year")));
+@end;
+
+@interface KmpcorelibKotlinx_datetimeLocalDateTime (Extensions)
+- (NSString *)getSimpleUTCFormat __attribute__((swift_name("getSimpleUTCFormat()")));
+@end;
+
 @interface KmpcorelibResponse (Extensions)
 - (BOOL)isError __attribute__((swift_name("isError()")));
 - (BOOL)isProgress __attribute__((swift_name("isProgress()")));
+- (BOOL)isSocketError __attribute__((swift_name("isSocketError()")));
 - (BOOL)isSuccess __attribute__((swift_name("isSuccess()")));
 @end;
 
@@ -2830,6 +3020,7 @@ __attribute__((swift_name("KoinKt")))
 __attribute__((objc_subclassing_restricted))
 __attribute__((swift_name("ExtensionsKt")))
 @interface KmpcorelibExtensionsKt : KmpcorelibBase
++ (NSString *)getStringWithZero:(int32_t)receiver __attribute__((swift_name("getStringWithZero(_:)")));
 
 /**
  @note This method converts instances of CancellationException to errors.
@@ -2910,15 +3101,16 @@ __attribute__((swift_name("TicketKt")))
 @end;
 
 __attribute__((objc_subclassing_restricted))
-__attribute__((swift_name("TicketActiveResponseKt")))
-@interface KmpcorelibTicketActiveResponseKt : KmpcorelibBase
-+ (NSArray<KmpcorelibBSTicket *> * _Nullable)converterDto:(KmpcorelibTicketActiveResponse *)dto __attribute__((swift_name("converter(dto:)")));
-@end;
-
-__attribute__((objc_subclassing_restricted))
 __attribute__((swift_name("TicketDraftsResponseKt")))
 @interface KmpcorelibTicketDraftsResponseKt : KmpcorelibBase
 + (NSArray<KmpcorelibBSTicket *> *)converterDto:(KmpcorelibTicketDraftsResponse *)dto __attribute__((swift_name("converter(dto:)")));
+@end;
+
+__attribute__((objc_subclassing_restricted))
+__attribute__((swift_name("DbExtensionsKt")))
+@interface KmpcorelibDbExtensionsKt : KmpcorelibBase
++ (NSArray<KmpcorelibBSTicket *> *)getActiveTickets:(id<KmpcorelibKodein_db_apiDB>)receiver __attribute__((swift_name("getActiveTickets(_:)")));
++ (NSArray<KmpcorelibBSTicket *> *)getSettledTickets:(id<KmpcorelibKodein_db_apiDB>)receiver __attribute__((swift_name("getSettledTickets(_:)")));
 @end;
 
 __attribute__((objc_subclassing_restricted))
@@ -2957,6 +3149,20 @@ __attribute__((swift_name("Koin_coreKoin")))
 @property (readonly) KmpcorelibKoin_coreLogger *logger __attribute__((swift_name("logger")));
 @property (readonly) KmpcorelibKoin_corePropertyRegistry *propertyRegistry __attribute__((swift_name("propertyRegistry")));
 @property (readonly) KmpcorelibKoin_coreScopeRegistry *scopeRegistry __attribute__((swift_name("scopeRegistry")));
+@end;
+
+__attribute__((objc_subclassing_restricted))
+__attribute__((swift_name("Koin_coreModule")))
+@interface KmpcorelibKoin_coreModule : KmpcorelibBase
+- (instancetype)initWithCreateAtStart:(BOOL)createAtStart override:(BOOL)override __attribute__((swift_name("init(createAtStart:override:)"))) __attribute__((objc_designated_initializer));
+- (KmpcorelibKoin_coreBeanDefinition<id> *)factoryQualifier:(id<KmpcorelibKoin_coreQualifier> _Nullable)qualifier override:(BOOL)override definition:(id _Nullable (^)(KmpcorelibKoin_coreScope *, KmpcorelibKoin_coreDefinitionParameters *))definition __attribute__((swift_name("factory(qualifier:override:definition:)")));
+- (KmpcorelibKoin_coreOptions *)makeOptionsOverride:(BOOL)override createdAtStart:(BOOL)createdAtStart __attribute__((swift_name("makeOptions(override:createdAtStart:)")));
+- (NSArray<KmpcorelibKoin_coreModule *> *)plusModules:(NSArray<KmpcorelibKoin_coreModule *> *)modules __attribute__((swift_name("plus(modules:)")));
+- (NSArray<KmpcorelibKoin_coreModule *> *)plusModule:(KmpcorelibKoin_coreModule *)module __attribute__((swift_name("plus(module:)")));
+- (void)scopeQualifier:(id<KmpcorelibKoin_coreQualifier>)qualifier scopeSet:(void (^)(KmpcorelibKoin_coreScopeDSL *))scopeSet __attribute__((swift_name("scope(qualifier:scopeSet:)")));
+- (void)scopeScopeSet:(void (^)(KmpcorelibKoin_coreScopeDSL *))scopeSet __attribute__((swift_name("scope(scopeSet:)")));
+- (KmpcorelibKoin_coreBeanDefinition<id> *)singleQualifier:(id<KmpcorelibKoin_coreQualifier> _Nullable)qualifier createdAtStart:(BOOL)createdAtStart override:(BOOL)override definition:(id _Nullable (^)(KmpcorelibKoin_coreScope *, KmpcorelibKoin_coreDefinitionParameters *))definition __attribute__((swift_name("single(qualifier:createdAtStart:override:definition:)")));
+@property (readonly) BOOL isLoaded __attribute__((swift_name("isLoaded")));
 @end;
 
 __attribute__((swift_name("Kotlinx_coroutines_coreSendChannel")))
@@ -3292,6 +3498,122 @@ __attribute__((swift_name("Kotlinx_coroutines_coreFlowCollector")))
 - (void)emitValue:(id _Nullable)value completionHandler:(void (^)(KmpcorelibKotlinUnit * _Nullable, NSError * _Nullable))completionHandler __attribute__((swift_name("emit(value:completionHandler:)")));
 @end;
 
+__attribute__((swift_name("Kodein_db_apiKeyMaker")))
+@protocol KmpcorelibKodein_db_apiKeyMaker
+@required
+- (KmpcorelibKodein_db_apiKey<id> *)keyType:(id<KmpcorelibKotlinKClass>)type id:(KmpcorelibKotlinArray<id> *)id __attribute__((swift_name("key(type:id:)"))) __attribute__((unavailable("Use keyById")));
+- (KmpcorelibKodein_db_apiKey<id> *)keyByIdType:(id<KmpcorelibKotlinKClass>)type id:(KmpcorelibKotlinArray<id> *)id __attribute__((swift_name("keyById(type:id:)")));
+- (KmpcorelibKodein_db_apiKey<id> *)keyFromModel:(id)model options:(KmpcorelibKotlinArray<id<KmpcorelibKodein_db_apiOptionsPuts>> *)options __attribute__((swift_name("keyFrom(model:options:)")));
+- (KmpcorelibKodein_db_apiKey<id> *)keyFromB64Type:(id<KmpcorelibKotlinKClass>)type b64:(NSString *)b64 __attribute__((swift_name("keyFromB64(type:b64:)")));
+@end;
+
+__attribute__((swift_name("Kodein_db_apiDBRead")))
+@protocol KmpcorelibKodein_db_apiDBRead <KmpcorelibKodein_db_apiKeyMaker>
+@required
+- (id<KmpcorelibKodein_db_apiDBReadFindDsl>)findType:(id<KmpcorelibKotlinKClass>)type options:(KmpcorelibKotlinArray<id<KmpcorelibKodein_db_apiOptionsFind>> *)options __attribute__((swift_name("find(type:options:)")));
+- (id<KmpcorelibKodein_db_apiCursor>)findAllOptions:(KmpcorelibKotlinArray<id<KmpcorelibKodein_db_apiOptionsFind>> *)options __attribute__((swift_name("findAll(options:)")));
+- (id _Nullable)getType:(id<KmpcorelibKotlinKClass>)type key:(KmpcorelibKodein_db_apiKey<id> *)key options:(KmpcorelibKotlinArray<id<KmpcorelibKodein_db_apiOptionsGet>> *)options __attribute__((swift_name("get(type:key:options:)")));
+- (NSSet<NSString *> *)getIndexesOfKey:(KmpcorelibKodein_db_apiKey<id> *)key __attribute__((swift_name("getIndexesOf(key:)")));
+@end;
+
+__attribute__((swift_name("Kodein_db_apiDBWrite")))
+@protocol KmpcorelibKodein_db_apiDBWrite <KmpcorelibKodein_db_apiKeyMaker>
+@required
+- (void)deleteType:(id<KmpcorelibKotlinKClass>)type key:(KmpcorelibKodein_db_apiKey<id> *)key __attribute__((swift_name("delete(type:key:)")));
+- (void)deleteType:(id<KmpcorelibKotlinKClass>)type key:(KmpcorelibKodein_db_apiKey<id> *)key options_:(KmpcorelibKotlinArray<id<KmpcorelibKodein_db_apiOptionsDeletes>> *)options __attribute__((swift_name("delete(type:key:options_:)")));
+- (KmpcorelibKodein_db_apiKey<id> *)putModel:(id)model __attribute__((swift_name("put(model:)")));
+- (KmpcorelibKodein_db_apiKey<id> *)putModel:(id)model options_:(KmpcorelibKotlinArray<id<KmpcorelibKodein_db_apiOptionsPuts>> *)options __attribute__((swift_name("put(model:options_:)")));
+- (void)putKey:(KmpcorelibKodein_db_apiKey<id> *)key model:(id)model __attribute__((swift_name("put(key:model:)")));
+- (void)putKey:(KmpcorelibKodein_db_apiKey<id> *)key model:(id)model options_:(KmpcorelibKotlinArray<id<KmpcorelibKodein_db_apiOptionsPuts>> *)options __attribute__((swift_name("put(key:model:options_:)")));
+@end;
+
+__attribute__((swift_name("Kodein_memoryCloseable")))
+@protocol KmpcorelibKodein_memoryCloseable
+@required
+- (void)close __attribute__((swift_name("close()")));
+@end;
+
+__attribute__((swift_name("Kodein_db_apiDB")))
+@protocol KmpcorelibKodein_db_apiDB <KmpcorelibKodein_db_apiDBRead, KmpcorelibKodein_db_apiDBWrite, KmpcorelibKodein_memoryCloseable>
+@required
+- (void)deleteType:(id<KmpcorelibKotlinKClass>)type key:(KmpcorelibKodein_db_apiKey<id> *)key options:(KmpcorelibKotlinArray<id<KmpcorelibKodein_db_apiOptionsDirectDelete>> *)options __attribute__((swift_name("delete(type:key:options:)")));
+- (id<KmpcorelibKodein_db_apiBatch>)doNewBatchOptions:(KmpcorelibKotlinArray<id<KmpcorelibKodein_db_apiOptionsNewBatch>> *)options __attribute__((swift_name("doNewBatch(options:)")));
+- (id<KmpcorelibKodein_db_apiSnapshot>)doNewSnapshotOptions:(KmpcorelibKotlinArray<id<KmpcorelibKodein_db_apiOptionsNewSnapshot>> *)options __attribute__((swift_name("doNewSnapshot(options:)")));
+- (id<KmpcorelibKodein_db_apiDBRegisterDsl>)onType:(id<KmpcorelibKotlinKClass>)type __attribute__((swift_name("on(type:)")));
+- (id<KmpcorelibKodein_db_apiDBRegisterDsl>)onAll __attribute__((swift_name("onAll()")));
+- (KmpcorelibKodein_db_apiKey<id> *)putModel:(id)model options:(KmpcorelibKotlinArray<id<KmpcorelibKodein_db_apiOptionsDirectPut>> *)options __attribute__((swift_name("put(model:options:)")));
+- (void)putKey:(KmpcorelibKodein_db_apiKey<id> *)key model:(id)model options:(KmpcorelibKotlinArray<id<KmpcorelibKodein_db_apiOptionsDirectPut>> *)options __attribute__((swift_name("put(key:model:options:)")));
+@end;
+
+__attribute__((objc_subclassing_restricted))
+__attribute__((swift_name("Kotlinx_datetimeInstant")))
+@interface KmpcorelibKotlinx_datetimeInstant : KmpcorelibBase <KmpcorelibKotlinComparable>
+- (int32_t)compareToOther:(KmpcorelibKotlinx_datetimeInstant *)other __attribute__((swift_name("compareTo(other:)")));
+- (BOOL)isEqual:(id _Nullable)other __attribute__((swift_name("isEqual(_:)")));
+- (NSUInteger)hash __attribute__((swift_name("hash()")));
+- (KmpcorelibKotlinx_datetimeInstant *)minusDuration:(int64_t)duration __attribute__((swift_name("minus(duration:)")));
+- (int64_t)minusOther:(KmpcorelibKotlinx_datetimeInstant *)other __attribute__((swift_name("minus(other:)")));
+- (KmpcorelibKotlinx_datetimeInstant *)plusDuration:(int64_t)duration __attribute__((swift_name("plus(duration:)")));
+- (int64_t)toEpochMilliseconds __attribute__((swift_name("toEpochMilliseconds()")));
+- (NSString *)description __attribute__((swift_name("description()")));
+@property (readonly) int64_t epochSeconds __attribute__((swift_name("epochSeconds")));
+@property (readonly) int32_t nanosecondsOfSecond __attribute__((swift_name("nanosecondsOfSecond")));
+@end;
+
+__attribute__((objc_subclassing_restricted))
+__attribute__((swift_name("Kotlinx_datetimeMonth")))
+@interface KmpcorelibKotlinx_datetimeMonth : KmpcorelibKotlinEnum<KmpcorelibKotlinx_datetimeMonth *>
++ (instancetype)alloc __attribute__((unavailable));
++ (instancetype)allocWithZone:(struct _NSZone *)zone __attribute__((unavailable));
+- (instancetype)initWithName:(NSString *)name ordinal:(int32_t)ordinal __attribute__((swift_name("init(name:ordinal:)"))) __attribute__((objc_designated_initializer)) __attribute__((unavailable));
+@property (class, readonly) KmpcorelibKotlinx_datetimeMonth *january __attribute__((swift_name("january")));
+@property (class, readonly) KmpcorelibKotlinx_datetimeMonth *february __attribute__((swift_name("february")));
+@property (class, readonly) KmpcorelibKotlinx_datetimeMonth *march __attribute__((swift_name("march")));
+@property (class, readonly) KmpcorelibKotlinx_datetimeMonth *april __attribute__((swift_name("april")));
+@property (class, readonly) KmpcorelibKotlinx_datetimeMonth *may __attribute__((swift_name("may")));
+@property (class, readonly) KmpcorelibKotlinx_datetimeMonth *june __attribute__((swift_name("june")));
+@property (class, readonly) KmpcorelibKotlinx_datetimeMonth *july __attribute__((swift_name("july")));
+@property (class, readonly) KmpcorelibKotlinx_datetimeMonth *august __attribute__((swift_name("august")));
+@property (class, readonly) KmpcorelibKotlinx_datetimeMonth *september __attribute__((swift_name("september")));
+@property (class, readonly) KmpcorelibKotlinx_datetimeMonth *october __attribute__((swift_name("october")));
+@property (class, readonly) KmpcorelibKotlinx_datetimeMonth *november __attribute__((swift_name("november")));
+@property (class, readonly) KmpcorelibKotlinx_datetimeMonth *december __attribute__((swift_name("december")));
++ (KmpcorelibKotlinArray<KmpcorelibKotlinx_datetimeMonth *> *)values __attribute__((swift_name("values()")));
+@end;
+
+__attribute__((objc_subclassing_restricted))
+__attribute__((swift_name("Kotlinx_datetimeLocalDate")))
+@interface KmpcorelibKotlinx_datetimeLocalDate : KmpcorelibBase <KmpcorelibKotlinComparable>
+- (instancetype)initWithYear:(int32_t)year month:(KmpcorelibKotlinx_datetimeMonth *)month dayOfMonth:(int32_t)dayOfMonth __attribute__((swift_name("init(year:month:dayOfMonth:)"))) __attribute__((objc_designated_initializer));
+- (instancetype)initWithYear:(int32_t)year monthNumber:(int32_t)monthNumber dayOfMonth:(int32_t)dayOfMonth __attribute__((swift_name("init(year:monthNumber:dayOfMonth:)"))) __attribute__((objc_designated_initializer));
+- (int32_t)compareToOther:(KmpcorelibKotlinx_datetimeLocalDate *)other __attribute__((swift_name("compareTo(other:)")));
+- (BOOL)isEqual:(id _Nullable)other __attribute__((swift_name("isEqual(_:)")));
+- (NSUInteger)hash __attribute__((swift_name("hash()")));
+- (NSString *)description __attribute__((swift_name("description()")));
+@property (readonly) int32_t dayOfMonth __attribute__((swift_name("dayOfMonth")));
+@property (readonly) KmpcorelibKotlinx_datetimeDayOfWeek *dayOfWeek __attribute__((swift_name("dayOfWeek")));
+@property (readonly) int32_t dayOfYear __attribute__((swift_name("dayOfYear")));
+@property (readonly) KmpcorelibKotlinx_datetimeMonth *month __attribute__((swift_name("month")));
+@property (readonly) int32_t monthNumber __attribute__((swift_name("monthNumber")));
+@property (readonly) int32_t year __attribute__((swift_name("year")));
+@end;
+
+__attribute__((objc_subclassing_restricted))
+__attribute__((swift_name("Kotlinx_datetimeDayOfWeek")))
+@interface KmpcorelibKotlinx_datetimeDayOfWeek : KmpcorelibKotlinEnum<KmpcorelibKotlinx_datetimeDayOfWeek *>
++ (instancetype)alloc __attribute__((unavailable));
++ (instancetype)allocWithZone:(struct _NSZone *)zone __attribute__((unavailable));
+- (instancetype)initWithName:(NSString *)name ordinal:(int32_t)ordinal __attribute__((swift_name("init(name:ordinal:)"))) __attribute__((objc_designated_initializer)) __attribute__((unavailable));
+@property (class, readonly) KmpcorelibKotlinx_datetimeDayOfWeek *monday __attribute__((swift_name("monday")));
+@property (class, readonly) KmpcorelibKotlinx_datetimeDayOfWeek *tuesday __attribute__((swift_name("tuesday")));
+@property (class, readonly) KmpcorelibKotlinx_datetimeDayOfWeek *wednesday __attribute__((swift_name("wednesday")));
+@property (class, readonly) KmpcorelibKotlinx_datetimeDayOfWeek *thursday __attribute__((swift_name("thursday")));
+@property (class, readonly) KmpcorelibKotlinx_datetimeDayOfWeek *friday __attribute__((swift_name("friday")));
+@property (class, readonly) KmpcorelibKotlinx_datetimeDayOfWeek *saturday __attribute__((swift_name("saturday")));
+@property (class, readonly) KmpcorelibKotlinx_datetimeDayOfWeek *sunday __attribute__((swift_name("sunday")));
++ (KmpcorelibKotlinArray<KmpcorelibKotlinx_datetimeDayOfWeek *> *)values __attribute__((swift_name("values()")));
+@end;
+
 __attribute__((swift_name("BignumBigNumberCreator")))
 @protocol KmpcorelibBignumBigNumberCreator
 @required
@@ -3438,20 +3760,6 @@ __attribute__((swift_name("BignumRoundingMode")))
 @property (class, readonly) KmpcorelibBignumRoundingMode *roundHalfToEven __attribute__((swift_name("roundHalfToEven")));
 @property (class, readonly) KmpcorelibBignumRoundingMode *roundHalfToOdd __attribute__((swift_name("roundHalfToOdd")));
 + (KmpcorelibKotlinArray<KmpcorelibBignumRoundingMode *> *)values __attribute__((swift_name("values()")));
-@end;
-
-__attribute__((objc_subclassing_restricted))
-__attribute__((swift_name("Koin_coreModule")))
-@interface KmpcorelibKoin_coreModule : KmpcorelibBase
-- (instancetype)initWithCreateAtStart:(BOOL)createAtStart override:(BOOL)override __attribute__((swift_name("init(createAtStart:override:)"))) __attribute__((objc_designated_initializer));
-- (KmpcorelibKoin_coreBeanDefinition<id> *)factoryQualifier:(id<KmpcorelibKoin_coreQualifier> _Nullable)qualifier override:(BOOL)override definition:(id _Nullable (^)(KmpcorelibKoin_coreScope *, KmpcorelibKoin_coreDefinitionParameters *))definition __attribute__((swift_name("factory(qualifier:override:definition:)")));
-- (KmpcorelibKoin_coreOptions *)makeOptionsOverride:(BOOL)override createdAtStart:(BOOL)createdAtStart __attribute__((swift_name("makeOptions(override:createdAtStart:)")));
-- (NSArray<KmpcorelibKoin_coreModule *> *)plusModules:(NSArray<KmpcorelibKoin_coreModule *> *)modules __attribute__((swift_name("plus(modules:)")));
-- (NSArray<KmpcorelibKoin_coreModule *> *)plusModule:(KmpcorelibKoin_coreModule *)module __attribute__((swift_name("plus(module:)")));
-- (void)scopeQualifier:(id<KmpcorelibKoin_coreQualifier>)qualifier scopeSet:(void (^)(KmpcorelibKoin_coreScopeDSL *))scopeSet __attribute__((swift_name("scope(qualifier:scopeSet:)")));
-- (void)scopeScopeSet:(void (^)(KmpcorelibKoin_coreScopeDSL *))scopeSet __attribute__((swift_name("scope(scopeSet:)")));
-- (KmpcorelibKoin_coreBeanDefinition<id> *)singleQualifier:(id<KmpcorelibKoin_coreQualifier> _Nullable)qualifier createdAtStart:(BOOL)createdAtStart override:(BOOL)override definition:(id _Nullable (^)(KmpcorelibKoin_coreScope *, KmpcorelibKoin_coreDefinitionParameters *))definition __attribute__((swift_name("single(qualifier:createdAtStart:override:definition:)")));
-@property (readonly) BOOL isLoaded __attribute__((swift_name("isLoaded")));
 @end;
 
 __attribute__((swift_name("KotlinKDeclarationContainer")))
@@ -3609,6 +3917,63 @@ __attribute__((swift_name("Koin_coreScopeRegistry")))
 - (void)unloadModulesModule:(KmpcorelibKoin_coreModule *)module __attribute__((swift_name("unloadModules(module:)")));
 @property (readonly) KmpcorelibKoin_coreScope *rootScope __attribute__((swift_name("rootScope")));
 @property (readonly) NSDictionary<NSString *, KmpcorelibKoin_coreScopeDefinition *> *scopeDefinitions __attribute__((swift_name("scopeDefinitions")));
+@end;
+
+__attribute__((objc_subclassing_restricted))
+__attribute__((swift_name("Koin_coreBeanDefinition")))
+@interface KmpcorelibKoin_coreBeanDefinition<T> : KmpcorelibBase
+- (instancetype)initWithScopeQualifier:(id<KmpcorelibKoin_coreQualifier>)scopeQualifier primaryType:(id<KmpcorelibKotlinKClass>)primaryType qualifier:(id<KmpcorelibKoin_coreQualifier> _Nullable)qualifier definition:(T _Nullable (^)(KmpcorelibKoin_coreScope *, KmpcorelibKoin_coreDefinitionParameters *))definition kind:(KmpcorelibKoin_coreKind *)kind secondaryTypes:(NSArray<id<KmpcorelibKotlinKClass>> *)secondaryTypes options:(KmpcorelibKoin_coreOptions *)options properties:(KmpcorelibKoin_coreProperties *)properties __attribute__((swift_name("init(scopeQualifier:primaryType:qualifier:definition:kind:secondaryTypes:options:properties:)"))) __attribute__((objc_designated_initializer));
+- (BOOL)canBindPrimary:(id<KmpcorelibKotlinKClass>)primary secondary:(id<KmpcorelibKotlinKClass>)secondary __attribute__((swift_name("canBind(primary:secondary:)")));
+- (id<KmpcorelibKoin_coreQualifier>)component1 __attribute__((swift_name("component1()")));
+- (id<KmpcorelibKotlinKClass>)component2 __attribute__((swift_name("component2()")));
+- (id<KmpcorelibKoin_coreQualifier> _Nullable)component3 __attribute__((swift_name("component3()")));
+- (T _Nullable (^)(KmpcorelibKoin_coreScope *, KmpcorelibKoin_coreDefinitionParameters *))component4 __attribute__((swift_name("component4()")));
+- (KmpcorelibKoin_coreKind *)component5 __attribute__((swift_name("component5()")));
+- (NSArray<id<KmpcorelibKotlinKClass>> *)component6 __attribute__((swift_name("component6()")));
+- (KmpcorelibKoin_coreOptions *)component7 __attribute__((swift_name("component7()")));
+- (KmpcorelibKoin_coreProperties *)component8 __attribute__((swift_name("component8()")));
+- (KmpcorelibKoin_coreBeanDefinition<T> *)doCopyScopeQualifier:(id<KmpcorelibKoin_coreQualifier>)scopeQualifier primaryType:(id<KmpcorelibKotlinKClass>)primaryType qualifier:(id<KmpcorelibKoin_coreQualifier> _Nullable)qualifier definition:(T _Nullable (^)(KmpcorelibKoin_coreScope *, KmpcorelibKoin_coreDefinitionParameters *))definition kind:(KmpcorelibKoin_coreKind *)kind secondaryTypes:(NSArray<id<KmpcorelibKotlinKClass>> *)secondaryTypes options:(KmpcorelibKoin_coreOptions *)options properties:(KmpcorelibKoin_coreProperties *)properties __attribute__((swift_name("doCopy(scopeQualifier:primaryType:qualifier:definition:kind:secondaryTypes:options:properties:)")));
+- (BOOL)isEqual:(id _Nullable)other __attribute__((swift_name("isEqual(_:)")));
+- (BOOL)hasTypeClazz:(id<KmpcorelibKotlinKClass>)clazz __attribute__((swift_name("hasType(clazz:)")));
+- (NSUInteger)hash __attribute__((swift_name("hash()")));
+- (BOOL)isClazz:(id<KmpcorelibKotlinKClass>)clazz qualifier:(id<KmpcorelibKoin_coreQualifier> _Nullable)qualifier scopeDefinition:(id<KmpcorelibKoin_coreQualifier>)scopeDefinition __attribute__((swift_name("is(clazz:qualifier:scopeDefinition:)")));
+- (NSString *)description __attribute__((swift_name("description()")));
+@property KmpcorelibKoin_coreCallbacks<T> *callbacks __attribute__((swift_name("callbacks")));
+@property (readonly) T _Nullable (^definition)(KmpcorelibKoin_coreScope *, KmpcorelibKoin_coreDefinitionParameters *) __attribute__((swift_name("definition")));
+@property (readonly) KmpcorelibKoin_coreKind *kind __attribute__((swift_name("kind")));
+@property (readonly) KmpcorelibKoin_coreOptions *options __attribute__((swift_name("options")));
+@property (readonly) id<KmpcorelibKotlinKClass> primaryType __attribute__((swift_name("primaryType")));
+@property (readonly) KmpcorelibKoin_coreProperties *properties __attribute__((swift_name("properties")));
+@property (readonly) id<KmpcorelibKoin_coreQualifier> _Nullable qualifier __attribute__((swift_name("qualifier")));
+@property (readonly) id<KmpcorelibKoin_coreQualifier> scopeQualifier __attribute__((swift_name("scopeQualifier")));
+@property NSArray<id<KmpcorelibKotlinKClass>> *secondaryTypes __attribute__((swift_name("secondaryTypes")));
+@end;
+
+__attribute__((objc_subclassing_restricted))
+__attribute__((swift_name("Koin_coreOptions")))
+@interface KmpcorelibKoin_coreOptions : KmpcorelibBase
+- (instancetype)initWithIsCreatedAtStart:(BOOL)isCreatedAtStart override:(BOOL)override isExtraDefinition:(BOOL)isExtraDefinition __attribute__((swift_name("init(isCreatedAtStart:override:isExtraDefinition:)"))) __attribute__((objc_designated_initializer));
+- (BOOL)component1 __attribute__((swift_name("component1()")));
+- (BOOL)component2 __attribute__((swift_name("component2()")));
+- (BOOL)component3 __attribute__((swift_name("component3()")));
+- (KmpcorelibKoin_coreOptions *)doCopyIsCreatedAtStart:(BOOL)isCreatedAtStart override:(BOOL)override isExtraDefinition:(BOOL)isExtraDefinition __attribute__((swift_name("doCopy(isCreatedAtStart:override:isExtraDefinition:)")));
+- (BOOL)isEqual:(id _Nullable)other __attribute__((swift_name("isEqual(_:)")));
+- (NSUInteger)hash __attribute__((swift_name("hash()")));
+- (NSString *)description __attribute__((swift_name("description()")));
+@property BOOL isCreatedAtStart __attribute__((swift_name("isCreatedAtStart")));
+@property BOOL isExtraDefinition __attribute__((swift_name("isExtraDefinition")));
+@property BOOL override __attribute__((swift_name("override")));
+@end;
+
+__attribute__((objc_subclassing_restricted))
+__attribute__((swift_name("Koin_coreScopeDSL")))
+@interface KmpcorelibKoin_coreScopeDSL : KmpcorelibBase
+- (instancetype)initWithScopeQualifier:(id<KmpcorelibKoin_coreQualifier>)scopeQualifier definitions:(KmpcorelibMutableSet<KmpcorelibKoin_coreBeanDefinition<id> *> *)definitions __attribute__((swift_name("init(scopeQualifier:definitions:)"))) __attribute__((objc_designated_initializer));
+- (KmpcorelibKoin_coreBeanDefinition<id> *)factoryQualifier:(id<KmpcorelibKoin_coreQualifier> _Nullable)qualifier override:(BOOL)override definition:(id _Nullable (^)(KmpcorelibKoin_coreScope *, KmpcorelibKoin_coreDefinitionParameters *))definition __attribute__((swift_name("factory(qualifier:override:definition:)")));
+- (KmpcorelibKoin_coreBeanDefinition<id> *)scopedQualifier:(id<KmpcorelibKoin_coreQualifier> _Nullable)qualifier override:(BOOL)override definition:(id _Nullable (^)(KmpcorelibKoin_coreScope *, KmpcorelibKoin_coreDefinitionParameters *))definition __attribute__((swift_name("scoped(qualifier:override:definition:)")));
+- (KmpcorelibKoin_coreBeanDefinition<id> *)singleQualifier:(id<KmpcorelibKoin_coreQualifier> _Nullable)qualifier override:(BOOL)override definition:(id _Nullable (^)(KmpcorelibKoin_coreScope *, KmpcorelibKoin_coreDefinitionParameters *))definition __attribute__((swift_name("single(qualifier:override:definition:)"))) __attribute__((unavailable("Can't use Single in a scope. Use Scoped instead")));
+@property (readonly) KmpcorelibMutableSet<KmpcorelibKoin_coreBeanDefinition<id> *> *definitions __attribute__((swift_name("definitions")));
+@property (readonly) id<KmpcorelibKoin_coreQualifier> scopeQualifier __attribute__((swift_name("scopeQualifier")));
 @end;
 
 __attribute__((swift_name("Kotlinx_coroutines_coreSelectClause2")))
@@ -3940,6 +4305,123 @@ __attribute__((swift_name("KotlinNothing")))
 @end;
 
 __attribute__((objc_subclassing_restricted))
+__attribute__((swift_name("Kodein_db_apiKey")))
+@interface KmpcorelibKodein_db_apiKey<__covariant T> : KmpcorelibBase
+- (instancetype)initWithBytes:(id<KmpcorelibKodein_memoryReadMemory>)bytes __attribute__((swift_name("init(bytes:)"))) __attribute__((objc_designated_initializer));
+- (id<KmpcorelibKodein_memoryReadMemory>)component1 __attribute__((swift_name("component1()")));
+- (KmpcorelibKodein_db_apiKey<T> *)doCopyBytes:(id<KmpcorelibKodein_memoryReadMemory>)bytes __attribute__((swift_name("doCopy(bytes:)")));
+- (BOOL)isEqual:(id _Nullable)other __attribute__((swift_name("isEqual(_:)")));
+- (NSUInteger)hash __attribute__((swift_name("hash()")));
+- (NSString *)toBase64 __attribute__((swift_name("toBase64()")));
+- (NSString *)description __attribute__((swift_name("description()")));
+@property (readonly) id<KmpcorelibKodein_memoryReadMemory> bytes __attribute__((swift_name("bytes")));
+@end;
+
+__attribute__((swift_name("Kodein_db_apiOptions")))
+@protocol KmpcorelibKodein_db_apiOptions
+@required
+@end;
+
+__attribute__((swift_name("Kodein_db_apiOptionsDirectDelete")))
+@protocol KmpcorelibKodein_db_apiOptionsDirectDelete <KmpcorelibKodein_db_apiOptions>
+@required
+@end;
+
+__attribute__((swift_name("Kodein_db_apiBatch")))
+@protocol KmpcorelibKodein_db_apiBatch <KmpcorelibKodein_db_apiDBWrite, KmpcorelibKodein_memoryCloseable>
+@required
+- (void)deleteType:(id<KmpcorelibKotlinKClass>)type key:(KmpcorelibKodein_db_apiKey<id> *)key options__:(KmpcorelibKotlinArray<id<KmpcorelibKodein_db_apiOptionsBatchDelete>> *)options __attribute__((swift_name("delete(type:key:options__:)")));
+- (KmpcorelibKodein_db_apiKey<id> *)putModel:(id)model options__:(KmpcorelibKotlinArray<id<KmpcorelibKodein_db_apiOptionsBatchPut>> *)options __attribute__((swift_name("put(model:options__:)")));
+- (void)putKey:(KmpcorelibKodein_db_apiKey<id> *)key model:(id)model options__:(KmpcorelibKotlinArray<id<KmpcorelibKodein_db_apiOptionsBatchPut>> *)options __attribute__((swift_name("put(key:model:options__:)")));
+- (void)writeOptions:(KmpcorelibKotlinArray<id<KmpcorelibKodein_db_apiOptionsBatchWrite>> *)options __attribute__((swift_name("write(options:)")));
+@end;
+
+__attribute__((swift_name("Kodein_db_apiOptionsNewBatch")))
+@protocol KmpcorelibKodein_db_apiOptionsNewBatch <KmpcorelibKodein_db_apiOptions>
+@required
+@end;
+
+__attribute__((swift_name("Kodein_db_apiSnapshot")))
+@protocol KmpcorelibKodein_db_apiSnapshot <KmpcorelibKodein_db_apiDBRead, KmpcorelibKodein_memoryCloseable>
+@required
+@end;
+
+__attribute__((swift_name("Kodein_db_apiOptionsNewSnapshot")))
+@protocol KmpcorelibKodein_db_apiOptionsNewSnapshot <KmpcorelibKodein_db_apiOptions>
+@required
+@end;
+
+__attribute__((swift_name("Kodein_db_apiDBRegisterDsl")))
+@protocol KmpcorelibKodein_db_apiDBRegisterDsl
+@required
+- (id<KmpcorelibKodein_db_apiDBRegisterDsl>)filterF:(KmpcorelibBoolean *(^)(id))f __attribute__((swift_name("filter(f:)")));
+- (id<KmpcorelibKodein_memoryCloseable>)registerBuilder:(void (^)(KmpcorelibKodein_db_apiDBListenerBuilder<id> *))builder __attribute__((swift_name("register(builder:)")));
+- (id<KmpcorelibKodein_memoryCloseable>)registerListener:(id<KmpcorelibKodein_db_apiDBListener>)listener __attribute__((swift_name("register(listener:)")));
+@end;
+
+__attribute__((swift_name("Kodein_db_apiOptionsDirectPut")))
+@protocol KmpcorelibKodein_db_apiOptionsDirectPut <KmpcorelibKodein_db_apiOptions>
+@required
+@end;
+
+__attribute__((swift_name("Kodein_db_apiDBReadFindDsl")))
+@protocol KmpcorelibKodein_db_apiDBReadFindDsl
+@required
+- (id<KmpcorelibKodein_db_apiCursor>)all __attribute__((swift_name("all()")));
+- (id<KmpcorelibKodein_db_apiCursor>)byIdId:(KmpcorelibKotlinArray<id> *)id isOpen:(BOOL)isOpen __attribute__((swift_name("byId(id:isOpen:)")));
+- (id<KmpcorelibKodein_db_apiCursor>)byIndexIndex:(NSString *)index value:(KmpcorelibKotlinArray<id> *)value isOpen:(BOOL)isOpen __attribute__((swift_name("byIndex(index:value:isOpen:)")));
+@end;
+
+__attribute__((swift_name("Kodein_db_apiOptionsFind")))
+@protocol KmpcorelibKodein_db_apiOptionsFind <KmpcorelibKodein_db_apiOptions>
+@required
+@end;
+
+__attribute__((swift_name("Kodein_db_apiBaseCursor")))
+@protocol KmpcorelibKodein_db_apiBaseCursor <KmpcorelibKodein_memoryCloseable>
+@required
+- (BOOL)isValid __attribute__((swift_name("isValid()")));
+- (void)next_ __attribute__((swift_name("next_()")));
+- (void)prev __attribute__((swift_name("prev()")));
+- (void)seekToTarget:(id<KmpcorelibKodein_memoryReadMemory>)target __attribute__((swift_name("seekTo(target:)")));
+- (void)seekToFirst __attribute__((swift_name("seekToFirst()")));
+- (void)seekToLast __attribute__((swift_name("seekToLast()")));
+- (id<KmpcorelibKodein_memoryReadMemory>)transientSeekKey __attribute__((swift_name("transientSeekKey()")));
+@end;
+
+__attribute__((swift_name("Kodein_db_apiCursor")))
+@protocol KmpcorelibKodein_db_apiCursor <KmpcorelibKodein_db_apiBaseCursor>
+@required
+- (KmpcorelibKodein_db_apiKey<id> *)key_ __attribute__((swift_name("key()")));
+- (id)modelOptions:(KmpcorelibKotlinArray<id<KmpcorelibKodein_db_apiOptionsGet>> *)options __attribute__((swift_name("model(options:)")));
+@end;
+
+__attribute__((swift_name("Kodein_db_apiOptionsGet")))
+@protocol KmpcorelibKodein_db_apiOptionsGet <KmpcorelibKodein_db_apiOptions>
+@required
+@end;
+
+__attribute__((swift_name("Kodein_db_apiOptionsBatchPut")))
+@protocol KmpcorelibKodein_db_apiOptionsBatchPut <KmpcorelibKodein_db_apiOptions>
+@required
+@end;
+
+__attribute__((swift_name("Kodein_db_apiOptionsPuts")))
+@protocol KmpcorelibKodein_db_apiOptionsPuts <KmpcorelibKodein_db_apiOptionsDirectPut, KmpcorelibKodein_db_apiOptionsBatchPut>
+@required
+@end;
+
+__attribute__((swift_name("Kodein_db_apiOptionsBatchDelete")))
+@protocol KmpcorelibKodein_db_apiOptionsBatchDelete <KmpcorelibKodein_db_apiOptions>
+@required
+@end;
+
+__attribute__((swift_name("Kodein_db_apiOptionsDeletes")))
+@protocol KmpcorelibKodein_db_apiOptionsDeletes <KmpcorelibKodein_db_apiOptionsDirectDelete, KmpcorelibKodein_db_apiOptionsBatchDelete>
+@required
+@end;
+
+__attribute__((objc_subclassing_restricted))
 __attribute__((swift_name("KotlinByteArray")))
 @interface KmpcorelibKotlinByteArray : KmpcorelibBase
 + (instancetype)arrayWithSize:(int32_t)size __attribute__((swift_name("init(size:)")));
@@ -4053,63 +4535,6 @@ __attribute__((swift_name("BignumModularBigInteger")))
 @end;
 
 __attribute__((objc_subclassing_restricted))
-__attribute__((swift_name("Koin_coreBeanDefinition")))
-@interface KmpcorelibKoin_coreBeanDefinition<T> : KmpcorelibBase
-- (instancetype)initWithScopeQualifier:(id<KmpcorelibKoin_coreQualifier>)scopeQualifier primaryType:(id<KmpcorelibKotlinKClass>)primaryType qualifier:(id<KmpcorelibKoin_coreQualifier> _Nullable)qualifier definition:(T _Nullable (^)(KmpcorelibKoin_coreScope *, KmpcorelibKoin_coreDefinitionParameters *))definition kind:(KmpcorelibKoin_coreKind *)kind secondaryTypes:(NSArray<id<KmpcorelibKotlinKClass>> *)secondaryTypes options:(KmpcorelibKoin_coreOptions *)options properties:(KmpcorelibKoin_coreProperties *)properties __attribute__((swift_name("init(scopeQualifier:primaryType:qualifier:definition:kind:secondaryTypes:options:properties:)"))) __attribute__((objc_designated_initializer));
-- (BOOL)canBindPrimary:(id<KmpcorelibKotlinKClass>)primary secondary:(id<KmpcorelibKotlinKClass>)secondary __attribute__((swift_name("canBind(primary:secondary:)")));
-- (id<KmpcorelibKoin_coreQualifier>)component1 __attribute__((swift_name("component1()")));
-- (id<KmpcorelibKotlinKClass>)component2 __attribute__((swift_name("component2()")));
-- (id<KmpcorelibKoin_coreQualifier> _Nullable)component3 __attribute__((swift_name("component3()")));
-- (T _Nullable (^)(KmpcorelibKoin_coreScope *, KmpcorelibKoin_coreDefinitionParameters *))component4 __attribute__((swift_name("component4()")));
-- (KmpcorelibKoin_coreKind *)component5 __attribute__((swift_name("component5()")));
-- (NSArray<id<KmpcorelibKotlinKClass>> *)component6 __attribute__((swift_name("component6()")));
-- (KmpcorelibKoin_coreOptions *)component7 __attribute__((swift_name("component7()")));
-- (KmpcorelibKoin_coreProperties *)component8 __attribute__((swift_name("component8()")));
-- (KmpcorelibKoin_coreBeanDefinition<T> *)doCopyScopeQualifier:(id<KmpcorelibKoin_coreQualifier>)scopeQualifier primaryType:(id<KmpcorelibKotlinKClass>)primaryType qualifier:(id<KmpcorelibKoin_coreQualifier> _Nullable)qualifier definition:(T _Nullable (^)(KmpcorelibKoin_coreScope *, KmpcorelibKoin_coreDefinitionParameters *))definition kind:(KmpcorelibKoin_coreKind *)kind secondaryTypes:(NSArray<id<KmpcorelibKotlinKClass>> *)secondaryTypes options:(KmpcorelibKoin_coreOptions *)options properties:(KmpcorelibKoin_coreProperties *)properties __attribute__((swift_name("doCopy(scopeQualifier:primaryType:qualifier:definition:kind:secondaryTypes:options:properties:)")));
-- (BOOL)isEqual:(id _Nullable)other __attribute__((swift_name("isEqual(_:)")));
-- (BOOL)hasTypeClazz:(id<KmpcorelibKotlinKClass>)clazz __attribute__((swift_name("hasType(clazz:)")));
-- (NSUInteger)hash __attribute__((swift_name("hash()")));
-- (BOOL)isClazz:(id<KmpcorelibKotlinKClass>)clazz qualifier:(id<KmpcorelibKoin_coreQualifier> _Nullable)qualifier scopeDefinition:(id<KmpcorelibKoin_coreQualifier>)scopeDefinition __attribute__((swift_name("is(clazz:qualifier:scopeDefinition:)")));
-- (NSString *)description __attribute__((swift_name("description()")));
-@property KmpcorelibKoin_coreCallbacks<T> *callbacks __attribute__((swift_name("callbacks")));
-@property (readonly) T _Nullable (^definition)(KmpcorelibKoin_coreScope *, KmpcorelibKoin_coreDefinitionParameters *) __attribute__((swift_name("definition")));
-@property (readonly) KmpcorelibKoin_coreKind *kind __attribute__((swift_name("kind")));
-@property (readonly) KmpcorelibKoin_coreOptions *options __attribute__((swift_name("options")));
-@property (readonly) id<KmpcorelibKotlinKClass> primaryType __attribute__((swift_name("primaryType")));
-@property (readonly) KmpcorelibKoin_coreProperties *properties __attribute__((swift_name("properties")));
-@property (readonly) id<KmpcorelibKoin_coreQualifier> _Nullable qualifier __attribute__((swift_name("qualifier")));
-@property (readonly) id<KmpcorelibKoin_coreQualifier> scopeQualifier __attribute__((swift_name("scopeQualifier")));
-@property NSArray<id<KmpcorelibKotlinKClass>> *secondaryTypes __attribute__((swift_name("secondaryTypes")));
-@end;
-
-__attribute__((objc_subclassing_restricted))
-__attribute__((swift_name("Koin_coreOptions")))
-@interface KmpcorelibKoin_coreOptions : KmpcorelibBase
-- (instancetype)initWithIsCreatedAtStart:(BOOL)isCreatedAtStart override:(BOOL)override isExtraDefinition:(BOOL)isExtraDefinition __attribute__((swift_name("init(isCreatedAtStart:override:isExtraDefinition:)"))) __attribute__((objc_designated_initializer));
-- (BOOL)component1 __attribute__((swift_name("component1()")));
-- (BOOL)component2 __attribute__((swift_name("component2()")));
-- (BOOL)component3 __attribute__((swift_name("component3()")));
-- (KmpcorelibKoin_coreOptions *)doCopyIsCreatedAtStart:(BOOL)isCreatedAtStart override:(BOOL)override isExtraDefinition:(BOOL)isExtraDefinition __attribute__((swift_name("doCopy(isCreatedAtStart:override:isExtraDefinition:)")));
-- (BOOL)isEqual:(id _Nullable)other __attribute__((swift_name("isEqual(_:)")));
-- (NSUInteger)hash __attribute__((swift_name("hash()")));
-- (NSString *)description __attribute__((swift_name("description()")));
-@property BOOL isCreatedAtStart __attribute__((swift_name("isCreatedAtStart")));
-@property BOOL isExtraDefinition __attribute__((swift_name("isExtraDefinition")));
-@property BOOL override __attribute__((swift_name("override")));
-@end;
-
-__attribute__((objc_subclassing_restricted))
-__attribute__((swift_name("Koin_coreScopeDSL")))
-@interface KmpcorelibKoin_coreScopeDSL : KmpcorelibBase
-- (instancetype)initWithScopeQualifier:(id<KmpcorelibKoin_coreQualifier>)scopeQualifier definitions:(KmpcorelibMutableSet<KmpcorelibKoin_coreBeanDefinition<id> *> *)definitions __attribute__((swift_name("init(scopeQualifier:definitions:)"))) __attribute__((objc_designated_initializer));
-- (KmpcorelibKoin_coreBeanDefinition<id> *)factoryQualifier:(id<KmpcorelibKoin_coreQualifier> _Nullable)qualifier override:(BOOL)override definition:(id _Nullable (^)(KmpcorelibKoin_coreScope *, KmpcorelibKoin_coreDefinitionParameters *))definition __attribute__((swift_name("factory(qualifier:override:definition:)")));
-- (KmpcorelibKoin_coreBeanDefinition<id> *)scopedQualifier:(id<KmpcorelibKoin_coreQualifier> _Nullable)qualifier override:(BOOL)override definition:(id _Nullable (^)(KmpcorelibKoin_coreScope *, KmpcorelibKoin_coreDefinitionParameters *))definition __attribute__((swift_name("scoped(qualifier:override:definition:)")));
-- (KmpcorelibKoin_coreBeanDefinition<id> *)singleQualifier:(id<KmpcorelibKoin_coreQualifier> _Nullable)qualifier override:(BOOL)override definition:(id _Nullable (^)(KmpcorelibKoin_coreScope *, KmpcorelibKoin_coreDefinitionParameters *))definition __attribute__((swift_name("single(qualifier:override:definition:)"))) __attribute__((unavailable("Can't use Single in a scope. Use Scoped instead")));
-@property (readonly) KmpcorelibMutableSet<KmpcorelibKoin_coreBeanDefinition<id> *> *definitions __attribute__((swift_name("definitions")));
-@property (readonly) id<KmpcorelibKoin_coreQualifier> scopeQualifier __attribute__((swift_name("scopeQualifier")));
-@end;
-
-__attribute__((objc_subclassing_restricted))
 __attribute__((swift_name("Koin_coreScopeDefinition")))
 @interface KmpcorelibKoin_coreScopeDefinition : KmpcorelibBase
 - (instancetype)initWithQualifier:(id<KmpcorelibKoin_coreQualifier>)qualifier isRoot:(BOOL)isRoot __attribute__((swift_name("init(qualifier:isRoot:)"))) __attribute__((objc_designated_initializer));
@@ -4144,6 +4569,42 @@ __attribute__((swift_name("Koin_coreLevel")))
 @property (class, readonly) KmpcorelibKoin_coreLevel *error __attribute__((swift_name("error")));
 @property (class, readonly) KmpcorelibKoin_coreLevel *none __attribute__((swift_name("none")));
 + (KmpcorelibKotlinArray<KmpcorelibKoin_coreLevel *> *)values __attribute__((swift_name("values()")));
+@end;
+
+__attribute__((objc_subclassing_restricted))
+__attribute__((swift_name("Koin_coreKind")))
+@interface KmpcorelibKoin_coreKind : KmpcorelibKotlinEnum<KmpcorelibKoin_coreKind *>
++ (instancetype)alloc __attribute__((unavailable));
++ (instancetype)allocWithZone:(struct _NSZone *)zone __attribute__((unavailable));
+- (instancetype)initWithName:(NSString *)name ordinal:(int32_t)ordinal __attribute__((swift_name("init(name:ordinal:)"))) __attribute__((objc_designated_initializer)) __attribute__((unavailable));
+@property (class, readonly) KmpcorelibKoin_coreKind *single __attribute__((swift_name("single")));
+@property (class, readonly) KmpcorelibKoin_coreKind *factory __attribute__((swift_name("factory")));
++ (KmpcorelibKotlinArray<KmpcorelibKoin_coreKind *> *)values __attribute__((swift_name("values()")));
+@end;
+
+__attribute__((objc_subclassing_restricted))
+__attribute__((swift_name("Koin_coreProperties")))
+@interface KmpcorelibKoin_coreProperties : KmpcorelibBase
+- (instancetype)initWithData:(KmpcorelibMutableDictionary<NSString *, id> *)data __attribute__((swift_name("init(data:)"))) __attribute__((objc_designated_initializer));
+- (KmpcorelibKoin_coreProperties *)doCopyData:(KmpcorelibMutableDictionary<NSString *, id> *)data __attribute__((swift_name("doCopy(data:)")));
+- (BOOL)isEqual:(id _Nullable)other __attribute__((swift_name("isEqual(_:)")));
+- (id _Nullable)getKey:(NSString *)key __attribute__((swift_name("get(key:)")));
+- (id _Nullable)getOrNullKey:(NSString *)key __attribute__((swift_name("getOrNull(key:)")));
+- (NSUInteger)hash __attribute__((swift_name("hash()")));
+- (void)setKey:(NSString *)key value:(id _Nullable)value __attribute__((swift_name("set(key:value:)")));
+- (NSString *)description __attribute__((swift_name("description()")));
+@end;
+
+__attribute__((objc_subclassing_restricted))
+__attribute__((swift_name("Koin_coreCallbacks")))
+@interface KmpcorelibKoin_coreCallbacks<T> : KmpcorelibBase
+- (instancetype)initWithOnClose:(void (^ _Nullable)(T _Nullable))onClose __attribute__((swift_name("init(onClose:)"))) __attribute__((objc_designated_initializer));
+- (void (^ _Nullable)(T _Nullable))component1 __attribute__((swift_name("component1()")));
+- (KmpcorelibKoin_coreCallbacks<T> *)doCopyOnClose:(void (^ _Nullable)(T _Nullable))onClose __attribute__((swift_name("doCopy(onClose:)")));
+- (BOOL)isEqual:(id _Nullable)other __attribute__((swift_name("isEqual(_:)")));
+- (NSUInteger)hash __attribute__((swift_name("hash()")));
+- (NSString *)description __attribute__((swift_name("description()")));
+@property (readonly) void (^ _Nullable onClose)(T _Nullable) __attribute__((swift_name("onClose")));
 @end;
 
 __attribute__((swift_name("Kotlinx_coroutines_coreSelectInstance")))
@@ -4564,6 +5025,49 @@ __attribute__((swift_name("Kotlinx_serialization_coreSerializersModuleCollector"
 - (void)polymorphicDefaultBaseClass:(id<KmpcorelibKotlinKClass>)baseClass defaultSerializerProvider:(id<KmpcorelibKotlinx_serialization_coreDeserializationStrategy> _Nullable (^)(NSString * _Nullable))defaultSerializerProvider __attribute__((swift_name("polymorphicDefault(baseClass:defaultSerializerProvider:)")));
 @end;
 
+__attribute__((swift_name("Kodein_memoryReadMemory")))
+@protocol KmpcorelibKodein_memoryReadMemory
+@required
+- (int8_t)getIndex:(int32_t)index __attribute__((swift_name("get(index:)")));
+- (int8_t)getByteIndex:(int32_t)index __attribute__((swift_name("getByte(index:)")));
+- (void)getBytesIndex:(int32_t)index dst:(KmpcorelibKotlinByteArray *)dst dstOffset:(int32_t)dstOffset length:(int32_t)length __attribute__((swift_name("getBytes(index:dst:dstOffset:length:)")));
+- (int32_t)getIntIndex:(int32_t)index __attribute__((swift_name("getInt(index:)")));
+- (int64_t)getLongIndex:(int32_t)index __attribute__((swift_name("getLong(index:)")));
+- (int16_t)getShortIndex:(int32_t)index __attribute__((swift_name("getShort(index:)")));
+- (id<KmpcorelibKodein_memoryReadMemory>)internalMemory __attribute__((swift_name("internalMemory()")));
+- (id<KmpcorelibKodein_memoryReadMemory>)sliceIndex:(int32_t)index length:(int32_t)length __attribute__((swift_name("slice(index:length:)")));
+@property (readonly, getter=size_) int32_t size __attribute__((swift_name("size")));
+@end;
+
+__attribute__((swift_name("Kodein_db_apiOptionsBatchWrite")))
+@protocol KmpcorelibKodein_db_apiOptionsBatchWrite <KmpcorelibKodein_db_apiOptions>
+@required
+@end;
+
+__attribute__((objc_subclassing_restricted))
+__attribute__((swift_name("Kodein_db_apiDBListenerBuilder")))
+@interface KmpcorelibKodein_db_apiDBListenerBuilder<M> : KmpcorelibBase
+- (instancetype)init __attribute__((swift_name("init()"))) __attribute__((objc_designated_initializer));
++ (instancetype)new __attribute__((availability(swift, unavailable, message="use object initializers instead")));
+- (id<KmpcorelibKodein_db_apiDBListener>)build __attribute__((swift_name("build()")));
+- (void)didDeleteBlock:(void (^)(KmpcorelibKodein_db_apiDBListenerBuilderDidDelete<M> *))block __attribute__((swift_name("didDelete(block:)")));
+- (void)didDeleteItBlock:(void (^)(KmpcorelibKodein_db_apiDBListenerBuilderDidDelete<M> *, M))block __attribute__((swift_name("didDeleteIt(block:)")));
+- (void)didPutBlock:(void (^)(KmpcorelibKodein_db_apiDBListenerBuilderDidPut<M> *, M))block __attribute__((swift_name("didPut(block:)")));
+- (void)willDeleteBlock:(void (^)(KmpcorelibKodein_db_apiDBListenerBuilderWillDelete<M> *))block __attribute__((swift_name("willDelete(block:)")));
+- (void)willDeleteItBlock:(void (^)(KmpcorelibKodein_db_apiDBListenerBuilderWillDelete<M> *, M))block __attribute__((swift_name("willDeleteIt(block:)")));
+- (void)willPutBlock:(void (^)(KmpcorelibKodein_db_apiDBListenerBuilderWillPut *, M))block __attribute__((swift_name("willPut(block:)")));
+@end;
+
+__attribute__((swift_name("Kodein_db_apiDBListener")))
+@protocol KmpcorelibKodein_db_apiDBListener
+@required
+- (void)didDeleteKey:(KmpcorelibKodein_db_apiKey<id> *)key model:(id _Nullable)model typeName:(id<KmpcorelibKodein_memoryReadMemory>)typeName options:(KmpcorelibKotlinArray<id<KmpcorelibKodein_db_apiOptionsDeletes>> *)options __attribute__((swift_name("didDelete(key:model:typeName:options:)")));
+- (void)didPutModel:(id)model key:(KmpcorelibKodein_db_apiKey<id> *)key typeName:(id<KmpcorelibKodein_memoryReadMemory>)typeName metadata:(id<KmpcorelibKodein_db_apiMetadata>)metadata size:(int32_t)size options:(KmpcorelibKotlinArray<id<KmpcorelibKodein_db_apiOptionsPuts>> *)options __attribute__((swift_name("didPut(model:key:typeName:metadata:size:options:)")));
+- (void)setSubscriptionSubscription:(id<KmpcorelibKodein_memoryCloseable>)subscription __attribute__((swift_name("setSubscription(subscription:)")));
+- (void)willDeleteKey:(KmpcorelibKodein_db_apiKey<id> *)key getModel:(id _Nullable (^)(void))getModel typeName:(id<KmpcorelibKodein_memoryReadMemory>)typeName options:(KmpcorelibKotlinArray<id<KmpcorelibKodein_db_apiOptionsDeletes>> *)options __attribute__((swift_name("willDelete(key:getModel:typeName:options:)")));
+- (void)willPutModel:(id)model typeName:(id<KmpcorelibKodein_memoryReadMemory>)typeName metadata:(id<KmpcorelibKodein_db_apiMetadata>)metadata options:(KmpcorelibKotlinArray<id<KmpcorelibKodein_db_apiOptionsPuts>> *)options __attribute__((swift_name("willPut(model:typeName:metadata:options:)")));
+@end;
+
 __attribute__((swift_name("KotlinByteIterator")))
 @interface KmpcorelibKotlinByteIterator : KmpcorelibBase <KmpcorelibKotlinIterator>
 - (instancetype)init __attribute__((swift_name("init()"))) __attribute__((objc_designated_initializer));
@@ -4584,42 +5088,6 @@ __attribute__((swift_name("BignumModularQuotientAndRemainder")))
 - (NSString *)description __attribute__((swift_name("description()")));
 @property (readonly) KmpcorelibBignumModularBigInteger *quotient __attribute__((swift_name("quotient")));
 @property (readonly) KmpcorelibBignumModularBigInteger *remainder __attribute__((swift_name("remainder")));
-@end;
-
-__attribute__((objc_subclassing_restricted))
-__attribute__((swift_name("Koin_coreKind")))
-@interface KmpcorelibKoin_coreKind : KmpcorelibKotlinEnum<KmpcorelibKoin_coreKind *>
-+ (instancetype)alloc __attribute__((unavailable));
-+ (instancetype)allocWithZone:(struct _NSZone *)zone __attribute__((unavailable));
-- (instancetype)initWithName:(NSString *)name ordinal:(int32_t)ordinal __attribute__((swift_name("init(name:ordinal:)"))) __attribute__((objc_designated_initializer)) __attribute__((unavailable));
-@property (class, readonly) KmpcorelibKoin_coreKind *single __attribute__((swift_name("single")));
-@property (class, readonly) KmpcorelibKoin_coreKind *factory __attribute__((swift_name("factory")));
-+ (KmpcorelibKotlinArray<KmpcorelibKoin_coreKind *> *)values __attribute__((swift_name("values()")));
-@end;
-
-__attribute__((objc_subclassing_restricted))
-__attribute__((swift_name("Koin_coreProperties")))
-@interface KmpcorelibKoin_coreProperties : KmpcorelibBase
-- (instancetype)initWithData:(KmpcorelibMutableDictionary<NSString *, id> *)data __attribute__((swift_name("init(data:)"))) __attribute__((objc_designated_initializer));
-- (KmpcorelibKoin_coreProperties *)doCopyData:(KmpcorelibMutableDictionary<NSString *, id> *)data __attribute__((swift_name("doCopy(data:)")));
-- (BOOL)isEqual:(id _Nullable)other __attribute__((swift_name("isEqual(_:)")));
-- (id _Nullable)getKey:(NSString *)key __attribute__((swift_name("get(key:)")));
-- (id _Nullable)getOrNullKey:(NSString *)key __attribute__((swift_name("getOrNull(key:)")));
-- (NSUInteger)hash __attribute__((swift_name("hash()")));
-- (void)setKey:(NSString *)key value:(id _Nullable)value __attribute__((swift_name("set(key:value:)")));
-- (NSString *)description __attribute__((swift_name("description()")));
-@end;
-
-__attribute__((objc_subclassing_restricted))
-__attribute__((swift_name("Koin_coreCallbacks")))
-@interface KmpcorelibKoin_coreCallbacks<T> : KmpcorelibBase
-- (instancetype)initWithOnClose:(void (^ _Nullable)(T _Nullable))onClose __attribute__((swift_name("init(onClose:)"))) __attribute__((objc_designated_initializer));
-- (void (^ _Nullable)(T _Nullable))component1 __attribute__((swift_name("component1()")));
-- (KmpcorelibKoin_coreCallbacks<T> *)doCopyOnClose:(void (^ _Nullable)(T _Nullable))onClose __attribute__((swift_name("doCopy(onClose:)")));
-- (BOOL)isEqual:(id _Nullable)other __attribute__((swift_name("isEqual(_:)")));
-- (NSUInteger)hash __attribute__((swift_name("hash()")));
-- (NSString *)description __attribute__((swift_name("description()")));
-@property (readonly) void (^ _Nullable onClose)(T _Nullable) __attribute__((swift_name("onClose")));
 @end;
 
 __attribute__((swift_name("Kotlinx_coroutines_coreDisposableHandle")))
@@ -4853,7 +5321,7 @@ __attribute__((swift_name("Ktor_ioChunkBuffer")))
 - (KmpcorelibKtor_ioChunkBuffer *)duplicate __attribute__((swift_name("duplicate()")));
 - (void)releasePool:(id<KmpcorelibKtor_ioObjectPool>)pool __attribute__((swift_name("release(pool:)")));
 - (void)reset __attribute__((swift_name("reset()")));
-@property (getter=next_) KmpcorelibKtor_ioChunkBuffer * _Nullable next __attribute__((swift_name("next")));
+@property (getter=next__) KmpcorelibKtor_ioChunkBuffer * _Nullable next __attribute__((swift_name("next")));
 @property (readonly) KmpcorelibKtor_ioChunkBuffer * _Nullable origin __attribute__((swift_name("origin")));
 @property (readonly) int32_t referenceCount __attribute__((swift_name("referenceCount")));
 @end;
@@ -4992,6 +5460,58 @@ __attribute__((swift_name("KotlinKType")))
 @property (readonly) BOOL isMarkedNullable __attribute__((swift_name("isMarkedNullable")));
 @end;
 
+__attribute__((objc_subclassing_restricted))
+__attribute__((swift_name("Kodein_db_apiDBListenerBuilderDidDelete")))
+@interface KmpcorelibKodein_db_apiDBListenerBuilderDidDelete<M> : KmpcorelibBase
+- (instancetype)initWithKey:(KmpcorelibKodein_db_apiKey<M> *)key typeName:(id<KmpcorelibKodein_memoryReadMemory>)typeName options:(KmpcorelibKotlinArray<id<KmpcorelibKodein_db_apiOptionsDeletes>> *)options subscription:(id<KmpcorelibKodein_memoryCloseable>)subscription __attribute__((swift_name("init(key:typeName:options:subscription:)"))) __attribute__((objc_designated_initializer));
+@property (readonly) KmpcorelibKodein_db_apiKey<M> *key __attribute__((swift_name("key")));
+@property (readonly) KmpcorelibKotlinArray<id<KmpcorelibKodein_db_apiOptionsDeletes>> *options __attribute__((swift_name("options")));
+@property (readonly) id<KmpcorelibKodein_memoryCloseable> subscription __attribute__((swift_name("subscription")));
+@property (readonly) id<KmpcorelibKodein_memoryReadMemory> typeName __attribute__((swift_name("typeName")));
+@end;
+
+__attribute__((objc_subclassing_restricted))
+__attribute__((swift_name("Kodein_db_apiDBListenerBuilderDidPut")))
+@interface KmpcorelibKodein_db_apiDBListenerBuilderDidPut<M> : KmpcorelibBase
+- (instancetype)initWithKey:(KmpcorelibKodein_db_apiKey<M> *)key typeName:(id<KmpcorelibKodein_memoryReadMemory>)typeName options:(KmpcorelibKotlinArray<id<KmpcorelibKodein_db_apiOptionsPuts>> *)options subscription:(id<KmpcorelibKodein_memoryCloseable>)subscription __attribute__((swift_name("init(key:typeName:options:subscription:)"))) __attribute__((objc_designated_initializer));
+@property (readonly) KmpcorelibKodein_db_apiKey<M> *key __attribute__((swift_name("key")));
+@property (readonly) KmpcorelibKotlinArray<id<KmpcorelibKodein_db_apiOptionsPuts>> *options __attribute__((swift_name("options")));
+@property (readonly) id<KmpcorelibKodein_memoryCloseable> subscription __attribute__((swift_name("subscription")));
+@property (readonly) id<KmpcorelibKodein_memoryReadMemory> typeName __attribute__((swift_name("typeName")));
+@end;
+
+__attribute__((objc_subclassing_restricted))
+__attribute__((swift_name("Kodein_db_apiDBListenerBuilderWillDelete")))
+@interface KmpcorelibKodein_db_apiDBListenerBuilderWillDelete<M> : KmpcorelibBase
+- (instancetype)initWithKey:(KmpcorelibKodein_db_apiKey<M> *)key typeName:(id<KmpcorelibKodein_memoryReadMemory>)typeName options:(KmpcorelibKotlinArray<id<KmpcorelibKodein_db_apiOptionsDeletes>> *)options subscription:(id<KmpcorelibKodein_memoryCloseable>)subscription __attribute__((swift_name("init(key:typeName:options:subscription:)"))) __attribute__((objc_designated_initializer));
+@property (readonly) KmpcorelibKodein_db_apiKey<M> *key __attribute__((swift_name("key")));
+@property (readonly) KmpcorelibKotlinArray<id<KmpcorelibKodein_db_apiOptionsDeletes>> *options __attribute__((swift_name("options")));
+@property (readonly) id<KmpcorelibKodein_memoryCloseable> subscription __attribute__((swift_name("subscription")));
+@property (readonly) id<KmpcorelibKodein_memoryReadMemory> typeName __attribute__((swift_name("typeName")));
+@end;
+
+__attribute__((objc_subclassing_restricted))
+__attribute__((swift_name("Kodein_db_apiDBListenerBuilderWillPut")))
+@interface KmpcorelibKodein_db_apiDBListenerBuilderWillPut : KmpcorelibBase
+- (instancetype)initWithTypeName:(id<KmpcorelibKodein_memoryReadMemory>)typeName options:(KmpcorelibKotlinArray<id<KmpcorelibKodein_db_apiOptionsPuts>> *)options subscription:(id<KmpcorelibKodein_memoryCloseable>)subscription __attribute__((swift_name("init(typeName:options:subscription:)"))) __attribute__((objc_designated_initializer));
+@property (readonly) KmpcorelibKotlinArray<id<KmpcorelibKodein_db_apiOptionsPuts>> *options __attribute__((swift_name("options")));
+@property (readonly) id<KmpcorelibKodein_memoryCloseable> subscription __attribute__((swift_name("subscription")));
+@property (readonly) id<KmpcorelibKodein_memoryReadMemory> typeName __attribute__((swift_name("typeName")));
+@end;
+
+__attribute__((swift_name("Kodein_db_apiHasMetadata")))
+@protocol KmpcorelibKodein_db_apiHasMetadata
+@required
+- (id<KmpcorelibKodein_db_apiMetadata>)getMetadataDb:(id<KmpcorelibKodein_db_apiModelDB>)db options:(KmpcorelibKotlinArray<id<KmpcorelibKodein_db_apiOptionsPuts>> *)options __attribute__((swift_name("getMetadata(db:options:)")));
+@end;
+
+__attribute__((swift_name("Kodein_db_apiMetadata")))
+@protocol KmpcorelibKodein_db_apiMetadata <KmpcorelibKodein_db_apiHasMetadata>
+@required
+- (NSDictionary<NSString *, id> *)indexes __attribute__((swift_name("indexes()")));
+@property (readonly) id id __attribute__((swift_name("id")));
+@end;
+
 __attribute__((swift_name("Kotlinx_coroutines_coreAtomicOp")))
 @interface KmpcorelibKotlinx_coroutines_coreAtomicOp<__contravariant T> : KmpcorelibKotlinx_coroutines_coreOpDescriptor
 - (instancetype)init __attribute__((swift_name("init()"))) __attribute__((objc_designated_initializer));
@@ -5024,7 +5544,7 @@ __attribute__((swift_name("Kotlinx_coroutines_coreLockFreeLinkedListNode")))
 - (KmpcorelibKotlinx_coroutines_coreLockFreeLinkedListNode * _Nullable)removeFirstOrNull __attribute__((swift_name("removeFirstOrNull()")));
 - (NSString *)description __attribute__((swift_name("description()")));
 @property (readonly) BOOL isRemoved __attribute__((swift_name("isRemoved")));
-@property (readonly, getter=next_) id _Nullable next __attribute__((swift_name("next")));
+@property (readonly, getter=next__) id _Nullable next __attribute__((swift_name("next")));
 @property (readonly) KmpcorelibKotlinx_coroutines_coreLockFreeLinkedListNode *nextNode __attribute__((swift_name("nextNode")));
 @property (readonly) KmpcorelibKotlinx_coroutines_coreLockFreeLinkedListNode *prevNode __attribute__((swift_name("prevNode")));
 @end;
@@ -5182,6 +5702,57 @@ __attribute__((swift_name("KotlinKTypeProjection")))
 @property (readonly) KmpcorelibKotlinKVariance * _Nullable variance __attribute__((swift_name("variance")));
 @end;
 
+__attribute__((swift_name("Kodein_db_apiValueMaker")))
+@protocol KmpcorelibKodein_db_apiValueMaker
+@required
+- (id<KmpcorelibKodein_db_apiValue>)valueOfValue:(id)value __attribute__((swift_name("valueOf(value:)")));
+- (id<KmpcorelibKodein_db_apiValue>)valueOfAllValues:(KmpcorelibKotlinArray<id> *)values __attribute__((swift_name("valueOfAll(values:)")));
+@end;
+
+__attribute__((swift_name("Kodein_db_apiModelWrite")))
+@protocol KmpcorelibKodein_db_apiModelWrite <KmpcorelibKodein_db_apiKeyMaker, KmpcorelibKodein_db_apiValueMaker>
+@required
+- (void)deleteType:(id<KmpcorelibKotlinKClass>)type key_:(KmpcorelibKodein_db_apiKey<id> *)key __attribute__((swift_name("delete(type:key_:)")));
+- (void)deleteType:(id<KmpcorelibKotlinKClass>)type key:(KmpcorelibKodein_db_apiKey<id> *)key options____:(KmpcorelibKotlinArray<id<KmpcorelibKodein_db_apiOptionsDeletes>> *)options __attribute__((swift_name("delete(type:key:options____:)")));
+- (KmpcorelibKodein_db_apiKeyAndSize<id> *)putModel_:(id)model __attribute__((swift_name("put(model_:)")));
+- (KmpcorelibKodein_db_apiKeyAndSize<id> *)putModel:(id)model options____:(KmpcorelibKotlinArray<id<KmpcorelibKodein_db_apiOptionsPuts>> *)options __attribute__((swift_name("put(model:options____:)")));
+- (int32_t)putKey:(KmpcorelibKodein_db_apiKey<id> *)key model_:(id)model __attribute__((swift_name("put(key:model_:)")));
+- (int32_t)putKey:(KmpcorelibKodein_db_apiKey<id> *)key model:(id)model options____:(KmpcorelibKotlinArray<id<KmpcorelibKodein_db_apiOptionsPuts>> *)options __attribute__((swift_name("put(key:model:options____:)")));
+@end;
+
+__attribute__((swift_name("Kodein_db_apiModelRead")))
+@protocol KmpcorelibKodein_db_apiModelRead <KmpcorelibKodein_db_apiKeyMaker, KmpcorelibKodein_db_apiValueMaker>
+@required
+- (id<KmpcorelibKodein_db_apiModelCursor>)findAllOptions:(KmpcorelibKotlinArray<id<KmpcorelibKodein_db_apiOptionsFind>> *)options __attribute__((swift_name("findAll(options:)")));
+- (id<KmpcorelibKodein_db_apiModelIndexCursor>)findAllByIndexType:(id<KmpcorelibKotlinKClass>)type index:(NSString *)index options:(KmpcorelibKotlinArray<id<KmpcorelibKodein_db_apiOptionsFind>> *)options __attribute__((swift_name("findAllByIndex(type:index:options:)")));
+- (id<KmpcorelibKodein_db_apiModelCursor>)findAllByTypeType:(id<KmpcorelibKotlinKClass>)type options:(KmpcorelibKotlinArray<id<KmpcorelibKodein_db_apiOptionsFind>> *)options __attribute__((swift_name("findAllByType(type:options:)")));
+- (id<KmpcorelibKodein_db_apiModelCursor>)findByIdType:(id<KmpcorelibKotlinKClass>)type id:(id)id isOpen:(BOOL)isOpen options:(KmpcorelibKotlinArray<id<KmpcorelibKodein_db_apiOptionsFind>> *)options __attribute__((swift_name("findById(type:id:isOpen:options:)")));
+- (id<KmpcorelibKodein_db_apiModelIndexCursor>)findByIndexType:(id<KmpcorelibKotlinKClass>)type index:(NSString *)index value:(id)value isOpen:(BOOL)isOpen options:(KmpcorelibKotlinArray<id<KmpcorelibKodein_db_apiOptionsFind>> *)options __attribute__((swift_name("findByIndex(type:index:value:isOpen:options:)")));
+- (id<KmpcorelibKodein_db_apiSized> _Nullable)getType:(id<KmpcorelibKotlinKClass>)type key:(KmpcorelibKodein_db_apiKey<id> *)key options_:(KmpcorelibKotlinArray<id<KmpcorelibKodein_db_apiOptionsGet>> *)options __attribute__((swift_name("get(type:key:options_:)")));
+- (NSSet<NSString *> *)getIndexesOfKey:(KmpcorelibKodein_db_apiKey<id> *)key __attribute__((swift_name("getIndexesOf(key:)")));
+@end;
+
+__attribute__((swift_name("Kodein_db_apiModelTypeMatcher")))
+@protocol KmpcorelibKodein_db_apiModelTypeMatcher
+@required
+- (int32_t)getTypeIdTypeName:(id<KmpcorelibKodein_memoryReadMemory>)typeName createIfNone:(BOOL)createIfNone __attribute__((swift_name("getTypeId(typeName:createIfNone:)")));
+- (id<KmpcorelibKodein_memoryReadMemory> _Nullable)getTypeNameTypeId:(int32_t)typeId __attribute__((swift_name("getTypeName(typeId:)")));
+@property (readonly) id<KmpcorelibKodein_db_apiTypeTable> typeTable __attribute__((swift_name("typeTable")));
+@end;
+
+__attribute__((swift_name("Kodein_db_apiModelDB")))
+@protocol KmpcorelibKodein_db_apiModelDB <KmpcorelibKodein_db_apiModelWrite, KmpcorelibKodein_db_apiModelRead, KmpcorelibKodein_db_apiModelTypeMatcher, KmpcorelibKodein_memoryCloseable>
+@required
+- (void)deleteType:(id<KmpcorelibKotlinKClass>)type key:(KmpcorelibKodein_db_apiKey<id> *)key options___:(KmpcorelibKotlinArray<id<KmpcorelibKodein_db_apiOptionsDirectDelete>> *)options __attribute__((swift_name("delete(type:key:options___:)")));
+- (id _Nullable)getExtensionKey:(id<KmpcorelibKodein_db_apiExtensionKey>)key __attribute__((swift_name("getExtension(key:)")));
+- (id<KmpcorelibKodein_db_apiModelBatch>)doNewBatchOptions:(KmpcorelibKotlinArray<id<KmpcorelibKodein_db_apiOptionsNewBatch>> *)options __attribute__((swift_name("doNewBatch(options:)")));
+- (id<KmpcorelibKodein_db_apiModelSnapshot>)doNewSnapshotOptions:(KmpcorelibKotlinArray<id<KmpcorelibKodein_db_apiOptionsNewSnapshot>> *)options __attribute__((swift_name("doNewSnapshot(options:)")));
+- (KmpcorelibKodein_db_apiKeyAndSize<id> *)putModel:(id)model options___:(KmpcorelibKotlinArray<id<KmpcorelibKodein_db_apiOptionsDirectPut>> *)options __attribute__((swift_name("put(model:options___:)")));
+- (int32_t)putKey:(KmpcorelibKodein_db_apiKey<id> *)key model:(id)model options___:(KmpcorelibKotlinArray<id<KmpcorelibKodein_db_apiOptionsDirectPut>> *)options __attribute__((swift_name("put(key:model:options___:)")));
+- (id<KmpcorelibKodein_memoryCloseable>)registerListener_:(id<KmpcorelibKodein_db_apiDBListener>)listener __attribute__((swift_name("register(listener_:)")));
+@property (readonly) id<KmpcorelibKodein_db_apiDataDB> data __attribute__((swift_name("data")));
+@end;
+
 __attribute__((swift_name("Kotlinx_coroutines_coreLockFreeLinkedListNodeAddLastDesc")))
 @interface KmpcorelibKotlinx_coroutines_coreLockFreeLinkedListNodeAddLastDesc<T> : KmpcorelibKotlinx_coroutines_coreLockFreeLinkedListNodeAbstractAtomicDesc
 - (instancetype)initWithQueue:(KmpcorelibKotlinx_coroutines_coreLockFreeLinkedListNode *)queue node:(T)node __attribute__((swift_name("init(queue:node:)"))) __attribute__((objc_designated_initializer));
@@ -5247,6 +5818,339 @@ __attribute__((swift_name("KotlinKVariance")))
 @property (class, readonly) KmpcorelibKotlinKVariance *in __attribute__((swift_name("in")));
 @property (class, readonly) KmpcorelibKotlinKVariance *out __attribute__((swift_name("out")));
 + (KmpcorelibKotlinArray<KmpcorelibKotlinKVariance *> *)values __attribute__((swift_name("values()")));
+@end;
+
+__attribute__((swift_name("Kodein_db_apiExtensionKey")))
+@protocol KmpcorelibKodein_db_apiExtensionKey
+@required
+@end;
+
+__attribute__((swift_name("Kodein_db_apiModelBatch")))
+@protocol KmpcorelibKodein_db_apiModelBatch <KmpcorelibKodein_db_apiModelWrite, KmpcorelibKodein_memoryCloseable>
+@required
+- (void)deleteType:(id<KmpcorelibKotlinKClass>)type key:(KmpcorelibKodein_db_apiKey<id> *)key options_____:(KmpcorelibKotlinArray<id<KmpcorelibKodein_db_apiOptionsBatchDelete>> *)options __attribute__((swift_name("delete(type:key:options_____:)")));
+- (KmpcorelibKodein_db_apiKeyAndSize<id> *)putModel:(id)model options_____:(KmpcorelibKotlinArray<id<KmpcorelibKodein_db_apiOptionsBatchPut>> *)options __attribute__((swift_name("put(model:options_____:)")));
+- (int32_t)putKey:(KmpcorelibKodein_db_apiKey<id> *)key model:(id)model options_____:(KmpcorelibKotlinArray<id<KmpcorelibKodein_db_apiOptionsBatchPut>> *)options __attribute__((swift_name("put(key:model:options_____:)")));
+- (void)writeAfterErrors:(KmpcorelibKodein_memoryMaybeThrowable *)afterErrors options:(KmpcorelibKotlinArray<id<KmpcorelibKodein_db_apiOptionsBatchWrite>> *)options __attribute__((swift_name("write(afterErrors:options:)")));
+@end;
+
+__attribute__((swift_name("Kodein_db_apiModelSnapshot")))
+@protocol KmpcorelibKodein_db_apiModelSnapshot <KmpcorelibKodein_db_apiModelRead, KmpcorelibKodein_memoryCloseable>
+@required
+@property (readonly) id<KmpcorelibKodein_db_apiDataSnapshot> data __attribute__((swift_name("data")));
+@end;
+
+__attribute__((objc_subclassing_restricted))
+__attribute__((swift_name("Kodein_db_apiKeyAndSize")))
+@interface KmpcorelibKodein_db_apiKeyAndSize<M> : KmpcorelibBase
+- (instancetype)initWithKey:(KmpcorelibKodein_db_apiKey<M> *)key size:(int32_t)size __attribute__((swift_name("init(key:size:)"))) __attribute__((objc_designated_initializer));
+- (KmpcorelibKodein_db_apiKey<M> *)component1 __attribute__((swift_name("component1()")));
+- (int32_t)component2 __attribute__((swift_name("component2()")));
+- (KmpcorelibKodein_db_apiKeyAndSize<M> *)doCopyKey:(KmpcorelibKodein_db_apiKey<M> *)key size:(int32_t)size __attribute__((swift_name("doCopy(key:size:)")));
+- (BOOL)isEqual:(id _Nullable)other __attribute__((swift_name("isEqual(_:)")));
+- (NSUInteger)hash __attribute__((swift_name("hash()")));
+- (NSString *)description __attribute__((swift_name("description()")));
+@property (readonly) KmpcorelibKodein_db_apiKey<M> *key __attribute__((swift_name("key")));
+@property (readonly) int32_t size __attribute__((swift_name("size")));
+@end;
+
+__attribute__((swift_name("Kodein_db_apiDataKeyMaker")))
+@protocol KmpcorelibKodein_db_apiDataKeyMaker
+@required
+- (int32_t)keyTypeKey:(id<KmpcorelibKodein_memoryReadMemory>)key __attribute__((swift_name("keyType(key:)")));
+- (id<KmpcorelibKodein_memoryReadMemory>)doNewKeyType:(int32_t)type id:(id<KmpcorelibKodein_db_apiValue>)id __attribute__((swift_name("doNewKey(type:id:)")));
+@end;
+
+__attribute__((swift_name("Kodein_db_apiDataWrite")))
+@protocol KmpcorelibKodein_db_apiDataWrite <KmpcorelibKodein_db_apiDataKeyMaker>
+@required
+- (void)deleteKey:(id<KmpcorelibKodein_memoryReadMemory>)key __attribute__((swift_name("delete(key:)")));
+- (void)deleteKey:(id<KmpcorelibKodein_memoryReadMemory>)key options_:(KmpcorelibKotlinArray<id<KmpcorelibKodein_db_apiOptionsDeletes>> *)options __attribute__((swift_name("delete(key:options_:)")));
+- (int32_t)putKey:(id<KmpcorelibKodein_memoryReadMemory>)key body:(id<KmpcorelibKodein_db_apiBody>)body indexes:(NSDictionary<NSString *, NSArray<KmpcorelibKotlinPair<id<KmpcorelibKodein_db_apiValue>, id<KmpcorelibKodein_db_apiBody>> *> *> *)indexes __attribute__((swift_name("put(key:body:indexes:)")));
+- (int32_t)putKey:(id<KmpcorelibKodein_memoryReadMemory>)key body:(id<KmpcorelibKodein_db_apiBody>)body indexes:(NSDictionary<NSString *, NSArray<KmpcorelibKotlinPair<id<KmpcorelibKodein_db_apiValue>, id<KmpcorelibKodein_db_apiBody>> *> *> *)indexes options_:(KmpcorelibKotlinArray<id<KmpcorelibKodein_db_apiOptionsPuts>> *)options __attribute__((swift_name("put(key:body:indexes:options_:)")));
+@end;
+
+__attribute__((swift_name("Kodein_db_apiDataRead")))
+@protocol KmpcorelibKodein_db_apiDataRead <KmpcorelibKodein_db_apiDataKeyMaker>
+@required
+- (id<KmpcorelibKodein_db_apiDataCursor>)findAllOptions:(KmpcorelibKotlinArray<id<KmpcorelibKodein_db_apiOptionsFind>> *)options __attribute__((swift_name("findAll(options:)")));
+- (id<KmpcorelibKodein_db_apiDataIndexCursor>)findAllByIndexType:(int32_t)type index:(NSString *)index options_:(KmpcorelibKotlinArray<id<KmpcorelibKodein_db_apiOptionsFind>> *)options __attribute__((swift_name("findAllByIndex(type:index:options_:)")));
+- (id<KmpcorelibKodein_db_apiDataCursor>)findAllByTypeType:(int32_t)type options_:(KmpcorelibKotlinArray<id<KmpcorelibKodein_db_apiOptionsFind>> *)options __attribute__((swift_name("findAllByType(type:options_:)")));
+- (id<KmpcorelibKodein_db_apiDataCursor>)findByIdType:(int32_t)type id:(id<KmpcorelibKodein_db_apiValue>)id isOpen:(BOOL)isOpen options_:(KmpcorelibKotlinArray<id<KmpcorelibKodein_db_apiOptionsFind>> *)options __attribute__((swift_name("findById(type:id:isOpen:options_:)")));
+- (id<KmpcorelibKodein_db_apiDataIndexCursor>)findByIndexType:(int32_t)type index:(NSString *)index value:(id<KmpcorelibKodein_db_apiValue>)value isOpen:(BOOL)isOpen options_:(KmpcorelibKotlinArray<id<KmpcorelibKodein_db_apiOptionsFind>> *)options __attribute__((swift_name("findByIndex(type:index:value:isOpen:options_:)")));
+- (id<KmpcorelibKodein_memoryReadAllocation> _Nullable)getKey:(id<KmpcorelibKodein_memoryReadMemory>)key options:(KmpcorelibKotlinArray<id<KmpcorelibKodein_db_apiOptionsGet>> *)options __attribute__((swift_name("get(key:options:)")));
+- (NSSet<NSString *> *)getIndexesOfKey_:(id<KmpcorelibKodein_memoryReadMemory>)key __attribute__((swift_name("getIndexesOf(key_:)")));
+@end;
+
+__attribute__((swift_name("Kodein_db_apiDataDB")))
+@protocol KmpcorelibKodein_db_apiDataDB <KmpcorelibKodein_db_apiDataWrite, KmpcorelibKodein_db_apiDataRead, KmpcorelibKodein_memoryCloseable>
+@required
+- (void)deleteKey:(id<KmpcorelibKodein_memoryReadMemory>)key options:(KmpcorelibKotlinArray<id<KmpcorelibKodein_db_apiOptionsDirectDelete>> *)options __attribute__((swift_name("delete(key:options:)")));
+- (id _Nullable)getExtensionKey_:(id<KmpcorelibKodein_db_apiExtensionKey>)key __attribute__((swift_name("getExtension(key_:)")));
+- (id<KmpcorelibKodein_db_apiDataBatch>)doNewBatchOptions:(KmpcorelibKotlinArray<id<KmpcorelibKodein_db_apiOptionsNewBatch>> *)options __attribute__((swift_name("doNewBatch(options:)")));
+- (id<KmpcorelibKodein_db_apiDataSnapshot>)doNewSnapshotOptions:(KmpcorelibKotlinArray<id<KmpcorelibKodein_db_apiOptionsNewSnapshot>> *)options __attribute__((swift_name("doNewSnapshot(options:)")));
+- (int32_t)putKey:(id<KmpcorelibKodein_memoryReadMemory>)key body:(id<KmpcorelibKodein_db_apiBody>)body indexes:(NSDictionary<NSString *, NSArray<KmpcorelibKotlinPair<id<KmpcorelibKodein_db_apiValue>, id<KmpcorelibKodein_db_apiBody>> *> *> *)indexes options:(KmpcorelibKotlinArray<id<KmpcorelibKodein_db_apiOptionsDirectPut>> *)options __attribute__((swift_name("put(key:body:indexes:options:)")));
+@property (readonly) id<KmpcorelibKodein_db_apiKeyValueDB> kv __attribute__((swift_name("kv")));
+@end;
+
+__attribute__((swift_name("Kodein_db_apiBody")))
+@protocol KmpcorelibKodein_db_apiBody
+@required
+- (void)writeIntoDst:(id<KmpcorelibKodein_memoryWriteable>)dst __attribute__((swift_name("writeInto(dst:)")));
+@end;
+
+__attribute__((swift_name("Kodein_db_apiValue")))
+@protocol KmpcorelibKodein_db_apiValue <KmpcorelibKodein_db_apiBody>
+@required
+@property (readonly, getter=size_) int32_t size __attribute__((swift_name("size")));
+@end;
+
+__attribute__((swift_name("Kodein_db_apiModelCursor")))
+@protocol KmpcorelibKodein_db_apiModelCursor <KmpcorelibKodein_db_apiBaseCursor>
+@required
+- (KmpcorelibKodein_db_apiKey<id> *)key_ __attribute__((swift_name("key()")));
+- (id<KmpcorelibKodein_db_apiSized>)modelOptions:(KmpcorelibKotlinArray<id<KmpcorelibKodein_db_apiOptionsGet>> *)options __attribute__((swift_name("model(options:)")));
+@end;
+
+__attribute__((swift_name("Kodein_db_apiModelIndexCursor")))
+@protocol KmpcorelibKodein_db_apiModelIndexCursor <KmpcorelibKodein_db_apiModelCursor>
+@required
+- (id<KmpcorelibKodein_memoryReadMemory> _Nullable)transientAssociatedData __attribute__((swift_name("transientAssociatedData()")));
+@end;
+
+__attribute__((swift_name("Kodein_db_apiSized")))
+@protocol KmpcorelibKodein_db_apiSized
+@required
+- (id _Nullable)component1 __attribute__((swift_name("component1()")));
+- (int32_t)component2_ __attribute__((swift_name("component2_()")));
+@property (readonly) id _Nullable model __attribute__((swift_name("model")));
+@property (readonly, getter=size_) int32_t size __attribute__((swift_name("size")));
+@end;
+
+__attribute__((swift_name("Kodein_db_apiOptionsOpen")))
+@protocol KmpcorelibKodein_db_apiOptionsOpen <KmpcorelibKodein_db_apiOptions>
+@required
+@end;
+
+__attribute__((swift_name("Kodein_db_apiTypeTable")))
+@protocol KmpcorelibKodein_db_apiTypeTable <KmpcorelibKodein_db_apiOptionsOpen>
+@required
+- (NSSet<id<KmpcorelibKotlinKClass>> *)getRegisteredClasses __attribute__((swift_name("getRegisteredClasses()")));
+- (id<KmpcorelibKotlinKClass> _Nullable)getRootOfType:(id<KmpcorelibKotlinKClass>)type __attribute__((swift_name("getRootOf(type:)")));
+- (id<KmpcorelibKotlinKClass> _Nullable)getTypeClassName:(id<KmpcorelibKodein_memoryReadMemory>)name __attribute__((swift_name("getTypeClass(name:)")));
+- (id<KmpcorelibKodein_memoryReadMemory>)getTypeNameType:(id<KmpcorelibKotlinKClass>)type __attribute__((swift_name("getTypeName(type:)")));
+@end;
+
+__attribute__((objc_subclassing_restricted))
+__attribute__((swift_name("Kodein_memoryMaybeThrowable")))
+@interface KmpcorelibKodein_memoryMaybeThrowable : KmpcorelibBase
+- (instancetype)init __attribute__((swift_name("init()"))) __attribute__((objc_designated_initializer));
++ (instancetype)new __attribute__((availability(swift, unavailable, message="use object initializers instead")));
+- (void)addEx:(KmpcorelibKotlinThrowable * _Nullable)ex __attribute__((swift_name("add(ex:)")));
+- (void)shoot __attribute__((swift_name("shoot()")));
+@property (readonly) KmpcorelibKotlinThrowable * _Nullable throwable __attribute__((swift_name("throwable")));
+@end;
+
+__attribute__((swift_name("Kodein_db_apiDataSnapshot")))
+@protocol KmpcorelibKodein_db_apiDataSnapshot <KmpcorelibKodein_db_apiDataRead, KmpcorelibKodein_memoryCloseable>
+@required
+@end;
+
+__attribute__((swift_name("Kodein_db_apiDataBatch")))
+@protocol KmpcorelibKodein_db_apiDataBatch <KmpcorelibKodein_db_apiDataWrite, KmpcorelibKodein_memoryCloseable>
+@required
+- (void)deleteKey:(id<KmpcorelibKodein_memoryReadMemory>)key options__:(KmpcorelibKotlinArray<id<KmpcorelibKodein_db_apiOptionsBatchDelete>> *)options __attribute__((swift_name("delete(key:options__:)")));
+- (int32_t)putKey:(id<KmpcorelibKodein_memoryReadMemory>)key body:(id<KmpcorelibKodein_db_apiBody>)body indexes:(NSDictionary<NSString *, NSArray<KmpcorelibKotlinPair<id<KmpcorelibKodein_db_apiValue>, id<KmpcorelibKodein_db_apiBody>> *> *> *)indexes options__:(KmpcorelibKotlinArray<id<KmpcorelibKodein_db_apiOptionsBatchPut>> *)options __attribute__((swift_name("put(key:body:indexes:options__:)")));
+- (void)writeAfterErrors:(KmpcorelibKodein_memoryMaybeThrowable *)afterErrors options:(KmpcorelibKotlinArray<id<KmpcorelibKodein_db_apiOptionsBatchWrite>> *)options __attribute__((swift_name("write(afterErrors:options:)")));
+@end;
+
+__attribute__((swift_name("Kodein_db_apiKeyValueRead")))
+@protocol KmpcorelibKodein_db_apiKeyValueRead
+@required
+- (id<KmpcorelibKodein_memoryAllocation> _Nullable)getKey:(id<KmpcorelibKodein_memoryReadMemory>)key options:(KmpcorelibKotlinArray<id<KmpcorelibKodein_db_apiOptionsGet>> *)options __attribute__((swift_name("get(key:options:)")));
+- (id<KmpcorelibKodein_db_apiKeyValueCursor>)doNewCursorOptions:(KmpcorelibKotlinArray<id<KmpcorelibKodein_db_apiOptionsFind>> *)options __attribute__((swift_name("doNewCursor(options:)")));
+@end;
+
+__attribute__((swift_name("Kodein_db_apiKeyValueWrite")))
+@protocol KmpcorelibKodein_db_apiKeyValueWrite
+@required
+- (void)deleteKey:(id<KmpcorelibKodein_memoryReadMemory>)key __attribute__((swift_name("delete(key:)")));
+- (void)deleteKey:(id<KmpcorelibKodein_memoryReadMemory>)key options_:(KmpcorelibKotlinArray<id<KmpcorelibKodein_db_apiOptionsDeletes>> *)options __attribute__((swift_name("delete(key:options_:)")));
+- (void)putKey:(id<KmpcorelibKodein_memoryReadMemory>)key value_:(id<KmpcorelibKodein_memoryReadMemory>)value __attribute__((swift_name("put(key:value_:)")));
+- (void)putKey:(id<KmpcorelibKodein_memoryReadMemory>)key value:(id<KmpcorelibKodein_memoryReadMemory>)value options_:(KmpcorelibKotlinArray<id<KmpcorelibKodein_db_apiOptionsPuts>> *)options __attribute__((swift_name("put(key:value:options_:)")));
+@end;
+
+__attribute__((swift_name("Kodein_db_apiKeyValueDB")))
+@protocol KmpcorelibKodein_db_apiKeyValueDB <KmpcorelibKodein_db_apiKeyValueRead, KmpcorelibKodein_db_apiKeyValueWrite, KmpcorelibKodein_memoryCloseable>
+@required
+- (void)deleteKey:(id<KmpcorelibKodein_memoryReadMemory>)key options:(KmpcorelibKotlinArray<id<KmpcorelibKodein_db_apiOptionsDirectDelete>> *)options __attribute__((swift_name("delete(key:options:)")));
+- (id<KmpcorelibKodein_db_apiKeyValueBatch>)doNewBatchOptions:(KmpcorelibKotlinArray<id<KmpcorelibKodein_db_apiOptionsNewBatch>> *)options __attribute__((swift_name("doNewBatch(options:)")));
+- (id<KmpcorelibKodein_db_apiKeyValueSnapshot>)doNewSnapshotOptions:(KmpcorelibKotlinArray<id<KmpcorelibKodein_db_apiOptionsNewSnapshot>> *)options __attribute__((swift_name("doNewSnapshot(options:)")));
+- (void)putKey:(id<KmpcorelibKodein_memoryReadMemory>)key value:(id<KmpcorelibKodein_memoryReadMemory>)value options:(KmpcorelibKotlinArray<id<KmpcorelibKodein_db_apiOptionsDirectPut>> *)options __attribute__((swift_name("put(key:value:options:)")));
+@property (readonly) id<KmpcorelibKodein_leveldb_apiLevelDB> ldb __attribute__((swift_name("ldb")));
+@property (readonly) NSString *path __attribute__((swift_name("path")));
+@end;
+
+__attribute__((swift_name("Kodein_db_apiDataCursor")))
+@protocol KmpcorelibKodein_db_apiDataCursor <KmpcorelibKodein_db_apiBaseCursor>
+@required
+- (id<KmpcorelibKodein_memoryReadMemory>)transientKey __attribute__((swift_name("transientKey()")));
+- (id<KmpcorelibKodein_memoryReadMemory>)transientValue __attribute__((swift_name("transientValue()")));
+@end;
+
+__attribute__((swift_name("Kodein_db_apiDataIndexCursor")))
+@protocol KmpcorelibKodein_db_apiDataIndexCursor <KmpcorelibKodein_db_apiDataCursor>
+@required
+- (id<KmpcorelibKodein_memoryReadMemory> _Nullable)transientAssociatedData __attribute__((swift_name("transientAssociatedData()")));
+@end;
+
+__attribute__((swift_name("Kodein_memoryReadAllocation")))
+@protocol KmpcorelibKodein_memoryReadAllocation <KmpcorelibKodein_memoryReadMemory, KmpcorelibKodein_memoryCloseable>
+@required
+@property (readonly) BOOL isClosed __attribute__((swift_name("isClosed")));
+@property (readonly) id<KmpcorelibKodein_memoryReadMemory> memory __attribute__((swift_name("memory")));
+@end;
+
+__attribute__((swift_name("Kodein_memoryWriteable")))
+@protocol KmpcorelibKodein_memoryWriteable
+@required
+- (void)flush __attribute__((swift_name("flush()")));
+- (void)requestCanWriteNeeded:(int32_t)needed __attribute__((swift_name("requestCanWrite(needed:)")));
+- (void)writeByteValue:(int8_t)value __attribute__((swift_name("writeByte(value:)")));
+- (void)writeBytesSrc:(KmpcorelibKotlinByteArray *)src srcOffset:(int32_t)srcOffset length:(int32_t)length __attribute__((swift_name("writeBytes(src:srcOffset:length:)")));
+- (void)writeBytesSrc:(id<KmpcorelibKodein_memoryReadMemory>)src __attribute__((swift_name("writeBytes(src:)")));
+- (void)writeBytesSrc:(id<KmpcorelibKodein_memoryReadable>)src length:(int32_t)length __attribute__((swift_name("writeBytes(src:length:)")));
+- (void)writeIntValue:(int32_t)value __attribute__((swift_name("writeInt(value:)")));
+- (void)writeLongValue:(int64_t)value __attribute__((swift_name("writeLong(value:)")));
+- (void)writeShortValue:(int16_t)value __attribute__((swift_name("writeShort(value:)")));
+@property (readonly) int32_t position __attribute__((swift_name("position")));
+@end;
+
+__attribute__((swift_name("Kodein_db_apiKeyValueBatch")))
+@protocol KmpcorelibKodein_db_apiKeyValueBatch <KmpcorelibKodein_db_apiKeyValueWrite, KmpcorelibKodein_memoryCloseable>
+@required
+- (void)appendSource:(id<KmpcorelibKodein_db_apiKeyValueBatch>)source __attribute__((swift_name("append(source:)")));
+- (void)clear __attribute__((swift_name("clear()")));
+- (void)deleteKey:(id<KmpcorelibKodein_memoryReadMemory>)key options__:(KmpcorelibKotlinArray<id<KmpcorelibKodein_db_apiOptionsBatchDelete>> *)options __attribute__((swift_name("delete(key:options__:)")));
+- (void)putKey:(id<KmpcorelibKodein_memoryReadMemory>)key value:(id<KmpcorelibKodein_memoryReadMemory>)value options__:(KmpcorelibKotlinArray<id<KmpcorelibKodein_db_apiOptionsBatchPut>> *)options __attribute__((swift_name("put(key:value:options__:)")));
+- (void)writeOptions:(KmpcorelibKotlinArray<id<KmpcorelibKodein_db_apiOptionsBatchWrite>> *)options __attribute__((swift_name("write(options:)")));
+@end;
+
+__attribute__((swift_name("Kodein_db_apiKeyValueSnapshot")))
+@protocol KmpcorelibKodein_db_apiKeyValueSnapshot <KmpcorelibKodein_db_apiKeyValueRead, KmpcorelibKodein_memoryCloseable>
+@required
+@end;
+
+__attribute__((swift_name("Kodein_leveldb_apiLevelDB")))
+@protocol KmpcorelibKodein_leveldb_apiLevelDB <KmpcorelibKodein_memoryCloseable>
+@required
+- (void)deleteKey:(id<KmpcorelibKodein_memoryReadMemory>)key options___:(KmpcorelibKodein_leveldb_apiLevelDBWriteOptions *)options __attribute__((swift_name("delete(key:options___:)")));
+- (id<KmpcorelibKodein_memoryAllocation> _Nullable)getKey:(id<KmpcorelibKodein_memoryReadMemory>)key options_:(KmpcorelibKodein_leveldb_apiLevelDBReadOptions *)options __attribute__((swift_name("get(key:options_:)")));
+- (id<KmpcorelibKodein_leveldb_apiLevelDBCursor>)doNewCursorOptions_:(KmpcorelibKodein_leveldb_apiLevelDBReadOptions *)options __attribute__((swift_name("doNewCursor(options_:)")));
+- (id<KmpcorelibKodein_leveldb_apiLevelDBSnapshot>)doNewSnapshot __attribute__((swift_name("doNewSnapshot()")));
+- (id<KmpcorelibKodein_leveldb_apiLevelDBWriteBatch>)doNewWriteBatch __attribute__((swift_name("doNewWriteBatch()")));
+- (void)putKey:(id<KmpcorelibKodein_memoryReadMemory>)key value:(id<KmpcorelibKodein_memoryReadMemory>)value options___:(KmpcorelibKodein_leveldb_apiLevelDBWriteOptions *)options __attribute__((swift_name("put(key:value:options___:)")));
+- (void)writeBatch:(id<KmpcorelibKodein_leveldb_apiLevelDBWriteBatch>)batch options:(KmpcorelibKodein_leveldb_apiLevelDBWriteOptions *)options __attribute__((swift_name("write(batch:options:)")));
+@property (readonly) NSString *path __attribute__((swift_name("path")));
+@end;
+
+__attribute__((swift_name("Kodein_memoryMemory")))
+@protocol KmpcorelibKodein_memoryMemory <KmpcorelibKodein_memoryReadMemory>
+@required
+- (void)fillByte:(int8_t)byte __attribute__((swift_name("fill(byte:)")));
+- (void)putByteIndex:(int32_t)index value:(int8_t)value __attribute__((swift_name("putByte(index:value:)")));
+- (void)putBytesIndex:(int32_t)index src:(KmpcorelibKotlinByteArray *)src srcOffset:(int32_t)srcOffset length:(int32_t)length __attribute__((swift_name("putBytes(index:src:srcOffset:length:)")));
+- (void)putBytesIndex:(int32_t)index src:(id<KmpcorelibKodein_memoryReadMemory>)src __attribute__((swift_name("putBytes(index:src:)")));
+- (void)putBytesIndex:(int32_t)index src:(id<KmpcorelibKodein_memoryReadable>)src length:(int32_t)length __attribute__((swift_name("putBytes(index:src:length:)")));
+- (void)putIntIndex:(int32_t)index value:(int32_t)value __attribute__((swift_name("putInt(index:value:)")));
+- (void)putLongIndex:(int32_t)index value:(int64_t)value __attribute__((swift_name("putLong(index:value:)")));
+- (void)putShortIndex:(int32_t)index value:(int16_t)value __attribute__((swift_name("putShort(index:value:)")));
+- (void)setIndex:(int32_t)index value:(int8_t)value __attribute__((swift_name("set(index:value:)")));
+@end;
+
+__attribute__((swift_name("Kodein_memoryAllocation")))
+@protocol KmpcorelibKodein_memoryAllocation <KmpcorelibKodein_memoryMemory, KmpcorelibKodein_memoryReadAllocation>
+@required
+@end;
+
+__attribute__((swift_name("Kodein_db_apiKeyValueCursor")))
+@protocol KmpcorelibKodein_db_apiKeyValueCursor <KmpcorelibKodein_db_apiBaseCursor>
+@required
+- (id<KmpcorelibKodein_memoryReadMemory>)transientKey __attribute__((swift_name("transientKey()")));
+- (id<KmpcorelibKodein_memoryReadMemory>)transientValue __attribute__((swift_name("transientValue()")));
+@end;
+
+__attribute__((swift_name("Kodein_memoryReadable")))
+@protocol KmpcorelibKodein_memoryReadable
+@required
+- (int8_t)readByte __attribute__((swift_name("readByte()")));
+- (void)readBytesDst:(KmpcorelibKotlinByteArray *)dst dstOffset:(int32_t)dstOffset length:(int32_t)length __attribute__((swift_name("readBytes(dst:dstOffset:length:)")));
+- (int32_t)readInt __attribute__((swift_name("readInt()")));
+- (int64_t)readLong __attribute__((swift_name("readLong()")));
+- (int16_t)readShort __attribute__((swift_name("readShort()")));
+- (void)requestCanReadNeeded:(int32_t)needed __attribute__((swift_name("requestCanRead(needed:)")));
+- (void)skipCount:(int32_t)count __attribute__((swift_name("skip(count:)")));
+- (int32_t)skipAtMostCount:(int32_t)count __attribute__((swift_name("skipAtMost(count:)")));
+- (int32_t)tryReadByte __attribute__((swift_name("tryReadByte()")));
+- (int32_t)tryReadBytesDst:(KmpcorelibKotlinByteArray *)dst dstOffset:(int32_t)dstOffset length:(int32_t)length __attribute__((swift_name("tryReadBytes(dst:dstOffset:length:)")));
+- (int32_t)tryReadBytesDst:(id<KmpcorelibKodein_memoryMemory>)dst __attribute__((swift_name("tryReadBytes(dst:)")));
+- (BOOL)valid __attribute__((swift_name("valid()")));
+@property (readonly) int32_t position __attribute__((swift_name("position")));
+@end;
+
+__attribute__((objc_subclassing_restricted))
+__attribute__((swift_name("Kodein_leveldb_apiLevelDBWriteOptions")))
+@interface KmpcorelibKodein_leveldb_apiLevelDBWriteOptions : KmpcorelibBase
+- (instancetype)initWithSync:(BOOL)sync __attribute__((swift_name("init(sync:)"))) __attribute__((objc_designated_initializer));
+- (BOOL)component1 __attribute__((swift_name("component1()")));
+- (KmpcorelibKodein_leveldb_apiLevelDBWriteOptions *)doCopySync:(BOOL)sync __attribute__((swift_name("doCopy(sync:)")));
+- (BOOL)isEqual:(id _Nullable)other __attribute__((swift_name("isEqual(_:)")));
+- (NSUInteger)hash __attribute__((swift_name("hash()")));
+- (NSString *)description __attribute__((swift_name("description()")));
+@property (readonly) BOOL sync __attribute__((swift_name("sync")));
+@end;
+
+__attribute__((objc_subclassing_restricted))
+__attribute__((swift_name("Kodein_leveldb_apiLevelDBReadOptions")))
+@interface KmpcorelibKodein_leveldb_apiLevelDBReadOptions : KmpcorelibBase
+- (instancetype)initWithVerifyChecksums:(BOOL)verifyChecksums fillCache:(BOOL)fillCache snapshot:(id<KmpcorelibKodein_leveldb_apiLevelDBSnapshot> _Nullable)snapshot __attribute__((swift_name("init(verifyChecksums:fillCache:snapshot:)"))) __attribute__((objc_designated_initializer));
+- (BOOL)component1 __attribute__((swift_name("component1()")));
+- (BOOL)component2 __attribute__((swift_name("component2()")));
+- (id<KmpcorelibKodein_leveldb_apiLevelDBSnapshot> _Nullable)component3 __attribute__((swift_name("component3()")));
+- (KmpcorelibKodein_leveldb_apiLevelDBReadOptions *)doCopyVerifyChecksums:(BOOL)verifyChecksums fillCache:(BOOL)fillCache snapshot:(id<KmpcorelibKodein_leveldb_apiLevelDBSnapshot> _Nullable)snapshot __attribute__((swift_name("doCopy(verifyChecksums:fillCache:snapshot:)")));
+- (BOOL)isEqual:(id _Nullable)other __attribute__((swift_name("isEqual(_:)")));
+- (NSUInteger)hash __attribute__((swift_name("hash()")));
+- (NSString *)description __attribute__((swift_name("description()")));
+@property (readonly) BOOL fillCache __attribute__((swift_name("fillCache")));
+@property (readonly) id<KmpcorelibKodein_leveldb_apiLevelDBSnapshot> _Nullable snapshot __attribute__((swift_name("snapshot")));
+@property (readonly) BOOL verifyChecksums __attribute__((swift_name("verifyChecksums")));
+@end;
+
+__attribute__((swift_name("Kodein_leveldb_apiLevelDBCursor")))
+@protocol KmpcorelibKodein_leveldb_apiLevelDBCursor <KmpcorelibKodein_memoryCloseable>
+@required
+- (BOOL)isValid __attribute__((swift_name("isValid()")));
+- (void)next_ __attribute__((swift_name("next_()")));
+- (void)prev __attribute__((swift_name("prev()")));
+- (void)seekToTarget:(id<KmpcorelibKodein_memoryReadMemory>)target __attribute__((swift_name("seekTo(target:)")));
+- (void)seekToFirst __attribute__((swift_name("seekToFirst()")));
+- (void)seekToLast __attribute__((swift_name("seekToLast()")));
+- (id<KmpcorelibKodein_memoryReadMemory>)transientKey __attribute__((swift_name("transientKey()")));
+- (id<KmpcorelibKodein_memoryReadMemory>)transientValue __attribute__((swift_name("transientValue()")));
+@end;
+
+__attribute__((swift_name("Kodein_leveldb_apiLevelDBSnapshot")))
+@protocol KmpcorelibKodein_leveldb_apiLevelDBSnapshot <KmpcorelibKodein_memoryCloseable>
+@required
+@end;
+
+__attribute__((swift_name("Kodein_leveldb_apiLevelDBWriteBatch")))
+@protocol KmpcorelibKodein_leveldb_apiLevelDBWriteBatch <KmpcorelibKodein_memoryCloseable>
+@required
+- (void)appendSource_:(id<KmpcorelibKodein_leveldb_apiLevelDBWriteBatch>)source __attribute__((swift_name("append(source_:)")));
+- (void)clear __attribute__((swift_name("clear()")));
+- (void)deleteKey:(id<KmpcorelibKodein_memoryReadMemory>)key __attribute__((swift_name("delete(key:)")));
+- (void)putKey:(id<KmpcorelibKodein_memoryReadMemory>)key value_:(id<KmpcorelibKodein_memoryReadMemory>)value __attribute__((swift_name("put(key:value_:)")));
 @end;
 
 #pragma clang diagnostic pop
